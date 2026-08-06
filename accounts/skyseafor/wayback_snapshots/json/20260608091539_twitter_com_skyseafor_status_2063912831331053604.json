@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063912808681762816"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063912831331053604",
+    "created_at": "2026-06-08T09:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063912831331053604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PQQWQCAOeE",
+          "end": 76,
+          "expanded_url": "https://x.com/skyseafor/status/2063912831331053604/photo/1",
+          "media_key": "3_2063912808681762816",
+          "start": 53,
+          "url": "https://t.co/PQQWQCAOeE"
+        },
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/skyseafor/status/2063866910400475447",
+          "start": 77,
+          "url": "https://t.co/PjNc3qIE7S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063912831331053604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063866910400475447",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是我刚考完试的英语考场 \n能看到图中信号屏蔽仪是开着的\n距离我只有7米 但是我依旧可以发送这一则贴文 https://t.co/PQQWQCAOeE https://t.co/PjNc3qIE7S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063912808681762816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKR9w7Da8AA_T2y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 793,
+        "media_key": "3_2063866908215255040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRUBKfaoAAM5uG.jpg",
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063912808681762816"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063912831331053604",
+        "created_at": "2026-06-08T09:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063912831331053604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQQWQCAOeE",
+              "end": 76,
+              "expanded_url": "https://x.com/skyseafor/status/2063912831331053604/photo/1",
+              "media_key": "3_2063912808681762816",
+              "start": 53,
+              "url": "https://t.co/PQQWQCAOeE"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/skyseafor/status/2063866910400475447",
+              "start": 77,
+              "url": "https://t.co/PjNc3qIE7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063912831331053604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063866910400475447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是我刚考完试的英语考场 \n能看到图中信号屏蔽仪是开着的\n距离我只有7米 但是我依旧可以发送这一则贴文 https://t.co/PQQWQCAOeE https://t.co/PjNc3qIE7S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063866908215255040"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063866910400475447",
+        "created_at": "2026-06-08T06:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063866910400475447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/isqyVndLvK",
+              "end": 128,
+              "expanded_url": "https://x.com/skyseafor/status/2063866910400475447/photo/1",
+              "media_key": "3_2063866908215255040",
+              "start": 105,
+              "url": "https://t.co/isqyVndLvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063866910400475447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4772,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毕竟参加过那么多次大型考试都被告知信号屏蔽仪会屏蔽手机信号 屏蔽仪就装在黑板上方 \n但其实某一次大考时我试过 那玩意儿就是摆设 在屏蔽仪底下网络流畅的飞起 看片都不卡顿 \n不敢想象高考作弊成本有多低 草台班子 https://t.co/isqyVndLvK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 130,
+          "like_count": 189,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 213
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

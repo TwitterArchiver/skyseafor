@@ -1,0 +1,29 @@
+{
+  "name": "sky ill",
+  "username": "@skyseafor",
+  "bio": "原号被封禁了@520illusion  / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： http://t.me/lanyuan",
+  "location": "宁波大学医学院",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 18,
+        "start": 6,
+        "username": "520illusion"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "t.me/lanyuan",
+        "end": 106,
+        "expanded_url": "http://t.me/lanyuan",
+        "start": 83,
+        "url": "https://t.co/9xZ5dEnDUf"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg"
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062846764894576640"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2062846780484866369",
+    "created_at": "2026-06-05T10:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062846780484866369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mhasGxeAxT",
+          "end": 44,
+          "expanded_url": "https://x.com/skyseafor/status/2062846780484866369/photo/1",
+          "media_key": "3_2062846764894576640",
+          "start": 21,
+          "url": "https://t.co/mhasGxeAxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062846780484866369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是永远的南京城 是永远的illusion https://t.co/mhasGxeAxT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1594,
+        "media_key": "3_2062846764894576640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC0NAea4AA42OP.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062846764894576640"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2062846780484866369",
+        "created_at": "2026-06-05T10:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062846780484866369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mhasGxeAxT",
+              "end": 44,
+              "expanded_url": "https://x.com/skyseafor/status/2062846780484866369/photo/1",
+              "media_key": "3_2062846764894576640",
+              "start": 21,
+              "url": "https://t.co/mhasGxeAxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062846780484866369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是永远的南京城 是永远的illusion https://t.co/mhasGxeAxT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 49,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 126
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

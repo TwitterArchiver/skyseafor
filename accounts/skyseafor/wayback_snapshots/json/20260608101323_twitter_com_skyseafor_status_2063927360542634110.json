@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063633684843163869",
+    "created_at": "2026-06-08T10:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063927360542634110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2007440582797602817",
+          "start": 0,
+          "username": "qiuxunyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063927360542634110",
+    "in_reply_to_user_id": "2007440582797602817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063924621934760101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuxunyu which？ 康宁？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063633684843163869",
+        "created_at": "2026-06-08T10:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063927360542634110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007440582797602817",
+              "start": 0,
+              "username": "qiuxunyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063927360542634110",
+        "in_reply_to_user_id": "2007440582797602817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063924621934760101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuxunyu which？ 康宁？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007440582797602817",
+        "conversation_id": "2063633684843163869",
+        "created_at": "2026-06-08T10:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063924621934760101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063924621934760101",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063924436827562366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 医院开的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 130,
+          "like_count": 198,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 221
+        },
+        "username": "skyseafor",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T13:15:22.000Z",
+        "description": "Mtx/高中在读？/政史地/不od不割手手//浙江省随机刷新/双性恋/出厂日期2010/1/11/ADHD/26年学考/同类互fo/泛兴趣爱好者",
+        "id": "2007440582797602817",
+        "location": "城河西路",
+        "name": "秋寻雨yu🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043227644230238208/HkkLmE32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 167,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 106
+        },
+        "username": "qiuxunyu",
+        "verified": false
+      }
+    ]
+  }
+}

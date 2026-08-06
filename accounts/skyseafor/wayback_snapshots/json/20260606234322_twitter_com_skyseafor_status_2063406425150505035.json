@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063406414861873152"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063406425150505035",
+    "created_at": "2026-06-06T23:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T00:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063406425150505035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qSxHQxQTZc",
+          "end": 42,
+          "expanded_url": "https://x.com/skyseafor/status/2063406425150505035/photo/1",
+          "media_key": "3_2063406414861873152",
+          "start": 19,
+          "url": "https://t.co/qSxHQxQTZc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063406425150505035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咱就带这玩意进考场 看会不会被赶出来 https://t.co/qSxHQxQTZc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063406414861873152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKKxM7EasAAXmB9.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063406414861873152"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063406425150505035",
+        "created_at": "2026-06-06T23:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063406425150505035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qSxHQxQTZc",
+              "end": 42,
+              "expanded_url": "https://x.com/skyseafor/status/2063406425150505035/photo/1",
+              "media_key": "3_2063406414861873152",
+              "start": 19,
+              "url": "https://t.co/qSxHQxQTZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063406425150505035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱就带这玩意进考场 看会不会被赶出来 https://t.co/qSxHQxQTZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 101,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 171
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

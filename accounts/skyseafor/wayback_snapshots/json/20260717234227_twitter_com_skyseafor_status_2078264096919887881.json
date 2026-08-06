@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078264094290001920"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2078264096919887881",
+    "created_at": "2026-07-17T23:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T00:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078264096919887881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dwMVjnZxpr",
+          "end": 40,
+          "expanded_url": "https://x.com/skyseafor/status/2078264096919887881/photo/1",
+          "media_key": "3_2078264094290001920",
+          "start": 17,
+          "url": "https://t.co/dwMVjnZxpr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078264096919887881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的外卖收货地址有的时候比较猎奇 https://t.co/dwMVjnZxpr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_2078264094290001920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd6LsGawAA6bbC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078264094290001920"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2078264096919887881",
+        "created_at": "2026-07-17T23:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T00:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078264096919887881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwMVjnZxpr",
+              "end": 40,
+              "expanded_url": "https://x.com/skyseafor/status/2078264096919887881/photo/1",
+              "media_key": "3_2078264094290001920",
+              "start": 17,
+              "url": "https://t.co/dwMVjnZxpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078264096919887881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的外卖收货地址有的时候比较猎奇 https://t.co/dwMVjnZxpr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 223,
+          "like_count": 1133,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 782
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063286195124396397",
+    "created_at": "2026-06-06T15:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063286195124396397"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063286195124396397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在我还没翻车之前 高中住宿时不敢🦌 一周放一天假  放假那天晚上至少🦌个三五发 这种日子终于要结束了 可我翻车之后再也没🦌过 \n\n这叫 欲买桂花同载酒，终不似，少年游"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063286195124396397",
+        "created_at": "2026-06-06T15:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063286195124396397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063286195124396397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我还没翻车之前 高中住宿时不敢🦌 一周放一天假  放假那天晚上至少🦌个三五发 这种日子终于要结束了 可我翻车之后再也没🦌过 \n\n这叫 欲买桂花同载酒，终不似，少年游"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 95,
+          "like_count": 119,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 163
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

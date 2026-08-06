@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2066401915748176094",
+    "created_at": "2026-06-15T07:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066426753887932871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066426753887932871",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066401915748176094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 猫猫姐姐我原号被封了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 634,
+        "media_key": "3_2066401908953358336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1VloJaoAAJpC0.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066401915748176094",
+        "created_at": "2026-06-15T07:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066426753887932871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066426753887932871",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066401915748176094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 猫猫姐姐我原号被封了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066401908953358336"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "conversation_id": "2066401915748176094",
+        "created_at": "2026-06-15T06:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066401915748176094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YBQhzJdqPj",
+              "end": 76,
+              "expanded_url": "https://x.com/ServalCandle/status/2066401915748176094/photo/1",
+              "media_key": "3_2066401908953358336",
+              "start": 53,
+              "url": "https://t.co/YBQhzJdqPj"
+            },
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/servalcandle/status/2065504627815252441",
+              "start": 77,
+              "url": "https://t.co/fiPHZ3BPkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066401915748176094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065504627815252441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看小红书看到这个_(:з」∠)_\n\n笑死（（（\n\n现在墙倒众人推，所有曾经支持鹅腿阿姨的人将被批判为男人 https://t.co/YBQhzJdqPj https://t.co/fiPHZ3BPkO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 176,
+          "like_count": 463,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 353
+        },
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "魔法少貓小笨\n頭像是自拍 / 身分證性別女\n封鎖必回\n大笨笨走四方 (*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🍥傻貓すみか🍧🍭",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063373902387281920/oihXfGP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33953,
+          "following_count": 423,
+          "like_count": 237198,
+          "listed_count": 107,
+          "media_count": 9265,
+          "tweet_count": 60268
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

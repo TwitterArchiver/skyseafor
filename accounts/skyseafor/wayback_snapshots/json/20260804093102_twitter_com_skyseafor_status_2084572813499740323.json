@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2084313199609028637",
+    "created_at": "2026-08-04T09:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084572813499740323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2007440582797602817",
+          "start": 0,
+          "username": "QiuRain2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084572813499740323",
+    "in_reply_to_user_id": "2007440582797602817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084362892242252183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuRain2024 。。。。。。。这是卧室不是银行金库"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2084362887372693504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0lAKzbYAAgrhX.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2084313199609028637",
+        "created_at": "2026-08-04T09:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084572813499740323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2007440582797602817",
+              "start": 0,
+              "username": "QiuRain2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084572813499740323",
+        "in_reply_to_user_id": "2007440582797602817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084362892242252183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuRain2024 。。。。。。。这是卧室不是银行金库"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084362887372693504"
+          ]
+        },
+        "author_id": "2007440582797602817",
+        "conversation_id": "2084313199609028637",
+        "created_at": "2026-08-03T19:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084362892242252183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p6oAGZ1HG5",
+              "end": 39,
+              "expanded_url": "https://x.com/QiuRain2024/status/2084362892242252183/photo/1",
+              "media_key": "3_2084362887372693504",
+              "start": 16,
+              "url": "https://t.co/p6oAGZ1HG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084362892242252183",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084313199609028637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 礼貌投稿 https://t.co/p6oAGZ1HG5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 222,
+          "like_count": 1410,
+          "listed_count": 2,
+          "media_count": 427,
+          "tweet_count": 968
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T13:15:22.000Z",
+        "description": "mtf友跨/高中在读？/文学家/不o💊不🔪手手/天残自恨党/incel/177/65/出厂日期2010/1/11/ADHD/氯雷重度依赖/26年学考/同类互fo/产地：浙A/现居浙B/心有半亩花田，藏于世俗人间。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/QiuRain2024",
+                "end": 23,
+                "expanded_url": "http://t.me/QiuRain2024",
+                "start": 0,
+                "url": "https://t.co/S6xbuTQqU0"
+              }
+            ]
+          }
+        },
+        "id": "2007440582797602817",
+        "location": "中山东路",
+        "name": "秋雨yu🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043227644230238208/HkkLmE32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 236,
+          "like_count": 575,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/S6xbuTQqU0",
+        "username": "QiuRain2024",
+        "verified": false
+      }
+    ]
+  }
+}

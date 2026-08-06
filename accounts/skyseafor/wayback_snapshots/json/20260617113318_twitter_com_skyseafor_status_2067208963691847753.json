@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2067208963691847753",
+    "created_at": "2026-06-17T11:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067208963691847753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Li665508Li/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Li665508Li/status/2067081828658491449",
+          "start": 11,
+          "url": "https://t.co/wTOBsZd7js"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067208963691847753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067081828658491449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实城市出来的也一样 https://t.co/wTOBsZd7js"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2067208963691847753",
+        "created_at": "2026-06-17T11:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067208963691847753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Li665508Li/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Li665508Li/status/2067081828658491449",
+              "start": 11,
+              "url": "https://t.co/wTOBsZd7js"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067208963691847753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067081828658491449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实城市出来的也一样 https://t.co/wTOBsZd7js"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865705903640698881",
+        "conversation_id": "2067081828658491449",
+        "created_at": "2026-06-17T03:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:01:38.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067080199771189681",
+          "2067081325618856130",
+          "2067081828658491449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067081828658491449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 26653,
+          "like_count": 115,
+          "quote_count": 1,
+          "reply_count": 85,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "农村出来的且小有成就的人\n\n几乎都是做灰黑产或者是炒币的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 178,
+          "like_count": 512,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 391
+        },
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-08T10:32:18.000Z",
+        "description": "美股｜crypto｜X增长陪跑｜视频号｜公众号｜社群\n\n视频号和增长      +Yuvi-03",
+        "id": "1865705903640698881",
+        "name": "Yuvi",
+        "pinned_tweet_id": "2063127937927532956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036027607808905217/RqaWpvw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8319,
+          "following_count": 263,
+          "like_count": 5968,
+          "listed_count": 31,
+          "media_count": 460,
+          "tweet_count": 7120
+        },
+        "username": "Li665508Li",
+        "verified": true
+      }
+    ]
+  }
+}

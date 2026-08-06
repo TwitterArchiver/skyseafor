@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064630657821888512"
+      ],
+      "media_source_tweet_id": [
+        "2064630711064404017"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2064643463728247199",
+    "created_at": "2026-06-10T09:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064643463728247199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uJrTHukHvP",
+          "end": 66,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2064630711064404017/photo/1",
+          "media_key": "3_2064630657821888512",
+          "start": 43,
+          "url": "https://t.co/uJrTHukHvP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064643463728247199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064630711064404017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: 我简单讲述了我的中学规定\n日本网友却说它是监狱 https://t.co/uJrTHukHvP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1969,
+        "media_key": "3_2064630657821888512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcKpPfa0AA4Ly8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064630657821888512"
+          ],
+          "media_source_tweet_id": [
+            "2064630711064404017"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2064643463728247199",
+        "created_at": "2026-06-10T09:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064643463728247199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1622066090074607616",
+              "start": 3,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJrTHukHvP",
+              "end": 66,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2064630711064404017/photo/1",
+              "media_key": "3_2064630657821888512",
+              "start": 43,
+              "url": "https://t.co/uJrTHukHvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064643463728247199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064630711064404017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofujivy: 我简单讲述了我的中学规定\n日本网友却说它是监狱 https://t.co/uJrTHukHvP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064630657821888512"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2064630711064404017",
+        "created_at": "2026-06-10T08:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064630711064404017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJrTHukHvP",
+              "end": 47,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2064630711064404017/photo/1",
+              "media_key": "3_2064630657821888512",
+              "start": 24,
+              "url": "https://t.co/uJrTHukHvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064630711064404017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2590,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我简单讲述了我的中学规定\n日本网友却说它是监狱 https://t.co/uJrTHukHvP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064231325813686505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 134,
+          "like_count": 259,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 248
+        },
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2064601476480356772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11828,
+          "following_count": 4348,
+          "like_count": 48740,
+          "listed_count": 37,
+          "media_count": 2729,
+          "tweet_count": 15719
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

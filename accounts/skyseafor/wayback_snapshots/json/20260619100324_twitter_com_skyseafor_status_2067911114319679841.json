@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2067655338778910828",
+    "created_at": "2026-06-19T10:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067911114319679841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067911114319679841",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067910882521436524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 我后来都在安二和中科大附属开了\n虽然量少但是医生不会那么傻逼，人也少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2067655338778910828",
+        "created_at": "2026-06-19T10:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067911114319679841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067911114319679841",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067910882521436524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 我后来都在安二和中科大附属开了\n虽然量少但是医生不会那么傻逼，人也少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2067655338778910828",
+        "created_at": "2026-06-19T10:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067910882521436524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067910882521436524",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067910688375501113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 可以去挂精神科普通门诊别挂专家号 普通门诊开药好开一点的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 182,
+          "like_count": 555,
+          "listed_count": 3,
+          "media_count": 198,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "wish you were here｜討厭白天｜雌小鬼❤️@D_D_ovo_｜cutie🌻：@saksamalah2nd｜v的媽媽們@misakinae8964 @rinko_zero8964｜歡迎視奸｜討厭自以為是的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "D_D_ovo_"
+              },
+              {
+                "end": 60,
+                "start": 46,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "树叶 海边 你的肩膀",
+        "name": "胃口呕呲呲呲呲！！",
+        "pinned_tweet_id": "2065030827835289833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052293655466323968/tRrr7IFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4622,
+          "following_count": 401,
+          "like_count": 24752,
+          "listed_count": 19,
+          "media_count": 1382,
+          "tweet_count": 17501
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

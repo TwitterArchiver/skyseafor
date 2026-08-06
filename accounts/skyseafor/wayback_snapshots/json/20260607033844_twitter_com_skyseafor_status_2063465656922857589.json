@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063465646474866689"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063465656922857589",
+    "created_at": "2026-06-07T03:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063465656922857589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YTduHpWEoX",
+          "end": 122,
+          "expanded_url": "https://x.com/skyseafor/status/2063465656922857589/photo/1",
+          "media_key": "3_2063465646474866689",
+          "start": 99,
+          "url": "https://t.co/YTduHpWEoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063465656922857589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和往年的考题风格完全不一致 以前所有的语文考卷都是以爱国为核心，从头到尾表达爱国就能拿高分 需要有良好的政治基础 \n\n而这次有关爱国的内容，分值占比竟然连20%都不到  我准备大方向错了，有点遗憾 https://t.co/YTduHpWEoX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2063465646474866689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLnEqBbMAENyej.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063465646474866689"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063465656922857589",
+        "created_at": "2026-06-07T03:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063465656922857589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YTduHpWEoX",
+              "end": 122,
+              "expanded_url": "https://x.com/skyseafor/status/2063465656922857589/photo/1",
+              "media_key": "3_2063465646474866689",
+              "start": 99,
+              "url": "https://t.co/YTduHpWEoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063465656922857589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和往年的考题风格完全不一致 以前所有的语文考卷都是以爱国为核心，从头到尾表达爱国就能拿高分 需要有良好的政治基础 \n\n而这次有关爱国的内容，分值占比竟然连20%都不到  我准备大方向错了，有点遗憾 https://t.co/YTduHpWEoX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 102,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 173
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063048321871286272"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1631721404969230349",
+          "name": "GooglePay"
+        }
+      }
+    ],
+    "conversation_id": "2063048331644080370",
+    "created_at": "2026-06-06T00:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T01:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063048331644080370"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NKlVWHUvwk",
+          "end": 185,
+          "expanded_url": "https://x.com/skyseafor/status/2063048331644080370/photo/1",
+          "media_key": "3_2063048321871286272",
+          "start": 162,
+          "url": "https://t.co/NKlVWHUvwk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063048331644080370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近大家对u卡热度挺高的嘛 我的u卡是两年前创的 bitget交易所的 不是bitget wallet \n\n全场景通用 包括 zfbvx Googlepay applypay 海外订阅 充值\n\n但是很早就关闭开卡渠道了 当时开卡条件是在存30000美金 并且只支持护照kyc 这张卡我至少刷了20万出来 基本都是支付宝刷的 https://t.co/NKlVWHUvwk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1041,
+        "media_key": "3_2063048321871286272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFrhKuakAAMtgJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063048321871286272"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1631721404969230349",
+              "name": "GooglePay"
+            }
+          }
+        ],
+        "conversation_id": "2063048331644080370",
+        "created_at": "2026-06-06T00:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063048331644080370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKlVWHUvwk",
+              "end": 185,
+              "expanded_url": "https://x.com/skyseafor/status/2063048331644080370/photo/1",
+              "media_key": "3_2063048321871286272",
+              "start": 162,
+              "url": "https://t.co/NKlVWHUvwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063048331644080370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近大家对u卡热度挺高的嘛 我的u卡是两年前创的 bitget交易所的 不是bitget wallet \n\n全场景通用 包括 zfbvx Googlepay applypay 海外订阅 充值\n\n但是很早就关闭开卡渠道了 当时开卡条件是在存30000美金 并且只支持护照kyc 这张卡我至少刷了20万出来 基本都是支付宝刷的 https://t.co/NKlVWHUvwk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 64,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 133
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

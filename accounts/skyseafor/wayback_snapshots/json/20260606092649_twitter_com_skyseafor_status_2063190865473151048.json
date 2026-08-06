@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063190853901017088",
+        "3_2063190853900984320"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063190865473151048",
+    "created_at": "2026-06-06T09:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063190865473151048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JusS3H1WrQ",
+          "end": 68,
+          "expanded_url": "https://x.com/skyseafor/status/2063190865473151048/photo/1",
+          "media_key": "3_2063190853901017088",
+          "start": 45,
+          "url": "https://t.co/JusS3H1WrQ"
+        },
+        {
+          "display_url": "pic.x.com/JusS3H1WrQ",
+          "end": 68,
+          "expanded_url": "https://x.com/skyseafor/status/2063190865473151048/photo/1",
+          "media_key": "3_2063190853900984320",
+          "start": 45,
+          "url": "https://t.co/JusS3H1WrQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063190865473151048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高考倒计时15h 女高体验卡即将过期 去宁波最好的商场稍微消费一下 和自己的青春做个告别 https://t.co/JusS3H1WrQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063190853901017088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHtJn6a4AA7oBN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063190853900984320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHtJn6aYAACOqi.jpg",
+        "width": 1485
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063190853901017088",
+            "3_2063190853900984320"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063190865473151048",
+        "created_at": "2026-06-06T09:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063190865473151048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JusS3H1WrQ",
+              "end": 68,
+              "expanded_url": "https://x.com/skyseafor/status/2063190865473151048/photo/1",
+              "media_key": "3_2063190853901017088",
+              "start": 45,
+              "url": "https://t.co/JusS3H1WrQ"
+            },
+            {
+              "display_url": "pic.x.com/JusS3H1WrQ",
+              "end": 68,
+              "expanded_url": "https://x.com/skyseafor/status/2063190865473151048/photo/1",
+              "media_key": "3_2063190853900984320",
+              "start": 45,
+              "url": "https://t.co/JusS3H1WrQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063190865473151048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考倒计时15h 女高体验卡即将过期 去宁波最好的商场稍微消费一下 和自己的青春做个告别 https://t.co/JusS3H1WrQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 80,
+          "like_count": 99,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 151
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

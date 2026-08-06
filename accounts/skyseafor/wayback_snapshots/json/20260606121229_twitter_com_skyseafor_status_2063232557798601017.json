@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063190865473151048",
+    "created_at": "2026-06-06T12:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063232557798601017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2007440582797602817",
+          "start": 0,
+          "username": "qiuxunyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063232557798601017",
+    "in_reply_to_user_id": "2007440582797602817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063228885123428406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuxunyu 鄞州中学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063190865473151048",
+        "created_at": "2026-06-06T12:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063232557798601017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007440582797602817",
+              "start": 0,
+              "username": "qiuxunyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063232557798601017",
+        "in_reply_to_user_id": "2007440582797602817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063228885123428406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuxunyu 鄞州中学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007440582797602817",
+        "conversation_id": "2063190865473151048",
+        "created_at": "2026-06-06T11:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063228885123428406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063228885123428406",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063190865473151048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 什么考场哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 89,
+          "like_count": 108,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 157
+        },
+        "username": "skyseafor",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T13:15:22.000Z",
+        "description": "Mtx/高中在读？/政史地/不od不割手手//浙江省随机刷新/双性恋/出厂日期2010/1/11/ADHD/26年学考/同类互fo/泛兴趣爱好者",
+        "id": "2007440582797602817",
+        "location": "实验基地",
+        "name": "秋寻雨yu🍣🍡🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043227644230238208/HkkLmE32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 156,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 84
+        },
+        "username": "qiuxunyu",
+        "verified": false
+      }
+    ]
+  }
+}

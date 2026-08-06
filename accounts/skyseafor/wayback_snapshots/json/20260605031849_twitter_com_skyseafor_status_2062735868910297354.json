@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062735866938937344"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2062735868910297354",
+    "created_at": "2026-06-05T03:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062735868910297354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oucF3u4uTa",
+          "end": 30,
+          "expanded_url": "https://x.com/skyseafor/status/2062735868910297354/photo/1",
+          "media_key": "3_2062735866938937344",
+          "start": 7,
+          "url": "https://t.co/oucF3u4uTa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062735868910297354",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好兄弟别跑！ https://t.co/oucF3u4uTa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_2062735866938937344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBPV5ZaUAAT9xx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062735866938937344"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2062735868910297354",
+        "created_at": "2026-06-05T03:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062735868910297354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oucF3u4uTa",
+              "end": 30,
+              "expanded_url": "https://x.com/skyseafor/status/2062735868910297354/photo/1",
+              "media_key": "3_2062735866938937344",
+              "start": 7,
+              "url": "https://t.co/oucF3u4uTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062735868910297354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好兄弟别跑！ https://t.co/oucF3u4uTa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 44,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 122
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

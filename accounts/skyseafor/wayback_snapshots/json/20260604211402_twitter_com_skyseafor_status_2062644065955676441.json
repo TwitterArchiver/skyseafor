@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062644063703289856"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062644065955676441",
+    "created_at": "2026-06-04T21:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T22:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062644065955676441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ofSNq7rBZm",
+          "end": 41,
+          "expanded_url": "https://x.com/skyseafor/status/2062644065955676441/photo/1",
+          "media_key": "3_2062644063703289856",
+          "start": 18,
+          "url": "https://t.co/ofSNq7rBZm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062644065955676441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的小红书私聊都是这种...... https://t.co/ofSNq7rBZm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1142,
+        "media_key": "3_2062644063703289856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_72PsaUAAqbUg.jpg",
+        "width": 755
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062644063703289856"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062644065955676441",
+        "created_at": "2026-06-04T21:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062644065955676441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ofSNq7rBZm",
+              "end": 41,
+              "expanded_url": "https://x.com/skyseafor/status/2062644065955676441/photo/1",
+              "media_key": "3_2062644063703289856",
+              "start": 18,
+              "url": "https://t.co/ofSNq7rBZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062644065955676441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的小红书私聊都是这种...... https://t.co/ofSNq7rBZm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 43,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 119
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

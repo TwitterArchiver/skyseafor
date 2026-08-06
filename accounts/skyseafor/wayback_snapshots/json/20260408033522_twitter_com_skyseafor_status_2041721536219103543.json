@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041721526853185536"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2041721536219103543",
+    "created_at": "2026-04-08T03:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T04:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041721536219103543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2nWD01ZNo4",
+          "end": 32,
+          "expanded_url": "https://x.com/skyseafor/status/2041721536219103543/photo/1",
+          "media_key": "3_2041721526853185536",
+          "start": 9,
+          "url": "https://t.co/2nWD01ZNo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041721536219103543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和妈妈吃个中饭~ https://t.co/2nWD01ZNo4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1755,
+        "media_key": "3_2041721526853185536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWm6UJaMAA80zA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041721526853185536"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041721536219103543",
+        "created_at": "2026-04-08T03:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041721536219103543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nWD01ZNo4",
+              "end": 32,
+              "expanded_url": "https://x.com/skyseafor/status/2041721536219103543/photo/1",
+              "media_key": "3_2041721526853185536",
+              "start": 9,
+              "url": "https://t.co/2nWD01ZNo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041721536219103543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和妈妈吃个中饭~ https://t.co/2nWD01ZNo4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "以后拿对象的号发日常吧 原号就不发日常生活了",
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106268956667905/U0s-O2-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 3,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074086856602554368"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2074086868434710909",
+    "created_at": "2026-07-06T11:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074086868434710909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 80,
+          "id": "1685499489493323776",
+          "start": 69,
+          "username": "GuiMengNya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m1nkTV0hlw",
+          "end": 104,
+          "expanded_url": "https://x.com/skyseafor/status/2074086868434710909/photo/1",
+          "media_key": "3_2074086856602554368",
+          "start": 81,
+          "url": "https://t.co/m1nkTV0hlw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074086868434710909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们共用一条轨道  却被站台分割\n秒速五厘米的记忆涌上心头 \n\n希望每一次的告别都是为了更好的久别重逢  再见南京南  再遇南京城  \n\n@GuiMengNya https://t.co/m1nkTV0hlw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074086856602554368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMijAdEaEAAy9V8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074086856602554368"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2074086868434710909",
+        "created_at": "2026-07-06T11:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074086868434710909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 80,
+              "id": "1685499489493323776",
+              "start": 69,
+              "username": "GuiMengNya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1nkTV0hlw",
+              "end": 104,
+              "expanded_url": "https://x.com/skyseafor/status/2074086868434710909/photo/1",
+              "media_key": "3_2074086856602554368",
+              "start": 81,
+              "url": "https://t.co/m1nkTV0hlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074086868434710909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们共用一条轨道  却被站台分割\n秒速五厘米的记忆涌上心头 \n\n希望每一次的告别都是为了更好的久别重逢  再见南京南  再遇南京城  \n\n@GuiMengNya https://t.co/m1nkTV0hlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2212,
+          "following_count": 212,
+          "like_count": 977,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 649
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/故里蓝鸢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10526,
+          "following_count": 692,
+          "like_count": 11498,
+          "listed_count": 29,
+          "media_count": 2447,
+          "tweet_count": 4845
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

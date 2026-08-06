@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062645726161846272"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2062645728967880870",
+    "created_at": "2026-06-04T21:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T22:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062645728967880870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/60SOebgS6a",
+          "end": 73,
+          "expanded_url": "https://x.com/skyseafor/status/2062645728967880870/photo/1",
+          "media_key": "3_2062645726161846272",
+          "start": 50,
+          "url": "https://t.co/60SOebgS6a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062645728967880870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "法兰福克机场汉莎航空波音787在对接廊桥时候前起落架突然收起 飞机磕头了\n这个比那个撞廊桥还要离谱 https://t.co/60SOebgS6a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_2062645726161846272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_9XA1awAAnzMd.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062645726161846272"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2062645728967880870",
+        "created_at": "2026-06-04T21:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062645728967880870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/60SOebgS6a",
+              "end": 73,
+              "expanded_url": "https://x.com/skyseafor/status/2062645728967880870/photo/1",
+              "media_key": "3_2062645726161846272",
+              "start": 50,
+              "url": "https://t.co/60SOebgS6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062645728967880870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "法兰福克机场汉莎航空波音787在对接廊桥时候前起落架突然收起 飞机磕头了\n这个比那个撞廊桥还要离谱 https://t.co/60SOebgS6a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 43,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 120
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

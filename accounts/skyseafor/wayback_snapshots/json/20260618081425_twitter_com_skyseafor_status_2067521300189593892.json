@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2067456230445199698",
+    "created_at": "2026-06-18T08:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067521300189593892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804344378338480128",
+          "start": 0,
+          "username": "Acmduemsks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067521300189593892",
+    "in_reply_to_user_id": "1804344378338480128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067497781409829343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acmduemsks 我纯合约"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2067456230445199698",
+        "created_at": "2026-06-18T08:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067521300189593892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804344378338480128",
+              "start": 0,
+              "username": "Acmduemsks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067521300189593892",
+        "in_reply_to_user_id": "1804344378338480128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067497781409829343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acmduemsks 我纯合约"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804344378338480128",
+        "conversation_id": "2067456230445199698",
+        "created_at": "2026-06-18T06:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067497781409829343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067497781409829343",
+        "in_reply_to_user_id": "1804344378338480128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067497384054051097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 你可以提前买期权（指指点点）也就是options给你套期保值（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 180,
+          "like_count": 529,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-22T02:43:37.000Z",
+        "description": "我爱在天钥桥路1号吃徐家汇餐厅麦当劳\n｜萍水相逢有缘人@jazzvoid7｜好猫猫@maoxianact｜好朋友@aoi4uto｜會講國語🇹🇼普通话🇨🇳上海吴语 🇨🇳 廣東話🇭🇰 and English 🇬🇧｜自我认同是GHC的STG机|我才不告诉你我现在忙什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "jazzvoid7"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "maoxianact"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "username": "aoi4uto"
+              }
+            ]
+          }
+        },
+        "id": "1804344378338480128",
+        "name": "我爱食麦当劳",
+        "pinned_tweet_id": "2057754457090502754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003451815254200320/byqlIGkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 571,
+          "like_count": 7033,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 4375
+        },
+        "url": "",
+        "username": "Acmduemsks",
+        "verified": true
+      }
+    ]
+  }
+}

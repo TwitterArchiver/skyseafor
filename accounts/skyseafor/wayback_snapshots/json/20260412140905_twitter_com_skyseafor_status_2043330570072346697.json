@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043330568096751620"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043330570072346697",
+    "created_at": "2026-04-12T14:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043330570072346697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/he45qBQTL8",
+          "end": 23,
+          "expanded_url": "https://x.com/skyseafor/status/2043330570072346697/photo/1",
+          "media_key": "3_2043330568096751620",
+          "start": 0,
+          "url": "https://t.co/he45qBQTL8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043330570072346697",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/he45qBQTL8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1229,
+        "media_key": "3_2043330568096751620",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFteU14aoAQSftW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043330568096751620"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043330570072346697",
+        "created_at": "2026-04-12T14:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043330570072346697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/he45qBQTL8",
+              "end": 23,
+              "expanded_url": "https://x.com/skyseafor/status/2043330570072346697/photo/1",
+              "media_key": "3_2043330568096751620",
+              "start": 0,
+              "url": "https://t.co/he45qBQTL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043330570072346697",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/he45qBQTL8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "以后拿对象的号发日常吧 原号就不发日常生活了",
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106268956667905/U0s-O2-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 3,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 20
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

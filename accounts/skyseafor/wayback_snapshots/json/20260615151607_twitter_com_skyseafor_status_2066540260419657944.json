@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2066540260419657944",
+    "created_at": "2026-06-15T15:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066540260419657944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/skyseafor/status/2066457631489974341",
+          "start": 54,
+          "url": "https://t.co/1Jt0AXgHF5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066540260419657944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066457631489974341",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实校长心里肯定在想这个挨千刀的死药娘我要目送着你永远的离开我们学校把事情都捅到省教育厅去了还有脸回来😡😡 https://t.co/1Jt0AXgHF5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066457619913662464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2IQbpaYAASc5Z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2066540260419657944",
+        "created_at": "2026-06-15T15:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066540260419657944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/skyseafor/status/2066457631489974341",
+              "start": 54,
+              "url": "https://t.co/1Jt0AXgHF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066540260419657944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066457631489974341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实校长心里肯定在想这个挨千刀的死药娘我要目送着你永远的离开我们学校把事情都捅到省教育厅去了还有脸回来😡😡 https://t.co/1Jt0AXgHF5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066457619913662464"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066457631489974341",
+        "created_at": "2026-06-15T09:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066457631489974341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPoBqrFGPe",
+              "end": 44,
+              "expanded_url": "https://x.com/skyseafor/status/2066457631489974341/photo/1",
+              "media_key": "3_2066457619913662464",
+              "start": 21,
+              "url": "https://t.co/wPoBqrFGPe"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/skyseafor/status/2066451822420820436",
+              "start": 45,
+              "url": "https://t.co/ZAYrTkLvlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066457631489974341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7546,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066451822420820436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "校长亲自送我到大门口 这辈子最高的待遇了 https://t.co/wPoBqrFGPe https://t.co/ZAYrTkLvlz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 176,
+          "like_count": 480,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 366
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

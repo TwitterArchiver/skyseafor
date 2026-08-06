@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2069695118110830811",
+    "created_at": "2026-06-24T22:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T23:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069907207257563480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771831647320801280",
+          "start": 0,
+          "username": "xi_mo_jiang"
+        },
+        {
+          "end": 26,
+          "id": "2050610838906482689",
+          "start": 13,
+          "username": "Pthree114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069907207257563480",
+    "in_reply_to_user_id": "1771831647320801280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069868370514895337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xi_mo_jiang @Pthree114514 你觉得在哪个城市比较合适"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2069695118110830811",
+        "created_at": "2026-06-24T22:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T23:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069907207257563480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771831647320801280",
+              "start": 0,
+              "username": "xi_mo_jiang"
+            },
+            {
+              "end": 26,
+              "id": "2050610838906482689",
+              "start": 13,
+              "username": "Pthree114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069907207257563480",
+        "in_reply_to_user_id": "1771831647320801280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069868370514895337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xi_mo_jiang @Pthree114514 你觉得在哪个城市比较合适"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771831647320801280",
+        "conversation_id": "2069695118110830811",
+        "created_at": "2026-06-24T19:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069868370514895337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            },
+            {
+              "end": 24,
+              "id": "2050610838906482689",
+              "start": 11,
+              "username": "Pthree114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069868370514895337",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069855274845061411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor @Pthree114514 天天处理租客之间和和房东的矛盾，不嫌麻烦，你可以试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 198,
+          "like_count": 767,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-24T09:29:32.000Z",
+        "description": "",
+        "id": "1771831647320801280",
+        "name": "汐沫(前身山竹)",
+        "pinned_tweet_id": "2004532477600387349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045215267865968640/w82OdSTv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 881,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "xi_mo_jiang",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T16:18:27.000Z",
+        "description": "Kiooll ｜ x作为日记本记录一些没有营养的日常。！｜ 几乎全网同头像同ID q友和现实生活中的朋友能刷到我说明我俩真有缘 但是我上个号rip了正在杀出冥界的过程中 至于能不能杀出来那另说 先用这个号了 所以这里其实是#PThree_2.0二号机",
+        "id": "2050610838906482689",
+        "location": "被窝里",
+        "name": "#PThree_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050610941696659456/--pBE2xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 51,
+          "like_count": 1594,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "Pthree114514",
+        "verified": false
+      }
+    ]
+  }
+}

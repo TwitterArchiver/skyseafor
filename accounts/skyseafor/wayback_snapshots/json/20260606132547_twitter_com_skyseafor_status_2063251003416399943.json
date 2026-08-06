@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063250992486064128",
+        "3_2063250992439926785"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063251003416399943",
+    "created_at": "2026-06-06T13:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063251003416399943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j5wFd7nkOu",
+          "end": 70,
+          "expanded_url": "https://x.com/skyseafor/status/2063251003416399943/photo/1",
+          "media_key": "3_2063250992486064128",
+          "start": 47,
+          "url": "https://t.co/j5wFd7nkOu"
+        },
+        {
+          "display_url": "pic.x.com/j5wFd7nkOu",
+          "end": 70,
+          "expanded_url": "https://x.com/skyseafor/status/2063251003416399943/photo/1",
+          "media_key": "3_2063250992439926785",
+          "start": 47,
+          "url": "https://t.co/j5wFd7nkOu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063251003416399943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你可能会以为这是香港街头 其实不然 这只是宁波的一条网红街 \n\n高考倒计时10小时））））） https://t.co/j5wFd7nkOu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063250992486064128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIj2JmaoAA4KTo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063250992439926785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIj2JbaoAExMKP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063250992486064128",
+            "3_2063250992439926785"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063251003416399943",
+        "created_at": "2026-06-06T13:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063251003416399943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5wFd7nkOu",
+              "end": 70,
+              "expanded_url": "https://x.com/skyseafor/status/2063251003416399943/photo/1",
+              "media_key": "3_2063250992486064128",
+              "start": 47,
+              "url": "https://t.co/j5wFd7nkOu"
+            },
+            {
+              "display_url": "pic.x.com/j5wFd7nkOu",
+              "end": 70,
+              "expanded_url": "https://x.com/skyseafor/status/2063251003416399943/photo/1",
+              "media_key": "3_2063250992439926785",
+              "start": 47,
+              "url": "https://t.co/j5wFd7nkOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063251003416399943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你可能会以为这是香港街头 其实不然 这只是宁波的一条网红街 \n\n高考倒计时10小时））））） https://t.co/j5wFd7nkOu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 91,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 161
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

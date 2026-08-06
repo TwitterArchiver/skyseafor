@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2068668323756433537",
+    "created_at": "2026-06-22T04:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068921301478384093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1546431985086009344",
+          "start": 0,
+          "username": "NL8526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068921301478384093",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068668323756433537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NL8526 差点以为缘之空"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 492,
+        "media_key": "3_2068668321428586496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVi4MjawAA4142.jpg",
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2068668323756433537",
+        "created_at": "2026-06-22T04:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068921301478384093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068921301478384093",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068668323756433537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 差点以为缘之空"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068668321428586496"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2068668323756433537",
+        "created_at": "2026-06-21T12:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068668323756433537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HegI4UEdCz",
+              "end": 129,
+              "expanded_url": "https://x.com/NL8526/status/2068668323756433537/photo/1",
+              "media_key": "3_2068668321428586496",
+              "start": 106,
+              "url": "https://t.co/HegI4UEdCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068668323756433537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11361,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃劝告大家一定要锁房间门\n刚才因为没锁门就发生尴尬的一幕\n我在床上上位压着鲨鲨 腿是屈着的 就是屁股翘起来那个姿势（  跟鲨鲨贴着贴着突然就哭出来了\n我妹突然进来 说要玩我平板 被打断施法了 我呜呜呜呜呜😖😖 https://t.co/HegI4UEdCz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 184,
+          "like_count": 596,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 448
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3083,
+          "following_count": 842,
+          "like_count": 17852,
+          "listed_count": 5,
+          "media_count": 192,
+          "tweet_count": 796
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

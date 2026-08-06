@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062151377875542016"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2062151380622778838",
+    "created_at": "2026-06-03T12:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062151380622778838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TaBiDDQp0w",
+          "end": 58,
+          "expanded_url": "https://x.com/skyseafor/status/2062151380622778838/photo/1",
+          "media_key": "3_2062151377875542016",
+          "start": 35,
+          "url": "https://t.co/TaBiDDQp0w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062151380622778838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "狗庄你这样操盘，我还说什么 \n500u给你了呗 顺便替我向你全家问好 https://t.co/TaBiDDQp0w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1611,
+        "media_key": "3_2062151377875542016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ47wJ9aoAAAzGB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062151377875542016"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2062151380622778838",
+        "created_at": "2026-06-03T12:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062151380622778838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TaBiDDQp0w",
+              "end": 58,
+              "expanded_url": "https://x.com/skyseafor/status/2062151380622778838/photo/1",
+              "media_key": "3_2062151377875542016",
+              "start": 35,
+              "url": "https://t.co/TaBiDDQp0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062151380622778838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗庄你这样操盘，我还说什么 \n500u给你了呗 顺便替我向你全家问好 https://t.co/TaBiDDQp0w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 5,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 101
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

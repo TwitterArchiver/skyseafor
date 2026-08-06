@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2082083973401067840",
+    "created_at": "2026-07-28T12:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082083973401067840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huantim7/statu…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/huantim7/status/2082012358185193702",
+          "start": 64,
+          "url": "https://t.co/9VfvMxCgfZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082083973401067840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082012358185193702",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6/1-7/28 \n合肥→南京→杭州→宁波→杭州→宁波→南京→合肥→福州→杭州→上海→南京→无锡→南京→合肥→北京→天津→合肥 https://t.co/9VfvMxCgfZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2082083973401067840",
+        "created_at": "2026-07-28T12:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082083973401067840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huantim7/statu…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/huantim7/status/2082012358185193702",
+              "start": 64,
+              "url": "https://t.co/9VfvMxCgfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082083973401067840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082012358185193702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6/1-7/28 \n合肥→南京→杭州→宁波→杭州→宁波→南京→合肥→福州→杭州→上海→南京→无锡→南京→合肥→北京→天津→合肥 https://t.co/9VfvMxCgfZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781510736000274432",
+        "conversation_id": "2082012358185193702",
+        "created_at": "2026-07-28T07:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082012358185193702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ichinichinagi/…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/ichinichinagi/status/2081933046442569918",
+              "start": 73,
+              "url": "https://t.co/ddeTpJFika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082012358185193702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081933046442569918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7月1日至7月28日，共28天，先后造访普陀，奉贤，嘉定，静安，宝山，长宁，南汇，开销共约1k CNY\n简单点来说没出过上海，吃饭基本都在家（） https://t.co/ddeTpJFika"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 224,
+          "like_count": 1341,
+          "listed_count": 2,
+          "media_count": 412,
+          "tweet_count": 927
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某准高二mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyn.mom",
+                "end": 23,
+                "expanded_url": "http://xyn.mom",
+                "start": 0,
+                "url": "https://t.co/Mb8EU8fZzi"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮紗",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072659917027299328/L5Yl2wZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 795,
+          "like_count": 100392,
+          "listed_count": 1,
+          "media_count": 537,
+          "tweet_count": 6486
+        },
+        "url": "https://t.co/Mb8EU8fZzi",
+        "username": "huantim7",
+        "verified": false
+      }
+    ]
+  }
+}

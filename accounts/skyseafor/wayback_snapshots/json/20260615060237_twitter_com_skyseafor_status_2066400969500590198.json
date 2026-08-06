@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2066400969500590198",
+    "created_at": "2026-06-15T06:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T07:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066400969500590198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/skyseafor/status/2066373452161044675",
+          "start": 54,
+          "url": "https://t.co/EgW2Ly8sJO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066400969500590198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066373452161044675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为事情直接捅到省厅去了 所以比较麻烦 但是大家记住不要把试卷带出考场 也不要把答题卡和草稿纸带出考场 😉 https://t.co/EgW2Ly8sJO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066400969500590198",
+        "created_at": "2026-06-15T06:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066400969500590198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/skyseafor/status/2066373452161044675",
+              "start": 54,
+              "url": "https://t.co/EgW2Ly8sJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066400969500590198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066373452161044675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为事情直接捅到省厅去了 所以比较麻烦 但是大家记住不要把试卷带出考场 也不要把答题卡和草稿纸带出考场 😉 https://t.co/EgW2Ly8sJO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066373452161044675",
+        "created_at": "2026-06-15T04:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066373452161044675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066373452161044675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 759,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电话来了 我得去一趟教育局 因为英语考试的事情  可能要签字 成绩归零"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 175,
+          "like_count": 456,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 348
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069293892181307392"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2069293894551171527",
+    "created_at": "2026-06-23T05:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069293894551171527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/te3XXfMWWD",
+          "end": 38,
+          "expanded_url": "https://x.com/skyseafor/status/2069293894551171527/photo/1",
+          "media_key": "3_2069293892181307392",
+          "start": 15,
+          "url": "https://t.co/te3XXfMWWD"
+        },
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/skyseafor/status/2064915954992402941",
+          "start": 39,
+          "url": "https://t.co/DKk6BBEtnl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069293894551171527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064915954992402941",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我群里已经没有正常人了 😂😂 https://t.co/te3XXfMWWD https://t.co/DKk6BBEtnl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 877,
+        "media_key": "3_2069293892181307392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeb1NNaMAAVwT2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2055,
+        "media_key": "3_2064915948717613056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgOHW5aIAA-nVZ.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069293892181307392"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2069293894551171527",
+        "created_at": "2026-06-23T05:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069293894551171527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/te3XXfMWWD",
+              "end": 38,
+              "expanded_url": "https://x.com/skyseafor/status/2069293894551171527/photo/1",
+              "media_key": "3_2069293892181307392",
+              "start": 15,
+              "url": "https://t.co/te3XXfMWWD"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/skyseafor/status/2064915954992402941",
+              "start": 39,
+              "url": "https://t.co/DKk6BBEtnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069293894551171527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064915954992402941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我群里已经没有正常人了 😂😂 https://t.co/te3XXfMWWD https://t.co/DKk6BBEtnl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064915948717613056"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2064915954992402941",
+        "created_at": "2026-06-11T03:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064915954992402941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "61754652",
+              "start": 24,
+              "username": "lanyuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dIGVUhwjqD",
+              "end": 56,
+              "expanded_url": "https://x.com/skyseafor/status/2064915954992402941/photo/1",
+              "media_key": "3_2064915948717613056",
+              "start": 33,
+              "url": "https://t.co/dIGVUhwjqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064915954992402941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 18061,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的QQ群 中转群 \n\n我的telegram :@lanyuan https://t.co/dIGVUhwjqD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 185,
+          "like_count": 641,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

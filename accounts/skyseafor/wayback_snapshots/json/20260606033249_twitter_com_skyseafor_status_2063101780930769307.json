@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063101780930769307",
+    "created_at": "2026-06-06T03:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063101780930769307"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063101780930769307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽大号被强行注销了 但是这也意味着我可以把原号的内容重新再发一遍 下半年推特素材不缺了🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063101780930769307",
+        "created_at": "2026-06-06T03:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063101780930769307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063101780930769307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽大号被强行注销了 但是这也意味着我可以把原号的内容重新再发一遍 下半年推特素材不缺了🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 67,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 140
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067930839359643648"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067930848356380909",
+    "created_at": "2026-06-19T11:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067930848356380909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1995266194576961536",
+          "start": 15,
+          "username": "skyseafor"
+        },
+        {
+          "end": 38,
+          "id": "2010816143846768640",
+          "start": 27,
+          "username": "luo_240110"
+        },
+        {
+          "end": 51,
+          "id": "1689095384956633088",
+          "start": 40,
+          "username": "KfirC10SRC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zVp9n6uomj",
+          "end": 75,
+          "expanded_url": "https://x.com/skyseafor/status/2067930848356380909/photo/1",
+          "media_key": "3_2067930839359643648",
+          "start": 52,
+          "url": "https://t.co/zVp9n6uomj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067930848356380909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "端午节南京城萨莉亚贴贴喵~~\n@skyseafor  @luo_240110  @KfirC10SRC https://t.co/zVp9n6uomj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2067930839359643648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLEJFwbYAABAv5.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067930839359643648"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067930848356380909",
+        "created_at": "2026-06-19T11:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067930848356380909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1995266194576961536",
+              "start": 15,
+              "username": "skyseafor"
+            },
+            {
+              "end": 38,
+              "id": "2010816143846768640",
+              "start": 27,
+              "username": "luo_240110"
+            },
+            {
+              "end": 51,
+              "id": "1689095384956633088",
+              "start": 40,
+              "username": "KfirC10SRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zVp9n6uomj",
+              "end": 75,
+              "expanded_url": "https://x.com/skyseafor/status/2067930848356380909/photo/1",
+              "media_key": "3_2067930839359643648",
+              "start": 52,
+              "url": "https://t.co/zVp9n6uomj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067930848356380909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "端午节南京城萨莉亚贴贴喵~~\n@skyseafor  @luo_240110  @KfirC10SRC https://t.co/zVp9n6uomj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 182,
+          "like_count": 561,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-12T20:48:47.000Z",
+        "description": "話したくない｜Ciallo～(∠・ω ≤ )︵★四代目｜互fo寻回\n一代目@YunoQiu56649｜二代目@Ciallo_114_514｜三代目@qi_bu64350\n妹妹@Luoyu147258 \n*互fo请私信谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "qi_bu64350"
+              },
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Luoyu147258"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wrin520t",
+                "end": 23,
+                "expanded_url": "http://t.me/Wrin520t",
+                "start": 0,
+                "url": "https://t.co/qKIDVMQsor"
+              }
+            ]
+          }
+        },
+        "id": "2010816143846768640",
+        "location": "地球",
+        "name": "Ciallo🍥",
+        "pinned_tweet_id": "2058950293937958932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058074498285617152/2kdhJxKg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 322,
+          "like_count": 589,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 1015
+        },
+        "url": "https://t.co/qKIDVMQsor",
+        "username": "luo_240110",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T02:05:07.000Z",
+        "description": "已淡推",
+        "id": "1689095384956633088",
+        "location": "Hong Kong",
+        "name": "KfirC10🚀",
+        "pinned_tweet_id": "2067118496895697078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055336215151587328/NakmBMx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 282,
+          "like_count": 463,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 627
+        },
+        "url": "",
+        "username": "KfirC10SRC",
+        "verified": false
+      }
+    ]
+  }
+}

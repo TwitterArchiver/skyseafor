@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2067523033087242590",
+    "created_at": "2026-06-18T08:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067523033087242590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xixikawaii/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/xixikawaii/status/2067174367717699902",
+          "start": 17,
+          "url": "https://t.co/wAyA4TDQzp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067523033087242590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067174367717699902",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下辈子我也要当日本樱花妹女高 ！ https://t.co/wAyA4TDQzp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067174354224578560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAUH3BagAAnVCu.jpg",
+        "width": 1382
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067174354228813824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAUH3CbIAATp0N.jpg",
+        "width": 1382
+      },
+      {
+        "height": 1764,
+        "media_key": "3_2067174354207879168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAUH29bsAAgh4F.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1764,
+        "media_key": "3_2067174354216173568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAUH2_aQAAJ9PA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2067523033087242590",
+        "created_at": "2026-06-18T08:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067523033087242590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xixikawaii/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/xixikawaii/status/2067174367717699902",
+              "start": 17,
+              "url": "https://t.co/wAyA4TDQzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067523033087242590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067174367717699902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下辈子我也要当日本樱花妹女高 ！ https://t.co/wAyA4TDQzp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067174354224578560",
+            "3_2067174354228813824",
+            "3_2067174354207879168",
+            "3_2067174354216173568"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2067174367717699902",
+        "created_at": "2026-06-17T09:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067174367717699902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lx8sALJ5Kq",
+              "end": 42,
+              "expanded_url": "https://x.com/xixikawaii/status/2067174367717699902/photo/1",
+              "media_key": "3_2067174354224578560",
+              "start": 19,
+              "url": "https://t.co/Lx8sALJ5Kq"
+            },
+            {
+              "display_url": "pic.x.com/Lx8sALJ5Kq",
+              "end": 42,
+              "expanded_url": "https://x.com/xixikawaii/status/2067174367717699902/photo/1",
+              "media_key": "3_2067174354228813824",
+              "start": 19,
+              "url": "https://t.co/Lx8sALJ5Kq"
+            },
+            {
+              "display_url": "pic.x.com/Lx8sALJ5Kq",
+              "end": 42,
+              "expanded_url": "https://x.com/xixikawaii/status/2067174367717699902/photo/1",
+              "media_key": "3_2067174354207879168",
+              "start": 19,
+              "url": "https://t.co/Lx8sALJ5Kq"
+            },
+            {
+              "display_url": "pic.x.com/Lx8sALJ5Kq",
+              "end": 42,
+              "expanded_url": "https://x.com/xixikawaii/status/2067174367717699902/photo/1",
+              "media_key": "3_2067174354216173568",
+              "start": 19,
+              "url": "https://t.co/Lx8sALJ5Kq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067174367717699902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 18825,
+          "like_count": 192,
+          "quote_count": 1,
+          "reply_count": 76,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁偷走了我的日本女高生活😭好羡慕她们 https://t.co/Lx8sALJ5Kq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 180,
+          "like_count": 532,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 407
+        },
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "infp 童话都是骗小孩子的喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_QXw2uGWZ",
+                "start": 0,
+                "url": "https://t.co/p8Rr4RFzRt"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "location": "Disney",
+        "name": "汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036827516841930752/UUPZffAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32395,
+          "following_count": 1179,
+          "like_count": 15105,
+          "listed_count": 449,
+          "media_count": 4800,
+          "tweet_count": 24100
+        },
+        "url": "https://t.co/p8Rr4RFzRt",
+        "username": "xixikawaii",
+        "verified": true
+      }
+    ]
+  }
+}

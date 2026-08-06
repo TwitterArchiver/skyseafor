@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063289607027052748",
+    "created_at": "2026-06-06T22:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T23:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063390301763592244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1670475503826870273",
+          "start": 0,
+          "username": "3UtU5I73se86330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063390301763592244",
+    "in_reply_to_user_id": "1670475503826870273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063293194222424236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3UtU5I73se86330 不影响😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063289607027052748",
+        "created_at": "2026-06-06T22:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T23:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063390301763592244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1670475503826870273",
+              "start": 0,
+              "username": "3UtU5I73se86330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063390301763592244",
+        "in_reply_to_user_id": "1670475503826870273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063293194222424236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3UtU5I73se86330 不影响😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670475503826870273",
+        "conversation_id": "2063289607027052748",
+        "created_at": "2026-06-06T16:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063293194222424236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063293194222424236",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063289607027052748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 哥们明天高考还撸吗也是牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 98,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 165
+        },
+        "username": "skyseafor",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T16:56:22.000Z",
+        "description": "",
+        "id": "1670475503826870273",
+        "location": "Los Angeles, CA",
+        "name": "silver",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053751259526815744/h9ovf4Go_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 174,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "3UtU5I73se86330",
+        "verified": false
+      }
+    ]
+  }
+}

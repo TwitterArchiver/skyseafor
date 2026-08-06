@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2069400695527309396",
+    "created_at": "2026-06-23T20:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T21:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069518240515330376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069518240515330376",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069400695527309396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii 我会永远喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2069400695527309396",
+        "created_at": "2026-06-23T20:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069518240515330376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069518240515330376",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069400695527309396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 我会永远喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342135083252105216",
+        "conversation_id": "2069400695527309396",
+        "created_at": "2026-06-23T12:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069400695527309396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069400695527309396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2155,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或许本来就没有什么乌托邦，都是人类自己创造的意义和所谓的理想化，真给了可能又陷入既要又要还要的困境，无论是去了另一个国家也好，换了一个环境也好，哪怕真的成为了樱花女高也好，甚至转生成为二次元理想型也好，世界还是那个世界，幻想太美好了，所以还是活在梦里吧🫠早点来核弹，世界早点毁灭吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 191,
+          "like_count": 708,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 497
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "infp 童话都是骗小孩子的喵（戒赌版）🫪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_QXw2uGWZ",
+                "start": 0,
+                "url": "https://t.co/p8Rr4RF21V"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "location": "Disney",
+        "name": "汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036827516841930752/UUPZffAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32481,
+          "following_count": 1181,
+          "like_count": 15144,
+          "listed_count": 453,
+          "media_count": 4812,
+          "tweet_count": 24195
+        },
+        "url": "https://t.co/p8Rr4RF21V",
+        "username": "xixikawaii",
+        "verified": true
+      }
+    ]
+  }
+}

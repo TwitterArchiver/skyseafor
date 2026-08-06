@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077951293046521856",
+        "3_2077951293583454208"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2077951306095112262",
+    "created_at": "2026-07-17T02:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077951306095112262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qRyl67Z0uw",
+          "end": 61,
+          "expanded_url": "https://x.com/skyseafor/status/2077951306095112262/photo/1",
+          "media_key": "3_2077951293046521856",
+          "start": 38,
+          "url": "https://t.co/qRyl67Z0uw"
+        },
+        {
+          "display_url": "pic.x.com/qRyl67Z0uw",
+          "end": 61,
+          "expanded_url": "https://x.com/skyseafor/status/2077951306095112262/photo/1",
+          "media_key": "3_2077951293583454208",
+          "start": 38,
+          "url": "https://t.co/qRyl67Z0uw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077951306095112262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新房租好了 加上中介费 违约金 1.2w \n\n明后天去南京再租一套 😋😋😋 https://t.co/qRyl67Z0uw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "3_2077951293046521856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZdsQqaAAAKnPM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2077951293583454208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZdsSqa8AAFaHw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077951293046521856",
+            "3_2077951293583454208"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2077951306095112262",
+        "created_at": "2026-07-17T02:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077951306095112262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRyl67Z0uw",
+              "end": 61,
+              "expanded_url": "https://x.com/skyseafor/status/2077951306095112262/photo/1",
+              "media_key": "3_2077951293046521856",
+              "start": 38,
+              "url": "https://t.co/qRyl67Z0uw"
+            },
+            {
+              "display_url": "pic.x.com/qRyl67Z0uw",
+              "end": 61,
+              "expanded_url": "https://x.com/skyseafor/status/2077951306095112262/photo/1",
+              "media_key": "3_2077951293583454208",
+              "start": 38,
+              "url": "https://t.co/qRyl67Z0uw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077951306095112262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新房租好了 加上中介费 违约金 1.2w \n\n明后天去南京再租一套 😋😋😋 https://t.co/qRyl67Z0uw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2207,
+          "following_count": 220,
+          "like_count": 1081,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 747
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

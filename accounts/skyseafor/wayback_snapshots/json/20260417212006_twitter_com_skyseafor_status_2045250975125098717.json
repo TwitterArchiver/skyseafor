@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045250965276893184"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045250975125098717",
+    "created_at": "2026-04-17T21:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T22:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045250975125098717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1690570637499154432",
+          "start": 10,
+          "username": "saonanaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a7ooO0txO6",
+          "end": 46,
+          "expanded_url": "https://x.com/skyseafor/status/2045250975125098717/photo/1",
+          "media_key": "3_2045250965276893184",
+          "start": 23,
+          "url": "https://t.co/a7ooO0txO6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045250975125098717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "安全骑行 人人有责 @saonanaa 教的 https://t.co/a7ooO0txO6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045250965276893184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIw6q3aoAAD6it.jpg",
+        "width": 1756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045250965276893184"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045250975125098717",
+        "created_at": "2026-04-17T21:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T22:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045250975125098717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1690570637499154432",
+              "start": 10,
+              "username": "saonanaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a7ooO0txO6",
+              "end": 46,
+              "expanded_url": "https://x.com/skyseafor/status/2045250975125098717/photo/1",
+              "media_key": "3_2045250965276893184",
+              "start": 23,
+              "url": "https://t.co/a7ooO0txO6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045250975125098717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "安全骑行 人人有责 @saonanaa 教的 https://t.co/a7ooO0txO6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "以后拿对象的号发日常吧 原号就不发日常生活了 @520illusion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106268956667905/U0s-O2-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 3,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 40
+        },
+        "username": "skyseafor",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 想要每天耍乐到处玩 ✈️｜我构建 OneLauncher/.NET 👩‍💻｜Minecraft & R＊ 🎮｜Never 碰碰 Car｜ ❤️💦🐱👊：@lovelyshuimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 86,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042459177029943300/pXQSA0qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7296,
+          "following_count": 440,
+          "like_count": 33684,
+          "listed_count": 19,
+          "media_count": 2484,
+          "tweet_count": 19922
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

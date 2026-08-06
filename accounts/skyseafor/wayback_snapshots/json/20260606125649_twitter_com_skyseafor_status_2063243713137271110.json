@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063243704148901888"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063243713137271110",
+    "created_at": "2026-06-06T12:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063243713137271110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e1vUuXZGgr",
+          "end": 74,
+          "expanded_url": "https://x.com/skyseafor/status/2063243713137271110/photo/1",
+          "media_key": "3_2063243704148901888",
+          "start": 51,
+          "url": "https://t.co/e1vUuXZGgr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063243713137271110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "甬台温高铁线宁波市区段  往右温州方向 每次坐这趟轨道都会在高铁上看到自己的初中和高中那标志性的钟楼 https://t.co/e1vUuXZGgr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063243704148901888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIdN6bbQAA2tRE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063243704148901888"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063243713137271110",
+        "created_at": "2026-06-06T12:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063243713137271110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1vUuXZGgr",
+              "end": 74,
+              "expanded_url": "https://x.com/skyseafor/status/2063243713137271110/photo/1",
+              "media_key": "3_2063243704148901888",
+              "start": 51,
+              "url": "https://t.co/e1vUuXZGgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063243713137271110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甬台温高铁线宁波市区段  往右温州方向 每次坐这趟轨道都会在高铁上看到自己的初中和高中那标志性的钟楼 https://t.co/e1vUuXZGgr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 90,
+          "like_count": 110,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 159
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

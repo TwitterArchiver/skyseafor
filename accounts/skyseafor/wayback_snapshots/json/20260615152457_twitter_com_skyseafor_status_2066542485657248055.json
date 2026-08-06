@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2066540260419657944",
+    "created_at": "2026-06-15T15:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066542485657248055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2007440582797602817",
+          "start": 0,
+          "username": "qiuxunyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066542485657248055",
+    "in_reply_to_user_id": "2007440582797602817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066541232294387737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuxunyu 我已然成为26届高考圈的一个传说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066540260419657944",
+        "created_at": "2026-06-15T15:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066542485657248055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007440582797602817",
+              "start": 0,
+              "username": "qiuxunyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066542485657248055",
+        "in_reply_to_user_id": "2007440582797602817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066541232294387737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuxunyu 我已然成为26届高考圈的一个传说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007440582797602817",
+        "conversation_id": "2066540260419657944",
+        "created_at": "2026-06-15T15:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066541232294387737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066541232294387737",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066540260419657944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 你如果是高二的话，校长可就没这么好说话了🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 176,
+          "like_count": 480,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 367
+        },
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T13:15:22.000Z",
+        "description": "Mtf/高中在读？/政史地/不o💊不🔪手手/天残自恨党/浙江省ip随机/177/72/出厂日期2010/1/11/ADHD/26年学考生化史地/同类互fo/产地：浙A",
+        "id": "2007440582797602817",
+        "location": "中山东路",
+        "name": "秋雨yu🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043227644230238208/HkkLmE32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 215,
+          "like_count": 486,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 164
+        },
+        "username": "qiuxunyu",
+        "verified": false
+      }
+    ]
+  }
+}

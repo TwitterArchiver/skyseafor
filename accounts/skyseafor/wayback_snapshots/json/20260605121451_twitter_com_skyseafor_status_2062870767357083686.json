@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062870754241499136"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2062870767357083686",
+    "created_at": "2026-06-05T12:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062870767357083686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wf5nsyOfz3",
+          "end": 38,
+          "expanded_url": "https://x.com/skyseafor/status/2062870767357083686/photo/1",
+          "media_key": "3_2062870754241499136",
+          "start": 15,
+          "url": "https://t.co/Wf5nsyOfz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062870767357083686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉自己好嘉豪啊噗哈哈哈哈哈 https://t.co/Wf5nsyOfz3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062870754241499136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDKBXwbUAAKoKZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062870754241499136"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2062870767357083686",
+        "created_at": "2026-06-05T12:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062870767357083686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wf5nsyOfz3",
+              "end": 38,
+              "expanded_url": "https://x.com/skyseafor/status/2062870767357083686/photo/1",
+              "media_key": "3_2062870754241499136",
+              "start": 15,
+              "url": "https://t.co/Wf5nsyOfz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062870767357083686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己好嘉豪啊噗哈哈哈哈哈 https://t.co/Wf5nsyOfz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 51,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 128
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

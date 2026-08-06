@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063633352297676800"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063633361546154060",
+    "created_at": "2026-06-07T14:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063633361546154060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gCm6BR78Ta",
+          "end": 35,
+          "expanded_url": "https://x.com/skyseafor/status/2063633361546154060/photo/1",
+          "media_key": "3_2063633352297676800",
+          "start": 12,
+          "url": "https://t.co/gCm6BR78Ta"
+        },
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/skyseafor/status/2063628390817726896",
+          "start": 36,
+          "url": "https://t.co/whFoszf5GY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063633361546154060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063628390817726896",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神秘顺直男小贴纸喵~~ https://t.co/gCm6BR78Ta https://t.co/whFoszf5GY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063633352297676800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN_ma5aAAA3_k6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2063628366679523329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN7EOBaQAEdbHv.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1261,
+        "media_key": "3_2063628375877722113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN7EwSboAElQzr.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1625,
+        "media_key": "3_2063628383322587136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN7FMBbQAAmlv4.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063633352297676800"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063633361546154060",
+        "created_at": "2026-06-07T14:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063633361546154060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCm6BR78Ta",
+              "end": 35,
+              "expanded_url": "https://x.com/skyseafor/status/2063633361546154060/photo/1",
+              "media_key": "3_2063633352297676800",
+              "start": 12,
+              "url": "https://t.co/gCm6BR78Ta"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/skyseafor/status/2063628390817726896",
+              "start": 36,
+              "url": "https://t.co/whFoszf5GY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063633361546154060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063628390817726896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神秘顺直男小贴纸喵~~ https://t.co/gCm6BR78Ta https://t.co/whFoszf5GY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063628366679523329",
+            "3_2063628375877722113",
+            "3_2063628383322587136"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063628390817726896",
+        "created_at": "2026-06-07T14:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063628390817726896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMjvLamUtw",
+              "end": 117,
+              "expanded_url": "https://x.com/skyseafor/status/2063628390817726896/photo/1",
+              "media_key": "3_2063628366679523329",
+              "start": 94,
+              "url": "https://t.co/WMjvLamUtw"
+            },
+            {
+              "display_url": "pic.x.com/WMjvLamUtw",
+              "end": 117,
+              "expanded_url": "https://x.com/skyseafor/status/2063628390817726896/photo/1",
+              "media_key": "3_2063628375877722113",
+              "start": 94,
+              "url": "https://t.co/WMjvLamUtw"
+            },
+            {
+              "display_url": "pic.x.com/WMjvLamUtw",
+              "end": 117,
+              "expanded_url": "https://x.com/skyseafor/status/2063628390817726896/photo/1",
+              "media_key": "3_2063628383322587136",
+              "start": 94,
+              "url": "https://t.co/WMjvLamUtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063628390817726896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 134,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于高考数学考炸了 我心情非常不好 \n所以我在学校发呆了两个小时之后，决定骑电瓶车绕了宁波一圈  共享电瓶车花了我40块钱 我决定不回家住了 找个酒店睡一觉 明天下午3点再去参加英语高考 https://t.co/WMjvLamUtw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 125,
+          "like_count": 169,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 198
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

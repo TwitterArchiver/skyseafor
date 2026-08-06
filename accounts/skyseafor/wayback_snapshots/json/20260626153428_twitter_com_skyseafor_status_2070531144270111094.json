@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2070455253435326692",
+    "created_at": "2026-06-26T15:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070531144270111094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1971907907592867840",
+          "start": 0,
+          "username": "Rinyuhim"
+        },
+        {
+          "end": 21,
+          "id": "1342135083252105216",
+          "start": 10,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070531144270111094",
+    "in_reply_to_user_id": "1971907907592867840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070530660834644275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinyuhim @xixikawaii 汐汐高考比我干过更抽象的事情，你可以问问她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2070455253435326692",
+        "created_at": "2026-06-26T15:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070531144270111094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1971907907592867840",
+              "start": 0,
+              "username": "Rinyuhim"
+            },
+            {
+              "end": 21,
+              "id": "1342135083252105216",
+              "start": 10,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070531144270111094",
+        "in_reply_to_user_id": "1971907907592867840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070530660834644275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinyuhim @xixikawaii 汐汐高考比我干过更抽象的事情，你可以问问她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971907907592867840",
+        "conversation_id": "2070455253435326692",
+        "created_at": "2026-06-26T15:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070530660834644275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            },
+            {
+              "end": 22,
+              "id": "1342135083252105216",
+              "start": 11,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070530660834644275",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070503335107690994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor @xixikawaii 主要是我从小到大就没见过这种事，这是我见过的第一个抽象的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 200,
+          "like_count": 809,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-27T12:01:07.000Z",
+        "description": "动漫爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com",
+                "end": 23,
+                "expanded_url": "http://www.bilibili.com",
+                "start": 0,
+                "url": "https://t.co/bnKIslOBtW"
+              }
+            ]
+          }
+        },
+        "id": "1971907907592867840",
+        "location": "看我位置干啥？我在中国(China)",
+        "name": "Rinyu其人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049796502915366912/3-x4_azV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 309,
+          "like_count": 6642,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 4421
+        },
+        "url": "https://t.co/bnKIslOBtW",
+        "username": "Rinyuhim",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "infp 童话都是骗人的🫪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_QXw2uGWZ",
+                "start": 0,
+                "url": "https://t.co/p8Rr4RFzRt"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "location": "Disney",
+        "name": "汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036827516841930752/UUPZffAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32585,
+          "following_count": 1184,
+          "like_count": 15181,
+          "listed_count": 452,
+          "media_count": 4822,
+          "tweet_count": 24319
+        },
+        "url": "https://t.co/p8Rr4RFzRt",
+        "username": "xixikawaii",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063134021895471104"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063134028749029483",
+    "created_at": "2026-06-06T05:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T06:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063134028749029483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ocy8PiLlVv",
+          "end": 23,
+          "expanded_url": "https://x.com/skyseafor/status/2063134028749029483/photo/1",
+          "media_key": "3_2063134021895471104",
+          "start": 0,
+          "url": "https://t.co/ocy8PiLlVv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063134028749029483",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ocy8PiLlVv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1303,
+        "media_key": "3_2063134021895471104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKG5dkMaQAAa_NA.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063134021895471104"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063134028749029483",
+        "created_at": "2026-06-06T05:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063134028749029483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ocy8PiLlVv",
+              "end": 23,
+              "expanded_url": "https://x.com/skyseafor/status/2063134028749029483/photo/1",
+              "media_key": "3_2063134021895471104",
+              "start": 0,
+              "url": "https://t.co/ocy8PiLlVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063134028749029483",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ocy8PiLlVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 75,
+          "like_count": 94,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 144
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

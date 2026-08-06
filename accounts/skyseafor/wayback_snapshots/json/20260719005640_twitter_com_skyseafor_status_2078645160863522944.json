@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2078457026171265218",
+    "created_at": "2026-07-19T00:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T01:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078645160863522944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862765396111368192",
+          "start": 0,
+          "username": "erickalithi6941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078645160863522944",
+    "in_reply_to_user_id": "1862765396111368192",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078577623014514966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erickalithi6941 no！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2078457026171265218",
+        "created_at": "2026-07-19T00:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078645160863522944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862765396111368192",
+              "start": 0,
+              "username": "erickalithi6941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078645160863522944",
+        "in_reply_to_user_id": "1862765396111368192",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078577623014514966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erickalithi6941 no！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862765396111368192",
+        "conversation_id": "2078457026171265218",
+        "created_at": "2026-07-18T20:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T21:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078577623014514966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078577623014514966",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078457026171265218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 真的没嗑药嘛（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2224,
+          "following_count": 223,
+          "like_count": 1155,
+          "listed_count": 2,
+          "media_count": 370,
+          "tweet_count": 799
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T07:47:47.000Z",
+        "description": "MTF | HRT since 2023 | GnRHa since 2026 | MDD | Chemistry Olympiad | High School Dropout | English/Chinese/Japanese",
+        "id": "1862765396111368192",
+        "location": "Shanghai",
+        "name": "Ericka Lithi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012882001116729344/N20yvaJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 92,
+          "like_count": 2278,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "erickalithi6941",
+        "verified": false
+      }
+    ]
+  }
+}

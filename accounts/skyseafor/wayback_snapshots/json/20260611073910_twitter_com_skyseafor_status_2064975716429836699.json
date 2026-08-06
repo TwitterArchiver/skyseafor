@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064975678681071616"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2064975716429836699",
+    "created_at": "2026-06-11T07:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064975716429836699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rGw8pNyM6A",
+          "end": 40,
+          "expanded_url": "https://x.com/skyseafor/status/2064975716429836699/photo/1",
+          "media_key": "3_2064975678681071616",
+          "start": 17,
+          "url": "https://t.co/rGw8pNyM6A"
+        },
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/skyseafor/status/2064961066464055475",
+          "start": 41,
+          "url": "https://t.co/aznVGTVf2W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064975716429836699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064961066464055475",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到达任务地点  按下F键开始任务 https://t.co/rGw8pNyM6A https://t.co/aznVGTVf2W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064975678681071616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhEcGWbQAAYDGC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064975678681071616"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2064975716429836699",
+        "created_at": "2026-06-11T07:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064975716429836699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGw8pNyM6A",
+              "end": 40,
+              "expanded_url": "https://x.com/skyseafor/status/2064975716429836699/photo/1",
+              "media_key": "3_2064975678681071616",
+              "start": 17,
+              "url": "https://t.co/rGw8pNyM6A"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/skyseafor/status/2064961066464055475",
+              "start": 41,
+              "url": "https://t.co/aznVGTVf2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064975716429836699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064961066464055475",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到达任务地点  按下F键开始任务 https://t.co/rGw8pNyM6A https://t.co/aznVGTVf2W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2064961066464055475",
+        "created_at": "2026-06-11T06:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064961066464055475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/skyseafor/status/2064957811755503950",
+              "start": 116,
+              "url": "https://t.co/rJpPNstol4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064961066464055475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064957811755503950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这次去派出所因为去年11月份拍了一些关于小姑娘的视频 被大量转发对小姑娘造成了困扰\n       小姑娘父母报警了 上海徐汇公安局介入\n     由于视频最初是我拍摄的 虽然及时删除 但是被人保存并大量转发 所以我要做笔录以及保证 https://t.co/rJpPNstol4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 134,
+          "like_count": 281,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 255
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

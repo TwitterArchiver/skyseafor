@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041761154213756928"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2041761164892500176",
+    "created_at": "2026-04-08T06:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T07:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041761164892500176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nyGkU8sdwn",
+          "end": 37,
+          "expanded_url": "https://x.com/skyseafor/status/2041761164892500176/photo/1",
+          "media_key": "3_2041761154213756928",
+          "start": 14,
+          "url": "https://t.co/nyGkU8sdwn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041761164892500176",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "waiting...... https://t.co/nyGkU8sdwn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041761154213756928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXK87kaQAAX1EC.jpg",
+        "width": 1389
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041761154213756928"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2041761164892500176",
+        "created_at": "2026-04-08T06:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041761164892500176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyGkU8sdwn",
+              "end": 37,
+              "expanded_url": "https://x.com/skyseafor/status/2041761164892500176/photo/1",
+              "media_key": "3_2041761154213756928",
+              "start": 14,
+              "url": "https://t.co/nyGkU8sdwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041761164892500176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "waiting...... https://t.co/nyGkU8sdwn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "以后拿对象的号发日常吧 原号就不发日常生活了",
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106268956667905/U0s-O2-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 3,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

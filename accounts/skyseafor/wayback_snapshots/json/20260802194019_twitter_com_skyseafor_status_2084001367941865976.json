@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084001356365594624"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2084001367941865976",
+    "created_at": "2026-08-02T19:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084001367941865976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fBI5xZQ1Lm",
+          "end": 34,
+          "expanded_url": "https://x.com/skyseafor/status/2084001367941865976/photo/1",
+          "media_key": "3_2084001356365594624",
+          "start": 11,
+          "url": "https://t.co/fBI5xZQ1Lm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084001367941865976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "星空璀璨 晚安ill https://t.co/fBI5xZQ1Lm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2464,
+        "media_key": "3_2084001356365594624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvcMS2agAA1LOB.jpg",
+        "width": 3280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084001356365594624"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2084001367941865976",
+        "created_at": "2026-08-02T19:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084001367941865976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBI5xZQ1Lm",
+              "end": 34,
+              "expanded_url": "https://x.com/skyseafor/status/2084001367941865976/photo/1",
+              "media_key": "3_2084001356365594624",
+              "start": 11,
+              "url": "https://t.co/fBI5xZQ1Lm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084001367941865976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "星空璀璨 晚安ill https://t.co/fBI5xZQ1Lm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 223,
+          "like_count": 1401,
+          "listed_count": 2,
+          "media_count": 425,
+          "tweet_count": 963
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

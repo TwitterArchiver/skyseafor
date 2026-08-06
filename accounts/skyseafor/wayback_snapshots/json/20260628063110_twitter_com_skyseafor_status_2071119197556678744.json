@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071119180406181888",
+        "3_2071119180850774016"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2071119197556678744",
+    "created_at": "2026-06-28T06:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071119197556678744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QqmrcqMaUZ",
+          "end": 41,
+          "expanded_url": "https://x.com/skyseafor/status/2071119197556678744/photo/1",
+          "media_key": "3_2071119180406181888",
+          "start": 18,
+          "url": "https://t.co/QqmrcqMaUZ"
+        },
+        {
+          "display_url": "pic.x.com/QqmrcqMaUZ",
+          "end": 41,
+          "expanded_url": "https://x.com/skyseafor/status/2071119197556678744/photo/1",
+          "media_key": "3_2071119180850774016",
+          "start": 18,
+          "url": "https://t.co/QqmrcqMaUZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071119197556678744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就站在你面前 你看我有几分像从前 https://t.co/QqmrcqMaUZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2071119180406181888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4X69ub0AAGyCW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071119180850774016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4X6_YbwAAZ24i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071119180406181888",
+            "3_2071119180850774016"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2071119197556678744",
+        "created_at": "2026-06-28T06:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071119197556678744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QqmrcqMaUZ",
+              "end": 41,
+              "expanded_url": "https://x.com/skyseafor/status/2071119197556678744/photo/1",
+              "media_key": "3_2071119180406181888",
+              "start": 18,
+              "url": "https://t.co/QqmrcqMaUZ"
+            },
+            {
+              "display_url": "pic.x.com/QqmrcqMaUZ",
+              "end": 41,
+              "expanded_url": "https://x.com/skyseafor/status/2071119197556678744/photo/1",
+              "media_key": "3_2071119180850774016",
+              "start": 18,
+              "url": "https://t.co/QqmrcqMaUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071119197556678744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就站在你面前 你看我有几分像从前 https://t.co/QqmrcqMaUZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 205,
+          "like_count": 841,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 568
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2062630154346889474",
+    "created_at": "2026-06-04T20:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T21:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062630154346889474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684788633797287936",
+          "start": 3,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062630154346889474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062485267303538755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moningmeng: 每年都有人一本正经的解释说改不了头像和昵称是因为高考，自己不觉得搞笑吗，真以为人家这么重视你高考吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2062630154346889474",
+        "created_at": "2026-06-04T20:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T21:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062630154346889474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1684788633797287936",
+              "start": 3,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062630154346889474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062485267303538755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Moningmeng: 每年都有人一本正经的解释说改不了头像和昵称是因为高考，自己不觉得搞笑吗，真以为人家这么重视你高考吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2062485267303538755",
+        "created_at": "2026-06-04T10:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062485267303538755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062485267303538755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 35682,
+          "like_count": 345,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "每年都有人一本正经的解释说改不了头像和昵称是因为高考，自己不觉得搞笑吗，真以为人家这么重视你高考吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 35,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 118
+        },
+        "username": "skyseafor",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27681,
+          "following_count": 11087,
+          "like_count": 90332,
+          "listed_count": 102,
+          "media_count": 5185,
+          "tweet_count": 17598
+        },
+        "username": "Moningmeng",
+        "verified": true
+      }
+    ]
+  }
+}

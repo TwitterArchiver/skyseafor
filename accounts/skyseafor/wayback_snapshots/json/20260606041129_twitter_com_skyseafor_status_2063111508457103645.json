@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063111489788301312"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063111508457103645",
+    "created_at": "2026-06-06T04:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063111508457103645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oCeEmMHjeH",
+          "end": 34,
+          "expanded_url": "https://x.com/skyseafor/status/2063111508457103645/photo/1",
+          "media_key": "3_2063111489788301312",
+          "start": 11,
+          "url": "https://t.co/oCeEmMHjeH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063111508457103645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高考前一天的杭州东站 https://t.co/oCeEmMHjeH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2063111489788301312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGk-Bjb0AATB_S.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063111489788301312"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063111508457103645",
+        "created_at": "2026-06-06T04:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063111508457103645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCeEmMHjeH",
+              "end": 34,
+              "expanded_url": "https://x.com/skyseafor/status/2063111508457103645/photo/1",
+              "media_key": "3_2063111489788301312",
+              "start": 11,
+              "url": "https://t.co/oCeEmMHjeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063111508457103645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考前一天的杭州东站 https://t.co/oCeEmMHjeH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 68,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 141
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

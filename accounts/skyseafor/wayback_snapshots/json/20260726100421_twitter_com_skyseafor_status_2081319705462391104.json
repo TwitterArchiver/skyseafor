@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2081030989892243533",
+    "created_at": "2026-07-26T10:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081319705462391104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2013082274561220608",
+          "start": 0,
+          "username": "Lain75442"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081319705462391104",
+    "in_reply_to_user_id": "2013082274561220608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081030989892243533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lain75442 好久不见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2081030989892243533",
+        "created_at": "2026-07-26T10:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081319705462391104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2013082274561220608",
+              "start": 0,
+              "username": "Lain75442"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081319705462391104",
+        "in_reply_to_user_id": "2013082274561220608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081030989892243533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lain75442 好久不见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013082274561220608",
+        "conversation_id": "2081030989892243533",
+        "created_at": "2026-07-25T14:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081030989892243533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asutaka258/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/asutaka258/status/2081006674601759113",
+              "start": 75,
+              "url": "https://t.co/W1Nudg1FBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081030989892243533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5528,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081006674601759113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各位推u，经过考虑，我决定重新启用自己原来的账号，也就是我转帖的这个账号。大家可以关注一下老号，以后的内容会陆续转移到老号去发，这个号就留作备用了。 https://t.co/W1Nudg1FBm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 224,
+          "like_count": 1261,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 871
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-19T02:53:19.000Z",
+        "description": "飞蛾总是飞向有光的地方。大一某211哲学本科在读，梦想是成为哲学家。🌈｜168｜51。🈲NSFW、🈲政治。友好讨论，欢迎交流。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asutaka.ink",
+                "end": 23,
+                "expanded_url": "https://www.asutaka.ink",
+                "start": 0,
+                "url": "https://t.co/lLTJa5d9Zv"
+              }
+            ]
+          }
+        },
+        "id": "2013082274561220608",
+        "location": "Anhui",
+        "name": "Asutaka_阿苏塔卡",
+        "pinned_tweet_id": "2081030989892243533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013621867152560129/GYatXa4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1154,
+          "like_count": 3569,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 1508
+        },
+        "url": "https://t.co/lLTJa5d9Zv",
+        "username": "Lain75442",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070080591975043072"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070080596622324011",
+    "created_at": "2026-06-25T09:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070080596622324011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MM4YrAoltw",
+          "end": 43,
+          "expanded_url": "https://x.com/skyseafor/status/2070080596622324011/photo/1",
+          "media_key": "3_2070080591975043072",
+          "start": 20,
+          "url": "https://t.co/MM4YrAoltw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070080596622324011",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "vibe小子的人生 不如改名嘉豪人生😂 https://t.co/MM4YrAoltw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 603,
+        "media_key": "3_2070080591975043072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpnVKUaUAAAW-5.jpg",
+        "width": 885
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070080591975043072"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070080596622324011",
+        "created_at": "2026-06-25T09:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070080596622324011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MM4YrAoltw",
+              "end": 43,
+              "expanded_url": "https://x.com/skyseafor/status/2070080596622324011/photo/1",
+              "media_key": "3_2070080591975043072",
+              "start": 20,
+              "url": "https://t.co/MM4YrAoltw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070080596622324011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "vibe小子的人生 不如改名嘉豪人生😂 https://t.co/MM4YrAoltw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 199,
+          "like_count": 775,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 531
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

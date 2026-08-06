@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2041587396542918723",
+    "created_at": "2026-04-07T18:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T19:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041587396542918723"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041587396542918723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是ill 我觉得有必要将生活日常分离到另外一个推特上 那目前就用我对象的推吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2041587396542918723",
+        "created_at": "2026-04-07T18:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041587396542918723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041587396542918723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是ill 我觉得有必要将生活日常分离到另外一个推特上 那目前就用我对象的推吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "以后拿对象的号发日常吧 原号就不发生活有关的信息了 @520illusion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106268956667905/U0s-O2-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 3,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044973488180723712",
+        "3_2044973487157391360"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2044973511748497810",
+    "created_at": "2026-04-17T02:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T03:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044973511748497810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n4CIZIr3z6",
+          "end": 39,
+          "expanded_url": "https://x.com/skyseafor/status/2044973511748497810/photo/1",
+          "media_key": "3_2044973488180723712",
+          "start": 16,
+          "url": "https://t.co/n4CIZIr3z6"
+        },
+        {
+          "display_url": "pic.x.com/n4CIZIr3z6",
+          "end": 39,
+          "expanded_url": "https://x.com/skyseafor/status/2044973511748497810/photo/1",
+          "media_key": "3_2044973487157391360",
+          "start": 16,
+          "url": "https://t.co/n4CIZIr3z6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044973511748497810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发誓这辈子不od后骑电瓶车了 https://t.co/n4CIZIr3z6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2044973488180723712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGE0jYIagAAhoeX.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2044973487157391360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGE0jUUbsAAJ0bN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044973488180723712",
+            "3_2044973487157391360"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2044973511748497810",
+        "created_at": "2026-04-17T02:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044973511748497810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4CIZIr3z6",
+              "end": 39,
+              "expanded_url": "https://x.com/skyseafor/status/2044973511748497810/photo/1",
+              "media_key": "3_2044973488180723712",
+              "start": 16,
+              "url": "https://t.co/n4CIZIr3z6"
+            },
+            {
+              "display_url": "pic.x.com/n4CIZIr3z6",
+              "end": 39,
+              "expanded_url": "https://x.com/skyseafor/status/2044973511748497810/photo/1",
+              "media_key": "3_2044973487157391360",
+              "start": 16,
+              "url": "https://t.co/n4CIZIr3z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044973511748497810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发誓这辈子不od后骑电瓶车了 https://t.co/n4CIZIr3z6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "以后拿对象的号发日常吧 原号就不发日常生活了 @520illusion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106268956667905/U0s-O2-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 3,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 34
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

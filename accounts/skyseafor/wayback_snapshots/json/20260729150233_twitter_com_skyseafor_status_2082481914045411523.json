@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2082481914045411523",
+    "created_at": "2026-07-29T15:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082481914045411523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/skyseafor/status/2082083973401067840",
+          "start": 20,
+          "url": "https://t.co/MNRUDMinRK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082481914045411523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082083973401067840",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我简直就是中国铁路局上海局战略合作伙伴 https://t.co/MNRUDMinRK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2082481914045411523",
+        "created_at": "2026-07-29T15:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082481914045411523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/skyseafor/status/2082083973401067840",
+              "start": 20,
+              "url": "https://t.co/MNRUDMinRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082481914045411523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082083973401067840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我简直就是中国铁路局上海局战略合作伙伴 https://t.co/MNRUDMinRK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2082083973401067840",
+        "created_at": "2026-07-28T12:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082083973401067840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huantim7/statu…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/huantim7/status/2082012358185193702",
+              "start": 64,
+              "url": "https://t.co/9VfvMxCgfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082083973401067840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1908,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082012358185193702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6/1-7/28 \n合肥→南京→杭州→宁波→杭州→宁波→南京→合肥→福州→杭州→上海→南京→无锡→南京→合肥→北京→天津→合肥 https://t.co/9VfvMxCgfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2262,
+          "following_count": 223,
+          "like_count": 1356,
+          "listed_count": 2,
+          "media_count": 413,
+          "tweet_count": 938
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2069695118110830811",
+    "created_at": "2026-06-24T09:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069720217757102089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050610838906482689",
+          "start": 0,
+          "username": "Pthree114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069720217757102089",
+    "in_reply_to_user_id": "2050610838906482689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069713726643851322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pthree114514 有 去广州找寒链yi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2069695118110830811",
+        "created_at": "2026-06-24T09:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069720217757102089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050610838906482689",
+              "start": 0,
+              "username": "Pthree114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069720217757102089",
+        "in_reply_to_user_id": "2050610838906482689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069713726643851322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pthree114514 有 去广州找寒链yi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050610838906482689",
+        "conversation_id": "2069695118110830811",
+        "created_at": "2026-06-24T09:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069713726643851322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069713726643851322",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069695118110830811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 主播主播杭电cs方向分数线还是太高了有没有更性价比更平民的打法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 193,
+          "like_count": 745,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 515
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-02T16:18:27.000Z",
+        "description": "Kiooll ｜ x作为日记本记录一些没有营养的日常。！｜ 几乎全网同头像同ID q友和现实生活中的朋友能刷到我说明我俩真有缘 但是我上个号rip了正在杀出冥界的过程中 至于能不能杀出来那另说 先用这个号了 所以这里其实是#PThree_2.0二号机",
+        "id": "2050610838906482689",
+        "location": "被窝里",
+        "name": "#PThree_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050610941696659456/--pBE2xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 47,
+          "like_count": 1520,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "Pthree114514",
+        "verified": false
+      }
+    ]
+  }
+}

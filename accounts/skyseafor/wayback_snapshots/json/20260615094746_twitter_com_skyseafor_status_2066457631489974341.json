@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066457619913662464"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2066457631489974341",
+    "created_at": "2026-06-15T09:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066457631489974341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wPoBqrFGPe",
+          "end": 44,
+          "expanded_url": "https://x.com/skyseafor/status/2066457631489974341/photo/1",
+          "media_key": "3_2066457619913662464",
+          "start": 21,
+          "url": "https://t.co/wPoBqrFGPe"
+        },
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/skyseafor/status/2066451822420820436",
+          "start": 45,
+          "url": "https://t.co/ZAYrTkLvlz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066457631489974341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066451822420820436",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "校长亲自送我到大门口 这辈子最高的待遇了 https://t.co/wPoBqrFGPe https://t.co/ZAYrTkLvlz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066457619913662464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2IQbpaYAASc5Z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066451812664963073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2C-Z9bcAEM6UC.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066457619913662464"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066457631489974341",
+        "created_at": "2026-06-15T09:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066457631489974341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPoBqrFGPe",
+              "end": 44,
+              "expanded_url": "https://x.com/skyseafor/status/2066457631489974341/photo/1",
+              "media_key": "3_2066457619913662464",
+              "start": 21,
+              "url": "https://t.co/wPoBqrFGPe"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/skyseafor/status/2066451822420820436",
+              "start": 45,
+              "url": "https://t.co/ZAYrTkLvlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066457631489974341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066451822420820436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "校长亲自送我到大门口 这辈子最高的待遇了 https://t.co/wPoBqrFGPe https://t.co/ZAYrTkLvlz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066451812664963073"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066451822420820436",
+        "created_at": "2026-06-15T09:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066451822420820436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9wWvLGK3Z",
+              "end": 50,
+              "expanded_url": "https://x.com/skyseafor/status/2066451822420820436/photo/1",
+              "media_key": "3_2066451812664963073",
+              "start": 27,
+              "url": "https://t.co/x9wWvLGK3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066451822420820436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子第一次踏入学校校长室 \n应该也是这辈子最后一次 https://t.co/x9wWvLGK3Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 176,
+          "like_count": 467,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 355
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

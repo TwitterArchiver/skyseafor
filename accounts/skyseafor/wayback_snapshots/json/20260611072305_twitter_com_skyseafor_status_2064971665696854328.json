@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064971663608041472"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2064971665696854328",
+    "created_at": "2026-06-11T07:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064971665696854328"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dr1VBAlJ6c",
+          "end": 58,
+          "expanded_url": "https://x.com/skyseafor/status/2064971665696854328/photo/1",
+          "media_key": "3_2064971663608041472",
+          "start": 35,
+          "url": "https://t.co/dr1VBAlJ6c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064971665696854328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个QQ进群验证是什么意思啊 难道是缅北的跨跨？涉诈高风险地区？？？ https://t.co/dr1VBAlJ6c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 239,
+        "media_key": "3_2064971663608041472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhAyZCa0AAl73u.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064971663608041472"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2064971665696854328",
+        "created_at": "2026-06-11T07:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064971665696854328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dr1VBAlJ6c",
+              "end": 58,
+              "expanded_url": "https://x.com/skyseafor/status/2064971665696854328/photo/1",
+              "media_key": "3_2064971663608041472",
+              "start": 35,
+              "url": "https://t.co/dr1VBAlJ6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064971665696854328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个QQ进群验证是什么意思啊 难道是缅北的跨跨？涉诈高风险地区？？？ https://t.co/dr1VBAlJ6c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 134,
+          "like_count": 280,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 255
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079173034934697984"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2079173051653169217",
+    "created_at": "2026-07-20T11:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079173051653169217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OGzygS6bkt",
+          "end": 43,
+          "expanded_url": "https://x.com/skyseafor/status/2079173051653169217/photo/1",
+          "media_key": "3_2079173034934697984",
+          "start": 20,
+          "url": "https://t.co/OGzygS6bkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079173051653169217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "揭开封条 进入幻象丛生的魔法世界 🍄🍄 https://t.co/OGzygS6bkt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2079173034934697984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq02_3agAAC2EE.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079173034934697984"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2079173051653169217",
+        "created_at": "2026-07-20T11:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079173051653169217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGzygS6bkt",
+              "end": 43,
+              "expanded_url": "https://x.com/skyseafor/status/2079173051653169217/photo/1",
+              "media_key": "3_2079173034934697984",
+              "start": 20,
+              "url": "https://t.co/OGzygS6bkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079173051653169217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "揭开封条 进入幻象丛生的魔法世界 🍄🍄 https://t.co/OGzygS6bkt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 222,
+          "like_count": 1182,
+          "listed_count": 1,
+          "media_count": 381,
+          "tweet_count": 822
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

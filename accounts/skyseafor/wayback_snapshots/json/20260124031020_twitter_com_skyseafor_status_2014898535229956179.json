@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014898523670491136"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2014898535229956179",
+    "created_at": "2026-01-24T03:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T04:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014898535229956179"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6MLlhNba8o",
+          "end": 30,
+          "expanded_url": "https://x.com/skyseafor/status/2014898535229956179/photo/1",
+          "media_key": "3_2014898523670491136",
+          "start": 7,
+          "url": "https://t.co/6MLlhNba8o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014898535229956179",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你自己去似！ https://t.co/6MLlhNba8o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_2014898523670491136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ZbiCnWsAAu6zD.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014898523670491136"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2014898535229956179",
+        "created_at": "2026-01-24T03:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T04:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014898535229956179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MLlhNba8o",
+              "end": 30,
+              "expanded_url": "https://x.com/skyseafor/status/2014898535229956179/photo/1",
+              "media_key": "3_2014898523670491136",
+              "start": 7,
+              "url": "https://t.co/6MLlhNba8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014898535229956179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你自己去似！ https://t.co/6MLlhNba8o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "ill",
+        "id": "1995266194576961536",
+        "location": "上海市宛平南路600号",
+        "name": "sky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106268956667905/U0s-O2-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

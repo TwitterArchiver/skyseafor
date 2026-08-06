@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062325995072548864"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2062326005537394898",
+    "created_at": "2026-06-04T00:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T01:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062326005537394898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uwqhJiRE1k",
+          "end": 30,
+          "expanded_url": "https://x.com/skyseafor/status/2062326005537394898/photo/1",
+          "media_key": "3_2062325995072548864",
+          "start": 7,
+          "url": "https://t.co/uwqhJiRE1k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062326005537394898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每日隐藏节目 https://t.co/uwqhJiRE1k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2062325995072548864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7akNtacAAE1A8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062325995072548864"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2062326005537394898",
+        "created_at": "2026-06-04T00:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062326005537394898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwqhJiRE1k",
+              "end": 30,
+              "expanded_url": "https://x.com/skyseafor/status/2062326005537394898/photo/1",
+              "media_key": "3_2062325995072548864",
+              "start": 7,
+              "url": "https://t.co/uwqhJiRE1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062326005537394898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日隐藏节目 https://t.co/uwqhJiRE1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 17,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 109
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

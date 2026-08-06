@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2068976761770262625",
+    "created_at": "2026-06-22T10:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069002719294308544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510447851507261445",
+          "start": 0,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069002719294308544",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068976761770262625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanziiLove 让男朋友也srs😈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2068976753545236480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ7ZTua0AAJDIL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2068976761770262625",
+        "created_at": "2026-06-22T10:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069002719294308544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069002719294308544",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068976761770262625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 让男朋友也srs😈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068976753545236480"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2068976761770262625",
+        "created_at": "2026-06-22T08:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068976761770262625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s81ZOHnabI",
+              "end": 90,
+              "expanded_url": "https://x.com/LanziiLove/status/2068976761770262625/photo/1",
+              "media_key": "3_2068976753545236480",
+              "start": 67,
+              "url": "https://t.co/s81ZOHnabI"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/lanziilove/status/2068712285779210404",
+              "start": 91,
+              "url": "https://t.co/SMvRe6mdrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068976761770262625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9916,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068712285779210404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更正一下 其实是4.4cm（\n然后以防你不知道4.4cm是什么概念 下图是我的手腕（\n\n其次求求有没有让男友newnew变细的办法🥹 https://t.co/s81ZOHnabI https://t.co/SMvRe6mdrL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 184,
+          "like_count": 616,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 本名杜澄溪 💕平时会发各种各样的日常～高P 没有任何盈利内容 所以不要相信骗子哦 目前只营B站和X🏠@dexy0306这是我的男友然桑 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25823,
+          "following_count": 1282,
+          "like_count": 3226,
+          "listed_count": 79,
+          "media_count": 452,
+          "tweet_count": 2773
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

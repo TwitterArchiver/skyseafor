@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065731813474279424"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405583886260736000",
+          "name": "Night scapes"
+        }
+      }
+    ],
+    "conversation_id": "2065731828091335058",
+    "created_at": "2026-06-13T09:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065731828091335058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ms1rpckjOw",
+          "end": 62,
+          "expanded_url": "https://x.com/skyseafor/status/2065731828091335058/photo/1",
+          "media_key": "3_2065731813474279424",
+          "start": 39,
+          "url": "https://t.co/Ms1rpckjOw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065731828091335058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天空和海洋有个共同点  他们都是蓝色\n\n配图为 南京城 紫峰大厦 星空夜景图 https://t.co/Ms1rpckjOw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1922,
+        "media_key": "3_2065731813474279424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr0I79boAAJMPO.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065731813474279424"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405583886260736000",
+              "name": "Night scapes"
+            }
+          }
+        ],
+        "conversation_id": "2065731828091335058",
+        "created_at": "2026-06-13T09:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065731828091335058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ms1rpckjOw",
+              "end": 62,
+              "expanded_url": "https://x.com/skyseafor/status/2065731828091335058/photo/1",
+              "media_key": "3_2065731813474279424",
+              "start": 39,
+              "url": "https://t.co/Ms1rpckjOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065731828091335058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天空和海洋有个共同点  他们都是蓝色\n\n配图为 南京城 紫峰大厦 星空夜景图 https://t.co/Ms1rpckjOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 171,
+          "like_count": 370,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 306
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

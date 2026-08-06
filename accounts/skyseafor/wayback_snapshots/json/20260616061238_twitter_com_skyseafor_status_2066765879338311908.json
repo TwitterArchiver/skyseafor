@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2066741840141750601",
+    "created_at": "2026-06-16T06:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066765879338311908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2989618511",
+          "start": 0,
+          "username": "Kristall_Wang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066765879338311908",
+    "in_reply_to_user_id": "2989618511",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066741840141750601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kristall_Wang_ ？😥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066741834546634752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6Kv5qXYAA_dMI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066741840141750601",
+        "created_at": "2026-06-16T06:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066765879338311908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2989618511",
+              "start": 0,
+              "username": "Kristall_Wang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066765879338311908",
+        "in_reply_to_user_id": "2989618511",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066741840141750601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kristall_Wang_ ？😥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066741834546634752"
+          ]
+        },
+        "author_id": "2989618511",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2066741840141750601",
+        "created_at": "2026-06-16T04:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066741840141750601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNOPebjJ2P",
+              "end": 71,
+              "expanded_url": "https://x.com/Kristall_Wang_/status/2066741840141750601/photo/1",
+              "media_key": "3_2066741834546634752",
+              "start": 48,
+              "url": "https://t.co/dNOPebjJ2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066741840141750601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1435,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…\n其实忘在Twitter这边发了，\n\n嗯，我就是那个HRT十年还没手术发了条小红书的MtF… https://t.co/dNOPebjJ2P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 177,
+          "like_count": 497,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 376
+        },
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2015-01-21T11:33:34.000Z",
+        "description": "Astrophysics&Biochemistry/MtF/IEEE+ACS+APS studentmember/English talking okay/无产阶级万岁！/Lolita/168/87/66/88/70D/锁推的fo前请私信/闷声大发财，我什么也不说，这是坠吼的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kristall-wang.lgbt",
+                "end": 23,
+                "expanded_url": "http://kristall-wang.lgbt",
+                "start": 0,
+                "url": "https://t.co/xB7XCAbKWH"
+              }
+            ]
+          }
+        },
+        "id": "2989618511",
+        "name": "Kristall Wang（接受所有回fo）#StopWar（反射弧很长）",
+        "pinned_tweet_id": "1610098333770547201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567704879350648834/eExiJ1sW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5069,
+          "following_count": 5144,
+          "like_count": 107683,
+          "listed_count": 22,
+          "media_count": 957,
+          "tweet_count": 27492
+        },
+        "url": "https://t.co/xB7XCAbKWH",
+        "username": "Kristall_Wang_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078028739167051776"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2078028748696482036",
+    "created_at": "2026-07-17T08:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078028748696482036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dImgUCEofn",
+          "end": 75,
+          "expanded_url": "https://x.com/skyseafor/status/2078028748696482036/photo/1",
+          "media_key": "3_2078028739167051776",
+          "start": 52,
+          "url": "https://t.co/dImgUCEofn"
+        },
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/skyseafor/status/2077951306095112262",
+          "start": 76,
+          "url": "https://t.co/yEbkLvu35k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078028748696482036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077951306095112262",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我才发现合同上写着\n租房期间应合法使用房屋 不得在房屋内从事违法 违规事项   \n\n好难绷啊  😆😆😆 https://t.co/dImgUCEofn https://t.co/yEbkLvu35k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 699,
+        "media_key": "3_2078028739167051776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNakIN8a4AAuUuM.jpg",
+        "width": 948
+      },
+      {
+        "height": 918,
+        "media_key": "3_2077951293046521856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZdsQqaAAAKnPM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2077951293583454208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZdsSqa8AAFaHw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078028739167051776"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2078028748696482036",
+        "created_at": "2026-07-17T08:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078028748696482036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dImgUCEofn",
+              "end": 75,
+              "expanded_url": "https://x.com/skyseafor/status/2078028748696482036/photo/1",
+              "media_key": "3_2078028739167051776",
+              "start": 52,
+              "url": "https://t.co/dImgUCEofn"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/skyseafor/status/2077951306095112262",
+              "start": 76,
+              "url": "https://t.co/yEbkLvu35k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078028748696482036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077951306095112262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我才发现合同上写着\n租房期间应合法使用房屋 不得在房屋内从事违法 违规事项   \n\n好难绷啊  😆😆😆 https://t.co/dImgUCEofn https://t.co/yEbkLvu35k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077951293046521856",
+            "3_2077951293583454208"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2077951306095112262",
+        "created_at": "2026-07-17T02:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077951306095112262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRyl67Z0uw",
+              "end": 61,
+              "expanded_url": "https://x.com/skyseafor/status/2077951306095112262/photo/1",
+              "media_key": "3_2077951293046521856",
+              "start": 38,
+              "url": "https://t.co/qRyl67Z0uw"
+            },
+            {
+              "display_url": "pic.x.com/qRyl67Z0uw",
+              "end": 61,
+              "expanded_url": "https://x.com/skyseafor/status/2077951306095112262/photo/1",
+              "media_key": "3_2077951293583454208",
+              "start": 38,
+              "url": "https://t.co/qRyl67Z0uw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077951306095112262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1488,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新房租好了 加上中介费 违约金 1.2w \n\n明后天去南京再租一套 😋😋😋 https://t.co/qRyl67Z0uw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 222,
+          "like_count": 1114,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 768
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

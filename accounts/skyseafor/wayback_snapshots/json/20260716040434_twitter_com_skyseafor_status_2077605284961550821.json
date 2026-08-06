@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077605281614479360"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077605284961550821",
+    "created_at": "2026-07-16T04:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077605284961550821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9XFAkeh7MG",
+          "end": 123,
+          "expanded_url": "https://x.com/skyseafor/status/2077605284961550821/photo/1",
+          "media_key": "3_2077605281614479360",
+          "start": 100,
+          "url": "https://t.co/9XFAkeh7MG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077605284961550821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "18岁的1万够全国各地玩一年  60岁的1万只够在ICU待一晚 \n\n父母总是跟我说 要是现在不努力 以后就会过得很苦  可是他们根本不知道财富和年龄是绑定的硬性关系\n\n欲买桂花同载酒，终不似，少年游 https://t.co/9XFAkeh7MG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1391,
+        "media_key": "3_2077605281614479360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUi_vobQAAGDZ2.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077605281614479360"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077605284961550821",
+        "created_at": "2026-07-16T04:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077605284961550821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9XFAkeh7MG",
+              "end": 123,
+              "expanded_url": "https://x.com/skyseafor/status/2077605284961550821/photo/1",
+              "media_key": "3_2077605281614479360",
+              "start": 100,
+              "url": "https://t.co/9XFAkeh7MG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077605284961550821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "18岁的1万够全国各地玩一年  60岁的1万只够在ICU待一晚 \n\n父母总是跟我说 要是现在不努力 以后就会过得很苦  可是他们根本不知道财富和年龄是绑定的硬性关系\n\n欲买桂花同载酒，终不似，少年游 https://t.co/9XFAkeh7MG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 219,
+          "like_count": 1059,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 727
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

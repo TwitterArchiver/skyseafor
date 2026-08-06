@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074696246401675264"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2074696254819639428",
+    "created_at": "2026-07-08T03:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074696254819639428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JsnetsL6xp",
+          "end": 155,
+          "expanded_url": "https://x.com/skyseafor/status/2074696254819639428/photo/1",
+          "media_key": "3_2074696246401675264",
+          "start": 132,
+          "url": "https://t.co/JsnetsL6xp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074696254819639428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "有意思 安二院和省精卫对精二药物的CD逻辑不一样  今年四月份之后 合肥对精药管控做了加强 \n但是不同医院CD逻辑不一样  安徽省精卫是针对人CD  安二院是对药物CD  这意味着 在安二 我可以同一天反复开不同的精药  \n趁bug还没修复 趁我还在合肥 哼哼😈 https://t.co/JsnetsL6xp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074696246401675264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrNPm-bsAArLcw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074696246401675264"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2074696254819639428",
+        "created_at": "2026-07-08T03:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074696254819639428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JsnetsL6xp",
+              "end": 155,
+              "expanded_url": "https://x.com/skyseafor/status/2074696254819639428/photo/1",
+              "media_key": "3_2074696246401675264",
+              "start": 132,
+              "url": "https://t.co/JsnetsL6xp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074696254819639428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "有意思 安二院和省精卫对精二药物的CD逻辑不一样  今年四月份之后 合肥对精药管控做了加强 \n但是不同医院CD逻辑不一样  安徽省精卫是针对人CD  安二院是对药物CD  这意味着 在安二 我可以同一天反复开不同的精药  \n趁bug还没修复 趁我还在合肥 哼哼😈 https://t.co/JsnetsL6xp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 213,
+          "like_count": 994,
+          "listed_count": 2,
+          "media_count": 314,
+          "tweet_count": 661
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

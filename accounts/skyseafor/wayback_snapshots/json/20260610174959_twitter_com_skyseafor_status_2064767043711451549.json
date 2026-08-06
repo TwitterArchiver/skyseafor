@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2064767043711451549",
+    "created_at": "2026-06-10T17:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064767043711451549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qiancongxyn/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/qiancongxyn/status/2064328231655010757",
+          "start": 17,
+          "url": "https://t.co/20ayehdRE4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064767043711451549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064328231655010757",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想知道现在圈内对我是什么评价🤔 https://t.co/20ayehdRE4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2064767043711451549",
+        "created_at": "2026-06-10T17:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064767043711451549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiancongxyn/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/qiancongxyn/status/2064328231655010757",
+              "start": 17,
+              "url": "https://t.co/20ayehdRE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064767043711451549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064328231655010757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想知道现在圈内对我是什么评价🤔 https://t.co/20ayehdRE4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761282483834998784",
+        "conversation_id": "2064328231655010757",
+        "created_at": "2026-06-09T12:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064328231655010757"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064328231655010757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5621,
+          "like_count": 53,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想知道现在圈内对我是什么评价🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064231325813686505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 134,
+          "like_count": 264,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 250
+        },
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n爱哭+发牢骚｜觉得我傻逼就ban\n蓝v必回fo｜友好相处｜喜欢我就关注下呗🥺\n\n对象是小一\n危机联系人 @CCA8798suki\n姐姐 @huihui_mikumi\n宝宝 @picxis63594",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "CCA8798suki"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "picxis63594"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2064658549897343166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 1020,
+          "like_count": 2354,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1787
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044947162807836673"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2044947171964055932",
+    "created_at": "2026-04-17T01:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T02:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044947171964055932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IR3PtiWR3P",
+          "end": 29,
+          "expanded_url": "https://x.com/skyseafor/status/2044947171964055932/photo/1",
+          "media_key": "3_2044947162807836673",
+          "start": 6,
+          "url": "https://t.co/IR3PtiWR3P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044947171964055932",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在哭 https://t.co/IR3PtiWR3P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 709,
+        "media_key": "3_2044947162807836673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGEcnCeaoAEdcio.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044947162807836673"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2044947171964055932",
+        "created_at": "2026-04-17T01:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T02:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044947171964055932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IR3PtiWR3P",
+              "end": 29,
+              "expanded_url": "https://x.com/skyseafor/status/2044947171964055932/photo/1",
+              "media_key": "3_2044947162807836673",
+              "start": 6,
+              "url": "https://t.co/IR3PtiWR3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044947171964055932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在哭 https://t.co/IR3PtiWR3P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "以后拿对象的号发日常吧 原号就不发日常生活了 @520illusion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106268956667905/U0s-O2-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 3,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 32
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

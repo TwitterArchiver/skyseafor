@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2070864924759478344",
+    "created_at": "2026-06-28T03:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T04:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071068844668678635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1619675758519271424",
+          "start": 0,
+          "username": "_816R_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071068844668678635",
+    "in_reply_to_user_id": "1619675758519271424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071054661751361656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_816R_ 他们亏大了那我不就赚大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2070864924759478344",
+        "created_at": "2026-06-28T03:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071068844668678635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1619675758519271424",
+              "start": 0,
+              "username": "_816R_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071068844668678635",
+        "in_reply_to_user_id": "1619675758519271424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071054661751361656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_816R_ 他们亏大了那我不就赚大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619675758519271424",
+        "conversation_id": "2070864924759478344",
+        "created_at": "2026-06-28T02:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071054661751361656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071054661751361656",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 540,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070864924759478344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 你刷实体卡也一样啊 不预授权到时候刷张没钱的卡出站申通不亏大了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 203,
+          "like_count": 836,
+          "listed_count": 2,
+          "media_count": 253,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-29T12:37:32.000Z",
+        "description": "编辑个人资料???\n17y.r. | ISFP-T | 啥也不会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "816r.org",
+                "end": 23,
+                "expanded_url": "https://www.816r.org/",
+                "start": 0,
+                "url": "https://t.co/1uFsaoFBMF"
+              }
+            ]
+          }
+        },
+        "id": "1619675758519271424",
+        "location": "127.0.0.1",
+        "name": "816R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620661216866881536/50ZhXpJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 132,
+          "like_count": 5637,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/1uFsaoFBMF",
+        "username": "_816R_",
+        "verified": false
+      }
+    ]
+  }
+}

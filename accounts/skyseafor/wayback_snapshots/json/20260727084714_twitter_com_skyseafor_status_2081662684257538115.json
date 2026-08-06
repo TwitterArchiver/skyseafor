@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081662675877236737"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2081662684257538115",
+    "created_at": "2026-07-27T08:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081662684257538115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XQ0fV4bF9q",
+          "end": 66,
+          "expanded_url": "https://x.com/skyseafor/status/2081662684257538115/photo/1",
+          "media_key": "3_2081662675877236737",
+          "start": 43,
+          "url": "https://t.co/XQ0fV4bF9q"
+        },
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/skyseafor/status/2081660253125607570",
+          "start": 67,
+          "url": "https://t.co/HD91gouJ8y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081662684257538115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081660253125607570",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "气死我了  刚试了一下走C2C都能卖到6.71  1500美金 至少也能到5位数 草 https://t.co/XQ0fV4bF9q https://t.co/HD91gouJ8y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1298,
+        "media_key": "3_2081662675877236737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOONLLHaEAEUi_h.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2615,
+        "media_key": "3_2081660241838739456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOK9fnaEAAr_fK.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081662675877236737"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2081662684257538115",
+        "created_at": "2026-07-27T08:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081662684257538115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQ0fV4bF9q",
+              "end": 66,
+              "expanded_url": "https://x.com/skyseafor/status/2081662684257538115/photo/1",
+              "media_key": "3_2081662675877236737",
+              "start": 43,
+              "url": "https://t.co/XQ0fV4bF9q"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/skyseafor/status/2081660253125607570",
+              "start": 67,
+              "url": "https://t.co/HD91gouJ8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081662684257538115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081660253125607570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "气死我了  刚试了一下走C2C都能卖到6.71  1500美金 至少也能到5位数 草 https://t.co/XQ0fV4bF9q https://t.co/HD91gouJ8y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081660241838739456"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2081660253125607570",
+        "created_at": "2026-07-27T08:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081660253125607570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhOwZNUpyp",
+              "end": 86,
+              "expanded_url": "https://x.com/skyseafor/status/2081660253125607570/photo/1",
+              "media_key": "3_2081660241838739456",
+              "start": 63,
+              "url": "https://t.co/lhOwZNUpyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081660253125607570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bitget VISA卡汇率已经到6.59了 去年最高点7.31 一年啥都没动 几万美金没了 美元你就贬值吧 我不哭 也不闹 https://t.co/lhOwZNUpyp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 223,
+          "like_count": 1309,
+          "listed_count": 1,
+          "media_count": 407,
+          "tweet_count": 905
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

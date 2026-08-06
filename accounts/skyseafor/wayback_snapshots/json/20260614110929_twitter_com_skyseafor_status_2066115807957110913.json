@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066115796770922496"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2066115807957110913",
+    "created_at": "2026-06-14T11:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066115807957110913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hfPu6QFOcH",
+          "end": 41,
+          "expanded_url": "https://x.com/skyseafor/status/2066115807957110913/photo/1",
+          "media_key": "3_2066115796770922496",
+          "start": 18,
+          "url": "https://t.co/hfPu6QFOcH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066115807957110913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我草，我竟然在西湖旁边拍到了迈巴赫 https://t.co/hfPu6QFOcH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066115796770922496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxRXtNaoAAJ0IQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066115796770922496"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066115807957110913",
+        "created_at": "2026-06-14T11:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066115807957110913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hfPu6QFOcH",
+              "end": 41,
+              "expanded_url": "https://x.com/skyseafor/status/2066115807957110913/photo/1",
+              "media_key": "3_2066115796770922496",
+              "start": 18,
+              "url": "https://t.co/hfPu6QFOcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066115807957110913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草，我竟然在西湖旁边拍到了迈巴赫 https://t.co/hfPu6QFOcH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 174,
+          "like_count": 411,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 325
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

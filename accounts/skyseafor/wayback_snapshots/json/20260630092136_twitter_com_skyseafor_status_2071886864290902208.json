@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2071873760840515676",
+    "created_at": "2026-06-30T09:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071886864290902208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1859140103039578114",
+          "start": 0,
+          "username": "1ocv8rNR4y1337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071886864290902208",
+    "in_reply_to_user_id": "1859140103039578114",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071885470393643474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ocv8rNR4y1337 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2071873760840515676",
+        "created_at": "2026-06-30T09:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071886864290902208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1859140103039578114",
+              "start": 0,
+              "username": "1ocv8rNR4y1337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071886864290902208",
+        "in_reply_to_user_id": "1859140103039578114",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071885470393643474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ocv8rNR4y1337 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859140103039578114",
+        "conversation_id": "2071873760840515676",
+        "created_at": "2026-06-30T09:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071885470393643474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071885470393643474",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071873760840515676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 这次居然穿裤子了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 206,
+          "like_count": 893,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 597
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-20T07:42:04.000Z",
+        "description": "当你看到我的主页时，你已经急哭了，像一条野狗一样企图攻击我，但是老子根本不在乎你，傻逼东西赶紧去死吧，你这种废物根本不配活在这个世上，一击脱离的人全部默认为傻逼哦",
+        "id": "1859140103039578114",
+        "name": "Jason",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998341875452035072/4XtLMt3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 286,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "1ocv8rNR4y1337",
+        "verified": false
+      }
+    ]
+  }
+}

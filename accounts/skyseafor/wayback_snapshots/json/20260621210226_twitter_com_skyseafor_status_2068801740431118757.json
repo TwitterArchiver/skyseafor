@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068801737801289728"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2068801740431118757",
+    "created_at": "2026-06-21T21:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T22:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068801740431118757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ylpFsgIoOP",
+          "end": 56,
+          "expanded_url": "https://x.com/skyseafor/status/2068801740431118757/photo/1",
+          "media_key": "3_2068801737801289728",
+          "start": 33,
+          "url": "https://t.co/ylpFsgIoOP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068801740431118757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "补佳乐最后一点存货了 吃完断糖 \n女朋友那边闹翻了 不给我开药了 https://t.co/ylpFsgIoOP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2068801737801289728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXcODRbUAAJPhz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068801737801289728"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2068801740431118757",
+        "created_at": "2026-06-21T21:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068801740431118757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ylpFsgIoOP",
+              "end": 56,
+              "expanded_url": "https://x.com/skyseafor/status/2068801740431118757/photo/1",
+              "media_key": "3_2068801737801289728",
+              "start": 33,
+              "url": "https://t.co/ylpFsgIoOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068801740431118757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补佳乐最后一点存货了 吃完断糖 \n女朋友那边闹翻了 不给我开药了 https://t.co/ylpFsgIoOP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 183,
+          "like_count": 580,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 440
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

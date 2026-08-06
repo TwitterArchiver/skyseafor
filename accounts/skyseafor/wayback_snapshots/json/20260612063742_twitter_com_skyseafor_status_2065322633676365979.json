@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2065293522362859530",
+    "created_at": "2026-06-12T06:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065322633676365979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010816143846768640",
+          "start": 0,
+          "username": "luo_240110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065322633676365979",
+    "in_reply_to_user_id": "2010816143846768640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065320264901226913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo_240110 那流量不就来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2065293522362859530",
+        "created_at": "2026-06-12T06:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065322633676365979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010816143846768640",
+              "start": 0,
+              "username": "luo_240110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065322633676365979",
+        "in_reply_to_user_id": "2010816143846768640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065320264901226913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo_240110 那流量不就来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010816143846768640",
+        "conversation_id": "2065293522362859530",
+        "created_at": "2026-06-12T06:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065320264901226913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065320264901226913",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065293522362859530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 被骂怎么办🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 153,
+          "like_count": 321,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 280
+        },
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-12T20:48:47.000Z",
+        "description": "話したくない｜Ciallo～(∠・ω ≤ )︵★四代目｜互fo寻回\n一代目@YunoQiu56649｜二代目@Ciallo_114_514｜三代目@qi_bu64350\n*互fo请私信谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "qi_bu64350"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wrin520t",
+                "end": 23,
+                "expanded_url": "http://t.me/Wrin520t",
+                "start": 0,
+                "url": "https://t.co/qKIDVMQsor"
+              }
+            ]
+          }
+        },
+        "id": "2010816143846768640",
+        "location": "地球",
+        "name": "Ciallo🍥",
+        "pinned_tweet_id": "2058950293937958932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058074498285617152/2kdhJxKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 304,
+          "like_count": 531,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 897
+        },
+        "url": "https://t.co/qKIDVMQsor",
+        "username": "luo_240110",
+        "verified": false
+      }
+    ]
+  }
+}

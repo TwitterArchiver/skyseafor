@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074293468395094016"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2074293512133382416",
+    "created_at": "2026-07-07T00:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T01:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074293512133382416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ihxTGBR1lS",
+          "end": 42,
+          "expanded_url": "https://x.com/skyseafor/status/2074293512133382416/video/1",
+          "media_key": "7_2074293468395094016",
+          "start": 19,
+          "url": "https://t.co/ihxTGBR1lS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074293512133382416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠！ 3d投影技术用在医院结算机上 https://t.co/ihxTGBR1lS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5747,
+        "height": 1440,
+        "media_key": "7_2074293468395094016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074293468395094016/pu/img/fKtW-jmu-Y79px2h.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074293468395094016/pu/vid/avc1/480x640/XYu4x8vTMbTlD-AM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074293468395094016/pu/pl/Lzcdslc8S22EPvUH.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074293468395094016/pu/vid/avc1/320x426/-GrORivGVTaRQrhw.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074293468395094016/pu/vid/avc1/1080x1440/6uVlxG_Y9XarCWCL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074293468395094016/pu/vid/avc1/720x960/fB3_L6isrdT64s_I.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074293468395094016"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2074293512133382416",
+        "created_at": "2026-07-07T00:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074293512133382416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihxTGBR1lS",
+              "end": 42,
+              "expanded_url": "https://x.com/skyseafor/status/2074293512133382416/video/1",
+              "media_key": "7_2074293468395094016",
+              "start": 19,
+              "url": "https://t.co/ihxTGBR1lS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074293512133382416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠！ 3d投影技术用在医院结算机上 https://t.co/ihxTGBR1lS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 213,
+          "like_count": 987,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

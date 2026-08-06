@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065417377488183296"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065417387718160645",
+    "created_at": "2026-06-12T12:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065417387718160645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 36,
+          "id": "1675484395560648705",
+          "start": 20,
+          "username": "Bakaneko_Nya_39"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UFywZXmHMr",
+          "end": 60,
+          "expanded_url": "https://x.com/skyseafor/status/2065417387718160645/photo/1",
+          "media_key": "3_2065417377488183296",
+          "start": 37,
+          "url": "https://t.co/UFywZXmHMr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065417387718160645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "离开宁波前的贴贴喵~ la：宁波火车站 @Bakaneko_Nya_39 https://t.co/UFywZXmHMr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065417377488183296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnWKWoaIAAOr41.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065417377488183296"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065417387718160645",
+        "created_at": "2026-06-12T12:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065417387718160645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1675484395560648705",
+              "start": 20,
+              "username": "Bakaneko_Nya_39"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UFywZXmHMr",
+              "end": 60,
+              "expanded_url": "https://x.com/skyseafor/status/2065417387718160645/photo/1",
+              "media_key": "3_2065417377488183296",
+              "start": 37,
+              "url": "https://t.co/UFywZXmHMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065417387718160645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "离开宁波前的贴贴喵~ la：宁波火车站 @Bakaneko_Nya_39 https://t.co/UFywZXmHMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 167,
+          "like_count": 346,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 292
+        },
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-02T12:40:09.000Z",
+        "description": "這裡是貓貓｜🇹🇼 台灣高雄 ｜素一隻可愛小南梁 ｜喜歡女裝、ボカロ等等｜日檢N1合格證書持有者｜貓貓最好的朋友❤️(*≧▽≦)：@WYH_origin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "WYH_origin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/18726663…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/1872666347?plat_id=1&share_from=space&share_medium=android&share_plat=a",
+                "start": 0,
+                "url": "https://t.co/WRC0xfqDjr"
+              }
+            ]
+          }
+        },
+        "id": "1675484395560648705",
+        "location": "Taiwan",
+        "name": "笨貓愛吃小魚乾",
+        "pinned_tweet_id": "1909251522396909612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051007785849249792/xPLXfMBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 1010,
+          "like_count": 26581,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 7484
+        },
+        "url": "https://t.co/WRC0xfqDjr",
+        "username": "Bakaneko_Nya_39",
+        "verified": false
+      }
+    ]
+  }
+}

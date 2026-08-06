@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2064699084162945034",
+    "created_at": "2026-06-11T06:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064964759380975971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2007440582797602817",
+          "start": 0,
+          "username": "qiuxunyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064964759380975971",
+    "in_reply_to_user_id": "2007440582797602817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064699084162945034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuxunyu 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2064699084162945034",
+        "created_at": "2026-06-11T06:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064964759380975971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007440582797602817",
+              "start": 0,
+              "username": "qiuxunyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064964759380975971",
+        "in_reply_to_user_id": "2007440582797602817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064699084162945034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuxunyu 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007440582797602817",
+        "conversation_id": "2064699084162945034",
+        "created_at": "2026-06-10T13:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064699084162945034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064699084162945034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电动车逆行开远光的建议去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 134,
+          "like_count": 276,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 253
+        },
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T13:15:22.000Z",
+        "description": "Mtx/高中在读？/政史地/不od不割手手//浙江省随机刷新/双性恋/出厂日期2010/1/11/ADHD/26年学考/同类互fo/泛兴趣爱好者",
+        "id": "2007440582797602817",
+        "location": "中山东路",
+        "name": "秋寻雨yu🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043227644230238208/HkkLmE32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 182,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 126
+        },
+        "username": "qiuxunyu",
+        "verified": false
+      }
+    ]
+  }
+}

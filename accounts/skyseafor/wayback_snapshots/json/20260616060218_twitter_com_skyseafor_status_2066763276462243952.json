@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2066763276462243952",
+    "created_at": "2026-06-16T06:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:02:04.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066763216525672573",
+      "2066763276462243952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fuugetsu_808/s…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Fuugetsu_808/status/2066335699578802566",
+          "start": 21,
+          "url": "https://t.co/d05vgmxehw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066763276462243952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066335699578802566",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "立刻脑补出车牌号和司机了 以及蓝粉白配色 https://t.co/d05vgmxehw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2066335695749435392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0ZXgva0AA_upt.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066763216525672573",
+        "created_at": "2026-06-16T06:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:02:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066763216525672573",
+          "2066763276462243952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fuugetsu_808/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Fuugetsu_808/status/2066335699578802566",
+              "start": 21,
+              "url": "https://t.co/d05vgmxehw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066763216525672573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066335699578802566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "立刻脑补出车牌号和司机了 已经蓝粉白配色 https://t.co/d05vgmxehw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066763276462243952",
+        "created_at": "2026-06-16T06:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:02:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066763216525672573",
+          "2066763276462243952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fuugetsu_808/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Fuugetsu_808/status/2066335699578802566",
+              "start": 21,
+              "url": "https://t.co/d05vgmxehw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066763276462243952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066335699578802566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "立刻脑补出车牌号和司机了 以及蓝粉白配色 https://t.co/d05vgmxehw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066335695749435392"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2066335699578802566",
+        "created_at": "2026-06-15T01:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066335699578802566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aeSg6KkJYw",
+              "end": 44,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2066335699578802566/photo/1",
+              "media_key": "3_2066335695749435392",
+              "start": 21,
+              "url": "https://t.co/aeSg6KkJYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066335699578802566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1941,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "旧闻 宛平南路600号上海精卫大门被撞坏 https://t.co/aeSg6KkJYw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 177,
+          "like_count": 497,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 375
+        },
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "做这个推号的初衷是给大家带来启示与欢乐\n文学 | 评论 |",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5625,
+          "following_count": 1898,
+          "like_count": 64257,
+          "listed_count": 11,
+          "media_count": 1516,
+          "tweet_count": 11851
+        },
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2075027499864727695",
+    "created_at": "2026-07-09T01:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T02:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075027499864727695"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075027499864727695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我储存重要数据总有一个习惯  是我保存加密货币钱包秘钥时留下来的  秘钥拆碎和加密 \n\n在储存的时候 我会八二分  80%数据随身携带  20%数据 托管给信任的人  这样数据  我就拥有绝对控制权 即使设备被盗取或者密码泄露 都无关紧要\n\n同时 碎片的数据我可以记在脑子 以及做一些简单的加密  比如乱序"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2075027499864727695",
+        "created_at": "2026-07-09T01:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075027499864727695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075027499864727695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我储存重要数据总有一个习惯  是我保存加密货币钱包秘钥时留下来的  秘钥拆碎和加密 \n\n在储存的时候 我会八二分  80%数据随身携带  20%数据 托管给信任的人  这样数据  我就拥有绝对控制权 即使设备被盗取或者密码泄露 都无关紧要\n\n同时 碎片的数据我可以记在脑子 以及做一些简单的加密  比如乱序"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 213,
+          "like_count": 1002,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 675
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2070813136215798084",
+    "created_at": "2026-06-28T08:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071142311422239086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071142311422239086",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070813136215798084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 原来是你干的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070813118746497024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0Bj1MakAAi4dI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070813117022601216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0BjuxaAAAcnBV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 382,
+        "media_key": "3_2070813117450481664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0BjwXa8AAkfGh.jpg",
+        "width": 692
+      },
+      {
+        "height": 726,
+        "media_key": "3_2070813115831525376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0BjqVboAAeoq-.jpg",
+        "width": 1556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2070813136215798084",
+        "created_at": "2026-06-28T08:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071142311422239086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071142311422239086",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070813136215798084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 原来是你干的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070813118746497024",
+            "3_2070813117022601216",
+            "3_2070813117450481664",
+            "3_2070813115831525376"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070813136215798084",
+        "created_at": "2026-06-27T10:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070813136215798084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ieSlPCgH58",
+              "end": 104,
+              "expanded_url": "https://x.com/jlxc2001/status/2070813136215798084/photo/1",
+              "media_key": "3_2070813118746497024",
+              "start": 81,
+              "url": "https://t.co/ieSlPCgH58"
+            },
+            {
+              "display_url": "pic.x.com/ieSlPCgH58",
+              "end": 104,
+              "expanded_url": "https://x.com/jlxc2001/status/2070813136215798084/photo/1",
+              "media_key": "3_2070813117022601216",
+              "start": 81,
+              "url": "https://t.co/ieSlPCgH58"
+            },
+            {
+              "display_url": "pic.x.com/ieSlPCgH58",
+              "end": 104,
+              "expanded_url": "https://x.com/jlxc2001/status/2070813136215798084/photo/1",
+              "media_key": "3_2070813117450481664",
+              "start": 81,
+              "url": "https://t.co/ieSlPCgH58"
+            },
+            {
+              "display_url": "pic.x.com/ieSlPCgH58",
+              "end": 104,
+              "expanded_url": "https://x.com/jlxc2001/status/2070813136215798084/photo/1",
+              "media_key": "3_2070813115831525376",
+              "start": 81,
+              "url": "https://t.co/ieSlPCgH58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070813136215798084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 60399,
+          "like_count": 393,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现这次撞击事件的飞机，和我开的那架飞机是同款😨😨😨\n这架飞机可以用 100LL 的航空汽油或者 95 号的车用汽油，为了省成本所以一般都是 95 号汽油。 https://t.co/ieSlPCgH58"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 205,
+          "like_count": 841,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 569
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "pinned_tweet_id": "2059940003623621082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18207,
+          "following_count": 226,
+          "like_count": 668,
+          "listed_count": 46,
+          "media_count": 1220,
+          "tweet_count": 3208
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

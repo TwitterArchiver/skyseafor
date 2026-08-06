@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2074761148122235377",
+    "created_at": "2026-07-08T10:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074800543353217474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1684572167860801536",
+          "start": 0,
+          "username": "kukmoon97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074800543353217474",
+    "in_reply_to_user_id": "1684572167860801536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074797991769317844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@kukmoon97 验资三万美金"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2074761148122235377",
+        "created_at": "2026-07-08T10:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074800543353217474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1684572167860801536",
+              "start": 0,
+              "username": "kukmoon97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074800543353217474",
+        "in_reply_to_user_id": "1684572167860801536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074797991769317844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@kukmoon97 验资三万美金"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684572167860801536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2074761148122235377",
+        "created_at": "2026-07-08T10:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074797991769317844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074797991769317844",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074761148122235377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@skyseafor 请问你的新加坡卡是怎么开的啊？我想弄一张新加坡卡给 Claude Code 和 OpenAI Codex 充值"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 213,
+          "like_count": 999,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 672
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T14:32:20.000Z",
+        "description": "🌸 前 #伪娘｜现 #跨性别 女 ｜#AI + #Office 初心者 🌸 Fmr #crossdresser #CD｜Curr #MtF #transgender #TS｜AI+Office beginner 🌸 元 #女装子｜今や #ニューハーフ ｜AI+Office 初心者 🌸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "伪娘"
+              },
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "跨性别"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "AI"
+              },
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "Office"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "tag": "crossdresser"
+              },
+              {
+                "end": 59,
+                "start": 56,
+                "tag": "CD"
+              },
+              {
+                "end": 69,
+                "start": 65,
+                "tag": "MtF"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "tag": "transgender"
+              },
+              {
+                "end": 86,
+                "start": 83,
+                "tag": "TS"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "女装子"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "tag": "ニューハーフ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kukmoon",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kukmoon",
+                "start": 0,
+                "url": "https://t.co/RJj82hjUIU"
+              }
+            ]
+          }
+        },
+        "id": "1684572167860801536",
+        "location": "距离你 0.15 km",
+        "name": "神楽坂谷月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2072920902065680529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907686329288437760/qxwXzNcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7166,
+          "following_count": 6325,
+          "like_count": 103643,
+          "listed_count": 7,
+          "media_count": 2008,
+          "tweet_count": 18142
+        },
+        "url": "https://t.co/RJj82hjUIU",
+        "username": "kukmoon97",
+        "verified": true
+      }
+    ]
+  }
+}

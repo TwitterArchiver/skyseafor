@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2077322628545781975",
+    "created_at": "2026-07-16T02:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T03:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077575477620048012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077575477620048012",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077322628545781975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 😁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077322619108593664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQh6nvaEAAqKFD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2077322628545781975",
+        "created_at": "2026-07-16T02:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077575477620048012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077575477620048012",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077322628545781975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 😁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077322619108593664"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "conversation_id": "2077322628545781975",
+        "created_at": "2026-07-15T09:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077322628545781975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLo6P4P9R6",
+              "end": 26,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2077322628545781975/photo/1",
+              "media_key": "3_2077322619108593664",
+              "start": 3,
+              "url": "https://t.co/dLo6P4P9R6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077322628545781975",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 374,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ok https://t.co/dLo6P4P9R6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 219,
+          "like_count": 1057,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 724
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "我總有一天會把你給我帶來的所有傷痛一並還給你的｜全肯定@D_D_ovO_｜😺 @ashasw114514 @misakinae8964 @rinko_zero8964｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "ashasw114514"
+              },
+              {
+                "end": 67,
+                "start": 53,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "床",
+        "name": "💿胃名立希◉‿◉",
+        "pinned_tweet_id": "2072999358048637429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4683,
+          "following_count": 407,
+          "like_count": 25450,
+          "listed_count": 17,
+          "media_count": 1561,
+          "tweet_count": 19138
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082501322683883524",
+        "3_2082501331554836482",
+        "3_2082501341788971008",
+        "3_2082501350139805696"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2082501358532575659",
+    "created_at": "2026-07-29T16:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082501358532575659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 46,
+          "id": "1685499489493323776",
+          "start": 35,
+          "username": "GuiMengNya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jncbElNCab",
+          "end": 70,
+          "expanded_url": "https://x.com/skyseafor/status/2082501358532575659/photo/1",
+          "media_key": "3_2082501322683883524",
+          "start": 47,
+          "url": "https://t.co/jncbElNCab"
+        },
+        {
+          "display_url": "pic.x.com/jncbElNCab",
+          "end": 70,
+          "expanded_url": "https://x.com/skyseafor/status/2082501358532575659/photo/1",
+          "media_key": "3_2082501331554836482",
+          "start": 47,
+          "url": "https://t.co/jncbElNCab"
+        },
+        {
+          "display_url": "pic.x.com/jncbElNCab",
+          "end": 70,
+          "expanded_url": "https://x.com/skyseafor/status/2082501358532575659/photo/1",
+          "media_key": "3_2082501341788971008",
+          "start": 47,
+          "url": "https://t.co/jncbElNCab"
+        },
+        {
+          "display_url": "pic.x.com/jncbElNCab",
+          "end": 70,
+          "expanded_url": "https://x.com/skyseafor/status/2082501358532575659/photo/1",
+          "media_key": "3_2082501350139805696",
+          "start": 47,
+          "url": "https://t.co/jncbElNCab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082501358532575659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝宝你就使劲花我亲情卡吧  我一点也不苦 不累 不哭 不闹  😭😭😭 @GuiMengNya https://t.co/jncbElNCab"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2082501322683883524",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaH617aoAQqQ52.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2082501331554836482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaH7W-aoAIttD3.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2082501341788971008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaH79GbIAAGE1p.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2082501350139805696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaH8cNawAAhxO1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082501322683883524",
+            "3_2082501331554836482",
+            "3_2082501341788971008",
+            "3_2082501350139805696"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2082501358532575659",
+        "created_at": "2026-07-29T16:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082501358532575659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1685499489493323776",
+              "start": 35,
+              "username": "GuiMengNya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jncbElNCab",
+              "end": 70,
+              "expanded_url": "https://x.com/skyseafor/status/2082501358532575659/photo/1",
+              "media_key": "3_2082501322683883524",
+              "start": 47,
+              "url": "https://t.co/jncbElNCab"
+            },
+            {
+              "display_url": "pic.x.com/jncbElNCab",
+              "end": 70,
+              "expanded_url": "https://x.com/skyseafor/status/2082501358532575659/photo/1",
+              "media_key": "3_2082501331554836482",
+              "start": 47,
+              "url": "https://t.co/jncbElNCab"
+            },
+            {
+              "display_url": "pic.x.com/jncbElNCab",
+              "end": 70,
+              "expanded_url": "https://x.com/skyseafor/status/2082501358532575659/photo/1",
+              "media_key": "3_2082501341788971008",
+              "start": 47,
+              "url": "https://t.co/jncbElNCab"
+            },
+            {
+              "display_url": "pic.x.com/jncbElNCab",
+              "end": 70,
+              "expanded_url": "https://x.com/skyseafor/status/2082501358532575659/photo/1",
+              "media_key": "3_2082501350139805696",
+              "start": 47,
+              "url": "https://t.co/jncbElNCab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082501358532575659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝你就使劲花我亲情卡吧  我一点也不苦 不累 不哭 不闹  😭😭😭 @GuiMengNya https://t.co/jncbElNCab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263,
+          "following_count": 223,
+          "like_count": 1357,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 939
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/故里蓝鸢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10618,
+          "following_count": 684,
+          "like_count": 11464,
+          "listed_count": 29,
+          "media_count": 2523,
+          "tweet_count": 4928
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

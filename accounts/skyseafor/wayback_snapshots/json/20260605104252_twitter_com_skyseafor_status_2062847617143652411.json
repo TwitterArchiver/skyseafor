@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062847611892318208"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2062847617143652411",
+    "created_at": "2026-06-05T10:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062847617143652411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YVsS9u98aF",
+          "end": 36,
+          "expanded_url": "https://x.com/skyseafor/status/2062847617143652411/photo/1",
+          "media_key": "3_2062847611892318208",
+          "start": 13,
+          "url": "https://t.co/YVsS9u98aF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062847617143652411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雌二醇 药拟 原创 重发 https://t.co/YVsS9u98aF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2062847611892318208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC0-TyawAAwd6W.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062847611892318208"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2062847617143652411",
+        "created_at": "2026-06-05T10:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062847617143652411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YVsS9u98aF",
+              "end": 36,
+              "expanded_url": "https://x.com/skyseafor/status/2062847617143652411/photo/1",
+              "media_key": "3_2062847611892318208",
+              "start": 13,
+              "url": "https://t.co/YVsS9u98aF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062847617143652411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雌二醇 药拟 原创 重发 https://t.co/YVsS9u98aF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 50,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 127
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

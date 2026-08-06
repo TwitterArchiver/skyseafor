@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2083031300915814817",
+    "created_at": "2026-07-31T18:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T19:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083265314272555475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083265314272555475",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083031300915814817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii 不可以炼铜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15334,
+        "height": 2376,
+        "media_key": "13_2083031252270301185",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083031252270301185/img/G7AvoWhubW-_QaxA.jpg",
+        "public_metrics": {
+          "view_count": 183406
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083031252270301185/pl/0UfcfgURqQP9Z5yW.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083031252270301185/vid/avc1/320x704/xsA92_Y484Ueb_-8.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083031252270301185/vid/avc1/1080x2376/LDXitXVaE8EeS2Jv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083031252270301185/vid/avc1/480x1056/k281tSvdoI3jkf9J.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083031252270301185/vid/avc1/720x1584/KaCJQ8a9iancRfK8.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2083031300915814817",
+        "created_at": "2026-07-31T18:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083265314272555475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083265314272555475",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083031300915814817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 不可以炼铜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083031252270301185"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2083031300915814817",
+        "created_at": "2026-07-31T03:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083031300915814817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CtLFZNrNq5",
+              "end": 37,
+              "expanded_url": "https://x.com/xixikawaii/status/2083031300915814817/video/1",
+              "media_key": "13_2083031252270301185",
+              "start": 14,
+              "url": "https://t.co/CtLFZNrNq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083031300915814817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 989,
+          "impression_count": 326627,
+          "like_count": 2662,
+          "quote_count": 25,
+          "reply_count": 870,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "我的抖音越来越奇怪了... https://t.co/CtLFZNrNq5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 223,
+          "like_count": 1387,
+          "listed_count": 2,
+          "media_count": 419,
+          "tweet_count": 952
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "infp | 戒赌版（每天都要去迪士尼版）\n\nJKS水手服 | cl一生推 | 分享欲高 | 亮点推文\n\n承蒙厚爱不胜感激 | 私のことを好きになってくださり、ありがとうございます。🩵\n\n爱党 | 爱国 | 坚持一个中国原则",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_QXw2uGWZ",
+                "start": 0,
+                "url": "https://t.co/p8Rr4RFzRt"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "location": "Meme Alpha 👉🏻",
+        "name": "汐",
+        "pinned_tweet_id": "2074172096805233082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081397697450496000/Lp1pngND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41160,
+          "following_count": 1191,
+          "like_count": 15396,
+          "listed_count": 451,
+          "media_count": 5108,
+          "tweet_count": 25115
+        },
+        "url": "https://t.co/p8Rr4RFzRt",
+        "username": "xixikawaii",
+        "verified": true
+      }
+    ]
+  }
+}

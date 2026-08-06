@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2065829639130640614",
+    "created_at": "2026-06-14T06:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T07:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066045786077704684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1513907835633033219",
+          "start": 0,
+          "username": "_Asakura_Ayana"
+        },
+        {
+          "end": 30,
+          "id": "1999183937546145792",
+          "start": 16,
+          "username": "tangangqinmao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066045786077704684",
+    "in_reply_to_user_id": "1513907835633033219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065846874171687136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Asakura_Ayana @tangangqinmao 还是太城市化了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2065829639130640614",
+        "created_at": "2026-06-14T06:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066045786077704684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1513907835633033219",
+              "start": 0,
+              "username": "_Asakura_Ayana"
+            },
+            {
+              "end": 30,
+              "id": "1999183937546145792",
+              "start": 16,
+              "username": "tangangqinmao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066045786077704684",
+        "in_reply_to_user_id": "1513907835633033219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065846874171687136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Asakura_Ayana @tangangqinmao 还是太城市化了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513907835633033219",
+        "conversation_id": "2065829639130640614",
+        "created_at": "2026-06-13T17:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065846874171687136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999183937546145792",
+              "start": 0,
+              "username": "tangangqinmao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065846874171687136",
+        "in_reply_to_user_id": "1999183937546145792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065829639130640614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangangqinmao 朋友赞同我，说明我做得对\n朋友指责我，说明他是我的敌人\n敌人赞同我，说明我做得太对\n敌人指责我，说明我做得更对\n伟大光明正确的弹指导永寿无疆🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 174,
+          "like_count": 399,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 321
+        },
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-12T15:52:40.000Z",
+        "description": "🇨🇳，ACGN/军事装备，日语系在读\n左派/共产主义/国际主义/技术主义\n开放，平等，协作",
+        "id": "1513907835633033219",
+        "location": "INTERNET PARADISE",
+        "name": "朝倉あやな",
+        "pinned_tweet_id": "2043997468497719514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926635844875567105/8ke69Xvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 233,
+          "like_count": 8841,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 715
+        },
+        "username": "_Asakura_Ayana",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T18:26:17.000Z",
+        "description": "伟大的领袖毛主席万岁 人民万岁\n小号 @tangangqinmao1 暂时死亡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "tangangqinmao1"
+              }
+            ]
+          }
+        },
+        "id": "1999183937546145792",
+        "name": "弹钢琴☭",
+        "pinned_tweet_id": "2046151394194006277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999187680337494016/LfFh8OfB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 73,
+          "like_count": 1273,
+          "listed_count": 4,
+          "media_count": 77,
+          "tweet_count": 1464
+        },
+        "username": "tangangqinmao",
+        "verified": false
+      }
+    ]
+  }
+}

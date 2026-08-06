@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014894876903788544"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2014894884109639761",
+    "created_at": "2026-01-24T02:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T03:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014894884109639761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xo5Qi2bmgK",
+          "end": 40,
+          "expanded_url": "https://x.com/skyseafor/status/2014894884109639761/photo/1",
+          "media_key": "3_2014894876903788544",
+          "start": 17,
+          "url": "https://t.co/Xo5Qi2bmgK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014894884109639761",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ https://t.co/Xo5Qi2bmgK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1404,
+        "media_key": "3_2014894876903788544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ZYNxWa0AAPo__.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014894876903788544"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2014894884109639761",
+        "created_at": "2026-01-24T02:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T03:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014894884109639761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xo5Qi2bmgK",
+              "end": 40,
+              "expanded_url": "https://x.com/skyseafor/status/2014894884109639761/photo/1",
+              "media_key": "3_2014894876903788544",
+              "start": 17,
+              "url": "https://t.co/Xo5Qi2bmgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014894884109639761",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ https://t.co/Xo5Qi2bmgK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "ill",
+        "id": "1995266194576961536",
+        "location": "上海市宛平南路600号",
+        "name": "sky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106268956667905/U0s-O2-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

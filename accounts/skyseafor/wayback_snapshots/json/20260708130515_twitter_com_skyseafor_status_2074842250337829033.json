@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "2074761148122235377",
+    "created_at": "2026-07-08T13:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074842250337829033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1306129238827778048",
+          "start": 0,
+          "username": "YukinonCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074842250337829033",
+    "in_reply_to_user_id": "1306129238827778048",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074836932778160352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@YukinonCC hsbc😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074836920593707008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtNL7LacAAIG1_.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2074761148122235377",
+        "created_at": "2026-07-08T13:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074842250337829033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1306129238827778048",
+              "start": 0,
+              "username": "YukinonCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074842250337829033",
+        "in_reply_to_user_id": "1306129238827778048",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074836932778160352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@YukinonCC hsbc😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074836920593707008"
+          ]
+        },
+        "author_id": "1306129238827778048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074761148122235377",
+        "created_at": "2026-07-08T12:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074836932778160352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YFsFDVyCHn",
+              "end": 45,
+              "expanded_url": "https://x.com/YukinonCC/status/2074836932778160352/photo/1",
+              "media_key": "3_2074836920593707008",
+              "start": 22,
+              "url": "https://t.co/YFsFDVyCHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074836932778160352",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074761148122235377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@skyseafor 别骂了别骂了呜呜呜😭 https://t.co/YFsFDVyCHn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 213,
+          "like_count": 1001,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 673
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-16T07:14:21.000Z",
+        "description": "🐧人間になりたいですわ | 💫ℙ𝕖𝕣 𝕒𝕤𝕡𝕖𝕣𝕒 𝕒𝕕 𝕒𝕤𝕥𝕣𝕒 🌠|🚪：𝟭𝘽𝙏𝘾｜Ask me anonymously : https://t.co/jmSdkECPE6｜Personal site : https://t.co/YBAOgiCM9e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukinoncc",
+                "end": 88,
+                "expanded_url": "https://ngl.link/yukinoncc",
+                "start": 65,
+                "url": "https://t.co/jmSdkECPE6"
+              },
+              {
+                "display_url": "yukinon.cc",
+                "end": 128,
+                "expanded_url": "https://www.yukinon.cc",
+                "start": 105,
+                "url": "https://t.co/YBAOgiCM9e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yukinon.cc",
+                "end": 23,
+                "expanded_url": "https://www.yukinon.cc",
+                "start": 0,
+                "url": "https://t.co/YBAOgiCM9e"
+              }
+            ]
+          }
+        },
+        "id": "1306129238827778048",
+        "location": "ワンピンナンルー600号より脱走中",
+        "name": "ユキ🎀",
+        "pinned_tweet_id": "2070333005898637336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036544477750534144/nGFWjjWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 687,
+          "like_count": 15695,
+          "listed_count": 0,
+          "media_count": 631,
+          "tweet_count": 4231
+        },
+        "url": "https://t.co/YBAOgiCM9e",
+        "username": "YukinonCC",
+        "verified": true
+      }
+    ]
+  }
+}

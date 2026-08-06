@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066537243494510593"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066537246401118479",
+    "created_at": "2026-06-15T15:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066537246401118479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4n8o9Aw3zV",
+          "end": 66,
+          "expanded_url": "https://x.com/skyseafor/status/2066537246401118479/photo/1",
+          "media_key": "3_2066537243494510593",
+          "start": 43,
+          "url": "https://t.co/4n8o9Aw3zV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066537246401118479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起ill 没能成为小时候想成为的你 \n\n你们.... 想看我哭的样子吗..... https://t.co/4n8o9Aw3zV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_2066537243494510593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3QrIma8AEHNTr.jpg",
+        "width": 1910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066537243494510593"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066537246401118479",
+        "created_at": "2026-06-15T15:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066537246401118479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4n8o9Aw3zV",
+              "end": 66,
+              "expanded_url": "https://x.com/skyseafor/status/2066537246401118479/photo/1",
+              "media_key": "3_2066537243494510593",
+              "start": 43,
+              "url": "https://t.co/4n8o9Aw3zV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066537246401118479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起ill 没能成为小时候想成为的你 \n\n你们.... 想看我哭的样子吗..... https://t.co/4n8o9Aw3zV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 176,
+          "like_count": 480,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 365
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

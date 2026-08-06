@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2065293522362859530",
+    "created_at": "2026-06-12T04:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T05:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065293522362859530"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065293522362859530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那些想要炒作的跨跨其实不用太费心思\n我都给你们写好答案了照抄就行 \n\n炒作神人 炒作性别 炒作避孕套 炒作药物 炒作紫砂 甚至可以炒作高考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2065293522362859530",
+        "created_at": "2026-06-12T04:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065293522362859530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065293522362859530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那些想要炒作的跨跨其实不用太费心思\n我都给你们写好答案了照抄就行 \n\n炒作神人 炒作性别 炒作避孕套 炒作药物 炒作紫砂 甚至可以炒作高考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 148,
+          "like_count": 316,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 278
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

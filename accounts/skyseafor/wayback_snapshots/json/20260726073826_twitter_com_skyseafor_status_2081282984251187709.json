@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081280681917964288"
+      ],
+      "media_source_tweet_id": [
+        "2081280690918965408"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081282984251187709",
+    "created_at": "2026-07-26T07:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T08:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081282984251187709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053360211948109826",
+          "start": 3,
+          "username": "axzameyzed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5K7wZ8ZdNX",
+          "end": 39,
+          "expanded_url": "https://x.com/axzameyzed/status/2081280690918965408/photo/1",
+          "media_key": "3_2081280681917964288",
+          "start": 16,
+          "url": "https://t.co/5K7wZ8ZdNX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081282984251187709",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081280690918965408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axzameyzed: https://t.co/5K7wZ8ZdNX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2081280681917964288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIxwMuaYAAAVX1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081280681917964288"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081280690918965408",
+        "created_at": "2026-07-26T07:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081280690918965408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5K7wZ8ZdNX",
+              "end": 23,
+              "expanded_url": "https://x.com/axzameyzed/status/2081280690918965408/photo/1",
+              "media_key": "3_2081280681917964288",
+              "start": 0,
+              "url": "https://t.co/5K7wZ8ZdNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081280690918965408",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5K7wZ8ZdNX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081280681917964288"
+          ],
+          "media_source_tweet_id": [
+            "2081280690918965408"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081282984251187709",
+        "created_at": "2026-07-26T07:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081282984251187709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053360211948109826",
+              "start": 3,
+              "username": "axzameyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5K7wZ8ZdNX",
+              "end": 39,
+              "expanded_url": "https://x.com/axzameyzed/status/2081280690918965408/photo/1",
+              "media_key": "3_2081280681917964288",
+              "start": 16,
+              "url": "https://t.co/5K7wZ8ZdNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081282984251187709",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081280690918965408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @axzameyzed: https://t.co/5K7wZ8ZdNX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 223,
+          "like_count": 1249,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 864
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 227,
+          "like_count": 4700,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 1881
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      }
+    ]
+  }
+}

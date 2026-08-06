@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2071668862177984600",
+    "created_at": "2026-06-29T21:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T22:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071713462766731519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1945334723628437504",
+          "start": 0,
+          "username": "10xmx01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071713462766731519",
+    "in_reply_to_user_id": "1945334723628437504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071694691612103041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10xmx01 酸直说 没人笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2071668862177984600",
+        "created_at": "2026-06-29T21:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T22:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071713462766731519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945334723628437504",
+              "start": 0,
+              "username": "10xmx01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071713462766731519",
+        "in_reply_to_user_id": "1945334723628437504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071694691612103041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10xmx01 酸直说 没人笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945334723628437504",
+        "conversation_id": "2071668862177984600",
+        "created_at": "2026-06-29T20:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T21:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071694691612103041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071694691612103041",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071668862177984600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 好神经"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 205,
+          "like_count": 885,
+          "listed_count": 2,
+          "media_count": 269,
+          "tweet_count": 592
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T04:09:04.000Z",
+        "description": "ADHD\n无用的人\nfdu\n我🌿tm的期末",
+        "id": "1945334723628437504",
+        "location": "五角场",
+        "name": "鲨比OUO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055348696234221568/AlioBl6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 106,
+          "like_count": 18779,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1169
+        },
+        "url": "",
+        "username": "10xmx01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2061941856741785632",
+    "created_at": "2026-06-02T22:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T23:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061941856741785632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 44,
+          "id": "1780369819310981120",
+          "start": 32,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061941856741785632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烦死了不知道推特封号机制到底是什么\n折腾了半年 ，终于给我封了 @520illusion"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [520illusion].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "520illusion",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "520illusion"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2061941856741785632",
+        "created_at": "2026-06-02T22:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061941856741785632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1780369819310981120",
+              "start": 32,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061941856741785632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烦死了不知道推特封号机制到底是什么\n折腾了半年 ，终于给我封了 @520illusion"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "以后拿对象的号发日常吧 原号就不发日常生活了 @520illusion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106268956667905/U0s-O2-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 2,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 98
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

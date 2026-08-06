@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066501532783407104"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2066501535270605188",
+    "created_at": "2026-06-15T12:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T13:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066501535270605188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LcoGYzWois",
+          "end": 39,
+          "expanded_url": "https://x.com/skyseafor/status/2066501535270605188/photo/1",
+          "media_key": "3_2066501532783407104",
+          "start": 16,
+          "url": "https://t.co/LcoGYzWois"
+        },
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/skyseafor/status/2066457631489974341",
+          "start": 40,
+          "url": "https://t.co/1Jt0AXgHF5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066501535270605188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066457631489974341",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们满意了吧 我直接被戳公章了 https://t.co/LcoGYzWois https://t.co/1Jt0AXgHF5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066501532783407104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2wMf1a8AA1ptp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2066457619913662464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2IQbpaYAASc5Z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066501532783407104"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066501535270605188",
+        "created_at": "2026-06-15T12:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066501535270605188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LcoGYzWois",
+              "end": 39,
+              "expanded_url": "https://x.com/skyseafor/status/2066501535270605188/photo/1",
+              "media_key": "3_2066501532783407104",
+              "start": 16,
+              "url": "https://t.co/LcoGYzWois"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/skyseafor/status/2066457631489974341",
+              "start": 40,
+              "url": "https://t.co/1Jt0AXgHF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066501535270605188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066457631489974341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们满意了吧 我直接被戳公章了 https://t.co/LcoGYzWois https://t.co/1Jt0AXgHF5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066457619913662464"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066457631489974341",
+        "created_at": "2026-06-15T09:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066457631489974341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPoBqrFGPe",
+              "end": 44,
+              "expanded_url": "https://x.com/skyseafor/status/2066457631489974341/photo/1",
+              "media_key": "3_2066457619913662464",
+              "start": 21,
+              "url": "https://t.co/wPoBqrFGPe"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/skyseafor/status/2066451822420820436",
+              "start": 45,
+              "url": "https://t.co/ZAYrTkLvlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066457631489974341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 774,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066451822420820436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "校长亲自送我到大门口 这辈子最高的待遇了 https://t.co/wPoBqrFGPe https://t.co/ZAYrTkLvlz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 177,
+          "like_count": 473,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 361
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

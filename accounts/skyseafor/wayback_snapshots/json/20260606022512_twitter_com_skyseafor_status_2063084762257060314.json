@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063084762257060314",
+    "created_at": "2026-06-06T02:25:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063084762257060314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/skyseafor/status/2062385737270804800",
+          "start": 85,
+          "url": "https://t.co/eEsUVfgmvd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063084762257060314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062385737270804800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "杭州市第七人民医院医生在看诊的时候，竟然把我宁波所有就诊就全部调了出来 问我 你是不是曾经有过过量服药的经历 妈的，一瞬间大脑死机了 什么时候宁波和杭州医疗联网了？？？ https://t.co/eEsUVfgmvd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062385727858724864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8Q5Hra0AArWoK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063084762257060314",
+        "created_at": "2026-06-06T02:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063084762257060314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/skyseafor/status/2062385737270804800",
+              "start": 85,
+              "url": "https://t.co/eEsUVfgmvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063084762257060314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062385737270804800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "杭州市第七人民医院医生在看诊的时候，竟然把我宁波所有就诊就全部调了出来 问我 你是不是曾经有过过量服药的经历 妈的，一瞬间大脑死机了 什么时候宁波和杭州医疗联网了？？？ https://t.co/eEsUVfgmvd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062385727858724864"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2062385737270804800",
+        "created_at": "2026-06-04T04:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062385737270804800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Pjp8q8P77",
+              "end": 32,
+              "expanded_url": "https://x.com/skyseafor/status/2062385737270804800/photo/1",
+              "media_key": "3_2062385727858724864",
+              "start": 9,
+              "url": "https://t.co/6Pjp8q8P77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062385737270804800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 396,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杭州第七人民医院 https://t.co/6Pjp8q8P77"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 67,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 135
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

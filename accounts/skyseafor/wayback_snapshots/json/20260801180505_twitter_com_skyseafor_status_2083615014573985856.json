@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2083615014573985856",
+    "created_at": "2026-08-01T18:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083615014573985856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mizorewww/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/mizorewww/status/2083570968208056785",
+          "start": 10,
+          "url": "https://t.co/uOOpQD16lz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083615014573985856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083570968208056785",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢的人不喜欢我 https://t.co/uOOpQD16lz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2083615014573985856",
+        "created_at": "2026-08-01T18:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083615014573985856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizorewww/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/mizorewww/status/2083570968208056785",
+              "start": 10,
+              "url": "https://t.co/uOOpQD16lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083615014573985856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083570968208056785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢的人不喜欢我 https://t.co/uOOpQD16lz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987885638038036480",
+        "conversation_id": "2083570968208056785",
+        "created_at": "2026-08-01T15:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083570968208056785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083570968208056785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢的人不喜欢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 222,
+          "like_count": 1395,
+          "listed_count": 2,
+          "media_count": 421,
+          "tweet_count": 957
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\ngroup: https://t.co/pqGQW3Ib4l\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DGSMTqhPGXkyM…",
+                "end": 73,
+                "expanded_url": "https://t.me/+DGSMTqhPGXkyM2E1",
+                "start": 50,
+                "url": "https://t.co/pqGQW3Ib4l"
+              },
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 130,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 107,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️ | echo 'cmF3X2RhdGEK'|base64 -d",
+        "pinned_tweet_id": "2082711443598971203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 1002,
+          "like_count": 25115,
+          "listed_count": 3,
+          "media_count": 1059,
+          "tweet_count": 5516
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true
+      }
+    ]
+  }
+}

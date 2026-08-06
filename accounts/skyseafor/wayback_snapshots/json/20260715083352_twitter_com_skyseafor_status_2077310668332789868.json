@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077310665598156800"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077310668332789868",
+    "created_at": "2026-07-15T08:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077310668332789868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bvwjZXGuSX",
+          "end": 82,
+          "expanded_url": "https://x.com/skyseafor/status/2077310668332789868/photo/1",
+          "media_key": "3_2077310665598156800",
+          "start": 59,
+          "url": "https://t.co/bvwjZXGuSX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077310668332789868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "胸涨的太厉害比较明显了 于是决定继续将hrt剂量继续减半 每次1mg补20mg螺 一日两次 目标：熬过这个夏天不炸柜 https://t.co/bvwjZXGuSX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077310665598156800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQXC1cbwAA0jNa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077310665598156800"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077310668332789868",
+        "created_at": "2026-07-15T08:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077310668332789868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvwjZXGuSX",
+              "end": 82,
+              "expanded_url": "https://x.com/skyseafor/status/2077310668332789868/photo/1",
+              "media_key": "3_2077310665598156800",
+              "start": 59,
+              "url": "https://t.co/bvwjZXGuSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077310668332789868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胸涨的太厉害比较明显了 于是决定继续将hrt剂量继续减半 每次1mg补20mg螺 一日两次 目标：熬过这个夏天不炸柜 https://t.co/bvwjZXGuSX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 219,
+          "like_count": 1052,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 722
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

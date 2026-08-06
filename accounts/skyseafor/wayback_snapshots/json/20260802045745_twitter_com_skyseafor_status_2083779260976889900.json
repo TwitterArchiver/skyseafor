@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2083737859341844626",
+    "created_at": "2026-08-02T04:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083779260976889900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083779260976889900",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083737859341844626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii 没一个女的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1488,
+        "media_key": "3_2083737852945588224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrsiYHbYAAK4TF.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2083737859341844626",
+        "created_at": "2026-08-02T04:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083779260976889900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083779260976889900",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083737859341844626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 没一个女的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083737852945588224"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2083737859341844626",
+        "created_at": "2026-08-02T02:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083737859341844626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJYv2OzuZP",
+              "end": 37,
+              "expanded_url": "https://x.com/xixikawaii/status/2083737859341844626/photo/1",
+              "media_key": "3_2083737852945588224",
+              "start": 14,
+              "url": "https://t.co/tJYv2OzuZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083737859341844626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6716,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来我这上班吧，都是猫娘😈🩵 https://t.co/tJYv2OzuZP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 223,
+          "like_count": 1398,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 961
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "infp | 戒赌版 | 每天要去迪士尼版 | 投稿请私信DM\n\nJKS水手服 | cl一生推 | 分享欲高 | 亮点推文\n\n承蒙厚爱不胜感激 | 私のことを好きになってくださり、ありがとうございます。🩵\n\n爱党 | 爱国 | 坚持一个中国原则",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmgn.ai/?ref=xixi",
+                "end": 23,
+                "expanded_url": "https://gmgn.ai/?ref=xixi",
+                "start": 0,
+                "url": "https://t.co/MKfyClPSiI"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "location": "1000x Meme Alpha 👉🏻",
+        "name": "汐",
+        "pinned_tweet_id": "2074172096805233082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081397697450496000/Lp1pngND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45443,
+          "following_count": 1190,
+          "like_count": 15404,
+          "listed_count": 465,
+          "media_count": 5132,
+          "tweet_count": 25170
+        },
+        "url": "https://t.co/MKfyClPSiI",
+        "username": "xixikawaii",
+        "verified": true
+      }
+    ]
+  }
+}

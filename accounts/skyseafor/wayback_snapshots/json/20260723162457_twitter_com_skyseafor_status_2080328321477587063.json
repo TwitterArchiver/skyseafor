@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2080328321477587063",
+    "created_at": "2026-07-23T16:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080328321477587063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/nyaepheia/status/2080303932677718514",
+          "start": 11,
+          "url": "https://t.co/pmw4HQyH5z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080328321477587063",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080303932677718514",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是真的 是好咸好苦的 https://t.co/pmw4HQyH5z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2080328321477587063",
+        "created_at": "2026-07-23T16:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080328321477587063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2080303932677718514",
+              "start": 11,
+              "url": "https://t.co/pmw4HQyH5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080328321477587063",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080303932677718514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是真的 是好咸好苦的 https://t.co/pmw4HQyH5z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2080303932677718514",
+        "created_at": "2026-07-23T14:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080303932677718514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080303932677718514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 382,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "尝了一点亚硝，，，\n\n确实是好咸好苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2181,
+          "following_count": 220,
+          "like_count": 1218,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 841
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️ https://t.co/7pvajR9Q0p \n/ɪˈfiːə/ she/they\n评论账号@epheiamoe\n存档https://t.co/l9TdYP6fRz\n\nhrt since26.4.1\n可访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "yxrchina"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "lckmtfdesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 33,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 10,
+                "url": "https://t.co/7pvajR9Q0p"
+              },
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 93,
+                "expanded_url": "http://nyaepheia.pages.dev",
+                "start": 70,
+                "url": "https://t.co/l9TdYP6fRz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 23,
+                "expanded_url": "https://nyaepheia.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/JPmDqezgWc"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they)",
+        "pinned_tweet_id": "2078997463525142566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 964,
+          "like_count": 37077,
+          "listed_count": 3,
+          "media_count": 885,
+          "tweet_count": 7169
+        },
+        "url": "https://t.co/JPmDqezgWc",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

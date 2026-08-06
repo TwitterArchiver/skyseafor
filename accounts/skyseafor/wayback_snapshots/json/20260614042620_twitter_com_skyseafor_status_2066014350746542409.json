@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066014348506742784"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2066014350746542409",
+    "created_at": "2026-06-14T04:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066014350746542409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z1FB40AWhG",
+          "end": 134,
+          "expanded_url": "https://x.com/skyseafor/status/2066014350746542409/photo/1",
+          "media_key": "3_2066014348506742784",
+          "start": 111,
+          "url": "https://t.co/Z1FB40AWhG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066014350746542409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是一个很阴暗的人 \n有次和推友面完准备去机场返航\n前一天她还答应送我去机场 准备出发的时候却突然说不舒服不送了 独自把我丢在高铁站大厅 \n那一瞬间 我感受到了书包里的手术刀凌冽了一下\n从高铁站到机场  地铁接近2个小时 https://t.co/Z1FB40AWhG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_2066014348506742784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKv1Go-awAAyJdr.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066014348506742784"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066014350746542409",
+        "created_at": "2026-06-14T04:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066014350746542409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1FB40AWhG",
+              "end": 134,
+              "expanded_url": "https://x.com/skyseafor/status/2066014350746542409/photo/1",
+              "media_key": "3_2066014348506742784",
+              "start": 111,
+              "url": "https://t.co/Z1FB40AWhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066014350746542409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个很阴暗的人 \n有次和推友面完准备去机场返航\n前一天她还答应送我去机场 准备出发的时候却突然说不舒服不送了 独自把我丢在高铁站大厅 \n那一瞬间 我感受到了书包里的手术刀凌冽了一下\n从高铁站到机场  地铁接近2个小时 https://t.co/Z1FB40AWhG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 174,
+          "like_count": 386,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 317
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

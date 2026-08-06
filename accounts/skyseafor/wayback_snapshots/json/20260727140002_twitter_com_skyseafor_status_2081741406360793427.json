@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081741397103988736"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2081741406360793427",
+    "created_at": "2026-07-27T14:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081741406360793427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PHs1Gw6pfs",
+          "end": 23,
+          "expanded_url": "https://x.com/skyseafor/status/2081741406360793427/photo/1",
+          "media_key": "3_2081741397103988736",
+          "start": 0,
+          "url": "https://t.co/PHs1Gw6pfs"
+        },
+        {
+          "display_url": "x.com/aoim33/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/aoim33/status/2081648698162078144",
+          "start": 24,
+          "url": "https://t.co/o8QiXahr4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081741406360793427",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081648698162078144",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/PHs1Gw6pfs https://t.co/o8QiXahr4i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1602,
+        "media_key": "3_2081741397103988736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPUxWib0AAlOw1.jpg",
+        "width": 1839
+      },
+      {
+        "height": 391,
+        "media_key": "3_2081648692705308672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOAdPvbMAAbxgU.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081741397103988736"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2081741406360793427",
+        "created_at": "2026-07-27T14:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081741406360793427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PHs1Gw6pfs",
+              "end": 23,
+              "expanded_url": "https://x.com/skyseafor/status/2081741406360793427/photo/1",
+              "media_key": "3_2081741397103988736",
+              "start": 0,
+              "url": "https://t.co/PHs1Gw6pfs"
+            },
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/aoim33/status/2081648698162078144",
+              "start": 24,
+              "url": "https://t.co/o8QiXahr4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081741406360793427",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081648698162078144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/PHs1Gw6pfs https://t.co/o8QiXahr4i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081648692705308672"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2081648698162078144",
+        "created_at": "2026-07-27T07:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081648698162078144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mazME4GNW",
+              "end": 51,
+              "expanded_url": "https://x.com/aoim33/status/2081648698162078144/photo/1",
+              "media_key": "3_2081648692705308672",
+              "start": 28,
+              "url": "https://t.co/1mazME4GNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081648698162078144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 808,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "喜欢我 CPI 全国排名第一第二的两个城市的消费水平吗 https://t.co/1mazME4GNW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2217,
+          "following_count": 224,
+          "like_count": 1323,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 915
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / 臭打舞萌的 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6608,
+          "following_count": 3176,
+          "like_count": 57539,
+          "listed_count": 22,
+          "media_count": 3712,
+          "tweet_count": 14978
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

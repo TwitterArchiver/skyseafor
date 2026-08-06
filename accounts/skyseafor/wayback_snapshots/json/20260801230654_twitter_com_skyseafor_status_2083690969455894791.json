@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083690959406288896"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083690969455894791",
+    "created_at": "2026-08-01T23:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T00:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083690969455894791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aBT4yMS3nB",
+          "end": 43,
+          "expanded_url": "https://x.com/skyseafor/status/2083690969455894791/photo/1",
+          "media_key": "3_2083690959406288896",
+          "start": 20,
+          "url": "https://t.co/aBT4yMS3nB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083690969455894791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在的药娘这么坏吗？骗我哥哥7000？ https://t.co/aBT4yMS3nB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1347,
+        "media_key": "3_2083690959406288896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrB40Ea0AAKNLK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083690959406288896"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083690969455894791",
+        "created_at": "2026-08-01T23:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083690969455894791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBT4yMS3nB",
+              "end": 43,
+              "expanded_url": "https://x.com/skyseafor/status/2083690969455894791/photo/1",
+              "media_key": "3_2083690959406288896",
+              "start": 20,
+              "url": "https://t.co/aBT4yMS3nB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083690969455894791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的药娘这么坏吗？骗我哥哥7000？ https://t.co/aBT4yMS3nB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 222,
+          "like_count": 1395,
+          "listed_count": 2,
+          "media_count": 423,
+          "tweet_count": 959
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

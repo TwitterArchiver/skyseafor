@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063597775196241920"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063597786403397777",
+    "created_at": "2026-06-07T12:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063597786403397777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Js5jrJRwnI",
+          "end": 61,
+          "expanded_url": "https://x.com/skyseafor/status/2063597786403397777/photo/1",
+          "media_key": "3_2063597775196241920",
+          "start": 38,
+          "url": "https://t.co/Js5jrJRwnI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063597786403397777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和男朋友挂语音聊着聊着走神了 然后就这样了 md这种日子到底要过到什么时候 https://t.co/Js5jrJRwnI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2063597775196241920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNfPj3bwAAyxU9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063597775196241920"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063597786403397777",
+        "created_at": "2026-06-07T12:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063597786403397777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Js5jrJRwnI",
+              "end": 61,
+              "expanded_url": "https://x.com/skyseafor/status/2063597786403397777/photo/1",
+              "media_key": "3_2063597775196241920",
+              "start": 38,
+              "url": "https://t.co/Js5jrJRwnI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063597786403397777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和男朋友挂语音聊着聊着走神了 然后就这样了 md这种日子到底要过到什么时候 https://t.co/Js5jrJRwnI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 123,
+          "like_count": 159,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 191
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

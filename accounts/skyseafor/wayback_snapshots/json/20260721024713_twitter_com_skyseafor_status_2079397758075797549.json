@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079397746012979200"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2079397758075797549",
+    "created_at": "2026-07-21T02:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079397758075797549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CKfGuAGDxq",
+          "end": 56,
+          "expanded_url": "https://x.com/skyseafor/status/2079397758075797549/photo/1",
+          "media_key": "3_2079397746012979200",
+          "start": 33,
+          "url": "https://t.co/CKfGuAGDxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079397758075797549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "国铁集团上海铁路局战略合作伙伴 \n\n合肥--南京--杭州--宁波 https://t.co/CKfGuAGDxq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2099,
+        "media_key": "3_2079397746012979200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuBO53aAAAL0PP.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079397746012979200"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2079397758075797549",
+        "created_at": "2026-07-21T02:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079397758075797549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CKfGuAGDxq",
+              "end": 56,
+              "expanded_url": "https://x.com/skyseafor/status/2079397758075797549/photo/1",
+              "media_key": "3_2079397746012979200",
+              "start": 33,
+              "url": "https://t.co/CKfGuAGDxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079397758075797549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国铁集团上海铁路局战略合作伙伴 \n\n合肥--南京--杭州--宁波 https://t.co/CKfGuAGDxq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2212,
+          "following_count": 221,
+          "like_count": 1190,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 830
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

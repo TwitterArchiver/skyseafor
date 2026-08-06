@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064593726530613248"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064593737100222811",
+    "created_at": "2026-06-10T06:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064593737100222811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rLbZHXFu8R",
+          "end": 42,
+          "expanded_url": "https://x.com/skyseafor/status/2064593737100222811/photo/1",
+          "media_key": "3_2064593726530613248",
+          "start": 19,
+          "url": "https://t.co/rLbZHXFu8R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064593737100222811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😋浙江人一定要吃吃星平鸡饭 是真好吃 https://t.co/rLbZHXFu8R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064593726530613248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbpDjtbcAAsI2O.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064593726530613248"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064593737100222811",
+        "created_at": "2026-06-10T06:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064593737100222811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rLbZHXFu8R",
+              "end": 42,
+              "expanded_url": "https://x.com/skyseafor/status/2064593737100222811/photo/1",
+              "media_key": "3_2064593726530613248",
+              "start": 19,
+              "url": "https://t.co/rLbZHXFu8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064593737100222811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋浙江人一定要吃吃星平鸡饭 是真好吃 https://t.co/rLbZHXFu8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064231325813686505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 130,
+          "like_count": 255,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 245
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

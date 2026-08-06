@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063684681414197248"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063684692218659168",
+    "created_at": "2026-06-07T18:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063684692218659168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RYJFPrknFv",
+          "end": 36,
+          "expanded_url": "https://x.com/skyseafor/status/2063684692218659168/photo/1",
+          "media_key": "3_2063684681414197248",
+          "start": 13,
+          "url": "https://t.co/RYJFPrknFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063684692218659168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚安 高考顺利 前途似锦 https://t.co/RYJFPrknFv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2063684681414197248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOuSKwbwAApXkb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063684681414197248"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063684692218659168",
+        "created_at": "2026-06-07T18:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063684692218659168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RYJFPrknFv",
+              "end": 36,
+              "expanded_url": "https://x.com/skyseafor/status/2063684692218659168/photo/1",
+              "media_key": "3_2063684681414197248",
+              "start": 13,
+              "url": "https://t.co/RYJFPrknFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063684692218659168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安 高考顺利 前途似锦 https://t.co/RYJFPrknFv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 127,
+          "like_count": 178,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 202
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

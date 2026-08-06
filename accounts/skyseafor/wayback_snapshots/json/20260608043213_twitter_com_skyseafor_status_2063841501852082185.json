@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063841495292198912"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2063841501852082185",
+    "created_at": "2026-06-08T04:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063841501852082185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1A1G60ZZky",
+          "end": 73,
+          "expanded_url": "https://x.com/skyseafor/status/2063841501852082185/photo/1",
+          "media_key": "3_2063841495292198912",
+          "start": 50,
+          "url": "https://t.co/1A1G60ZZky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063841501852082185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃了这么多年的餐厅 好久没吃了想尝尝 结果等我到了 正在装修  就这么搞我心态 \n\n偏我来时不逢春 https://t.co/1A1G60ZZky"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1345,
+        "media_key": "3_2063841495292198912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQ857-aQAAMK4c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063841495292198912"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2063841501852082185",
+        "created_at": "2026-06-08T04:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063841501852082185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1A1G60ZZky",
+              "end": 73,
+              "expanded_url": "https://x.com/skyseafor/status/2063841501852082185/photo/1",
+              "media_key": "3_2063841495292198912",
+              "start": 50,
+              "url": "https://t.co/1A1G60ZZky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063841501852082185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了这么多年的餐厅 好久没吃了想尝尝 结果等我到了 正在装修  就这么搞我心态 \n\n偏我来时不逢春 https://t.co/1A1G60ZZky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 129,
+          "like_count": 185,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 205
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

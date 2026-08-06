@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2078496841042387095",
+    "created_at": "2026-07-19T05:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078710600411304229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047433069116719104",
+          "start": 0,
+          "username": "N552AA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078710600411304229",
+    "in_reply_to_user_id": "2047433069116719104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078710465220530481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA8 我们是在田林新村认识的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2078496841042387095",
+        "created_at": "2026-07-19T05:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078710600411304229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047433069116719104",
+              "start": 0,
+              "username": "N552AA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078710600411304229",
+        "in_reply_to_user_id": "2047433069116719104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078710465220530481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AA8 我们是在田林新村认识的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047433069116719104",
+        "conversation_id": "2078496841042387095",
+        "created_at": "2026-07-19T05:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078710465220530481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078710465220530481",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078496841042387095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 我呢算什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2222,
+          "following_count": 223,
+          "like_count": 1167,
+          "listed_count": 2,
+          "media_count": 373,
+          "tweet_count": 808
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T21:51:07.000Z",
+        "description": "08/mtx（f？/ENTP-T/ASD/C-PTSD/ADHD/BPD/快速循环型双相/osdd-1a/重度焦虑/重度失眠/家长不稳定党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/ugd1wwbKjr"
+              }
+            ]
+          }
+        },
+        "id": "2047433069116719104",
+        "location": "宛平南路600号",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（八代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047433261555576832/tJJpmxLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 104,
+          "like_count": 145,
+          "listed_count": 4,
+          "media_count": 18,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/ugd1wwbKjr",
+        "username": "N552AA8",
+        "verified": false
+      }
+    ]
+  }
+}

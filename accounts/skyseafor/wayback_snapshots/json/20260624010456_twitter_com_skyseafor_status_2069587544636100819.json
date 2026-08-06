@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2069344681088172048",
+    "created_at": "2026-06-24T01:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069587544636100819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699797396589588480",
+          "start": 0,
+          "username": "MaxForAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069587544636100819",
+    "in_reply_to_user_id": "1699797396589588480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069344681088172048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxForAI 嘉豪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2069344654705950720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfJ_-WaAAAbKzK.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2069344681088172048",
+        "created_at": "2026-06-24T01:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069587544636100819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069587544636100819",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069344681088172048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI 嘉豪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069344654705950720"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "conversation_id": "2069344681088172048",
+        "created_at": "2026-06-23T08:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069344681088172048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0h27tCJBU6",
+              "end": 81,
+              "expanded_url": "https://x.com/MaxForAI/status/2069344681088172048/photo/1",
+              "media_key": "3_2069344654705950720",
+              "start": 58,
+              "url": "https://t.co/0h27tCJBU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069344681088172048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 326,
+          "impression_count": 188445,
+          "like_count": 2237,
+          "quote_count": 37,
+          "reply_count": 221,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得现在豪车、名表或者什么首饰的炫富方式已经过时了。\n\n2026年的方式是：我在我家部署了一个满血GLM5.2🫡 https://t.co/0h27tCJBU6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 192,
+          "like_count": 722,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 504
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（79K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "listenhub"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15015,
+          "following_count": 2141,
+          "like_count": 13297,
+          "listed_count": 141,
+          "media_count": 708,
+          "tweet_count": 5837
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

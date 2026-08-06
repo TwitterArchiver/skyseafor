@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079151680277585920"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2079151696073363766",
+    "created_at": "2026-07-20T10:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079151696073363766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/adEnMOkjwx",
+          "end": 66,
+          "expanded_url": "https://x.com/skyseafor/status/2079151696073363766/photo/1",
+          "media_key": "3_2079151680277585920",
+          "start": 43,
+          "url": "https://t.co/adEnMOkjwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079151696073363766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "米家加湿器倒入配上东方树叶的茉莉花茶 真的很赞  特别香 还很提神  下次试试冰美式 https://t.co/adEnMOkjwx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2079151680277585920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqhb_kaIAAhPHQ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079151680277585920"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2079151696073363766",
+        "created_at": "2026-07-20T10:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079151696073363766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/adEnMOkjwx",
+              "end": 66,
+              "expanded_url": "https://x.com/skyseafor/status/2079151696073363766/photo/1",
+              "media_key": "3_2079151680277585920",
+              "start": 43,
+              "url": "https://t.co/adEnMOkjwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079151696073363766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "米家加湿器倒入配上东方树叶的茉莉花茶 真的很赞  特别香 还很提神  下次试试冰美式 https://t.co/adEnMOkjwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 222,
+          "like_count": 1180,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 818
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

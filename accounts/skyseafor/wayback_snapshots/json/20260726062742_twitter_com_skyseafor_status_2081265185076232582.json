@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081265173336375296"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2081265185076232582",
+    "created_at": "2026-07-26T06:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081265185076232582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8mLDK8CRKj",
+          "end": 28,
+          "expanded_url": "https://x.com/skyseafor/status/2081265185076232582/photo/1",
+          "media_key": "3_2081265173336375296",
+          "start": 5,
+          "url": "https://t.co/8mLDK8CRKj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081265185076232582",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去面基喵 https://t.co/8mLDK8CRKj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2081265173336375296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIjpewbQAALVeZ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081265173336375296"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2081265185076232582",
+        "created_at": "2026-07-26T06:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081265185076232582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8mLDK8CRKj",
+              "end": 28,
+              "expanded_url": "https://x.com/skyseafor/status/2081265185076232582/photo/1",
+              "media_key": "3_2081265173336375296",
+              "start": 5,
+              "url": "https://t.co/8mLDK8CRKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081265185076232582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去面基喵 https://t.co/8mLDK8CRKj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 222,
+          "like_count": 1250,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 863
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

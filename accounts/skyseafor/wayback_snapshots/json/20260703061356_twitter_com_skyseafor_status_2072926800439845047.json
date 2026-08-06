@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2072926800439845047",
+    "created_at": "2026-07-03T06:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072926800439845047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LuminaFable202…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/LuminaFable2020/status/2072774439264252314",
+          "start": 31,
+          "url": "https://t.co/L7szjV44Cf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072926800439845047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072774439264252314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的是草了  难得发一次小红书  被人搬运到推特  😅😅😅 https://t.co/L7szjV44Cf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072774429361524736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMP5XImbUAAKDV3.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2072926800439845047",
+        "created_at": "2026-07-03T06:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072926800439845047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LuminaFable202…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/LuminaFable2020/status/2072774439264252314",
+              "start": 31,
+              "url": "https://t.co/L7szjV44Cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072926800439845047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072774439264252314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的是草了  难得发一次小红书  被人搬运到推特  😅😅😅 https://t.co/L7szjV44Cf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072774429361524736"
+          ]
+        },
+        "author_id": "1227265979735887874",
+        "conversation_id": "2072774439264252314",
+        "created_at": "2026-07-02T20:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072774439264252314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BUbVBfrzrB",
+              "end": 36,
+              "expanded_url": "https://x.com/LuminaFable2020/status/2072774439264252314/photo/1",
+              "media_key": "3_2072774429361524736",
+              "start": 13,
+              "url": "https://t.co/BUbVBfrzrB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072774439264252314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9859,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在小红书上总是能刷到推油 https://t.co/BUbVBfrzrB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 208,
+          "like_count": 945,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 633
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-11T16:19:55.000Z",
+        "description": "社恐 /  Dev /  碎碎念 /  可爱 / No politics / Transport fans / Prev acc @frankxka05 / 🤤 /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "frankxka05"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuminaSaki",
+                "end": 23,
+                "expanded_url": "https://t.me/LuminaSaki",
+                "start": 0,
+                "url": "https://t.co/tXNFqGvWTa"
+              }
+            ]
+          }
+        },
+        "id": "1227265979735887874",
+        "name": "LuminaSaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055610164711985152/Dga6BtlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 328,
+          "like_count": 1177,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/tXNFqGvWTa",
+        "username": "LuminaFable2020",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063847068645588992"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063847078196138216",
+    "created_at": "2026-06-08T04:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063847078196138216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RaQKTT4mCM",
+          "end": 59,
+          "expanded_url": "https://x.com/skyseafor/status/2063847078196138216/photo/1",
+          "media_key": "3_2063847068645588992",
+          "start": 36,
+          "url": "https://t.co/RaQKTT4mCM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063847078196138216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "距离英语高考两个小时不到，跑到十几公里外吃寿司郎这种松弛感谁懂啊姐妹们 https://t.co/RaQKTT4mCM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1378,
+        "media_key": "3_2063847068645588992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRB-WVaAAA3i03.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063847068645588992"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063847078196138216",
+        "created_at": "2026-06-08T04:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063847078196138216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RaQKTT4mCM",
+              "end": 59,
+              "expanded_url": "https://x.com/skyseafor/status/2063847078196138216/photo/1",
+              "media_key": "3_2063847068645588992",
+              "start": 36,
+              "url": "https://t.co/RaQKTT4mCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063847078196138216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "距离英语高考两个小时不到，跑到十几公里外吃寿司郎这种松弛感谁懂啊姐妹们 https://t.co/RaQKTT4mCM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 129,
+          "like_count": 185,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 207
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

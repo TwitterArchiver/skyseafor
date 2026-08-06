@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2082032543055204676",
+    "created_at": "2026-07-28T12:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082075733460242769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061323838349340672",
+          "start": 0,
+          "username": "misakinae8964"
+        },
+        {
+          "end": 31,
+          "id": "1868205822511288320",
+          "start": 15,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082075733460242769",
+    "in_reply_to_user_id": "2061323838349340672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082032543055204676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakinae8964 @vicoOci_Olvidar 她当时约我面基我听是顺女就拒绝了 \n怎么人就没了啊😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2082032543055204676",
+        "created_at": "2026-07-28T12:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082075733460242769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            },
+            {
+              "end": 31,
+              "id": "1868205822511288320",
+              "start": 15,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082075733460242769",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082032543055204676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 @vicoOci_Olvidar 她当时约我面基我听是顺女就拒绝了 \n怎么人就没了啊😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2082032543055204676",
+        "created_at": "2026-07-28T09:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082032543055204676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1868205822511288320",
+              "start": 15,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082032543055204676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2297,
+          "like_count": 45,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n\n沉痛告知：\n我们的挚友@vicooci_olvidar，于2026年7月28日因自杀意外离世，享年18岁。他的离去给家人、朋友以及所有关心他的人带来了巨大的悲痛。我们深感惋惜他的离开是我们无法接受的遗憾。\n谨此沉痛告知亲朋好友，共同悼念。\n愿逝者安息，愿家属节哀。谨此讣告。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 224,
+          "like_count": 1338,
+          "listed_count": 2,
+          "media_count": 412,
+          "tweet_count": 925
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 332,
+          "like_count": 3522,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "本人串子，帖子很少有真情實感（私下不一定｜所有時間線全肯定@D_D_ovO_｜😺 @ashasw114514 @misakinae8964 @rinko_zero8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "ashasw114514"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 85,
+                "start": 70,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "床",
+        "name": "💿wkoc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4667,
+          "following_count": 404,
+          "like_count": 25370,
+          "listed_count": 17,
+          "media_count": 1580,
+          "tweet_count": 19234
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

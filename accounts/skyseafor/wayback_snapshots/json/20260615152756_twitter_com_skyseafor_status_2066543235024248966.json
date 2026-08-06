@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2066543235024248966",
+    "created_at": "2026-06-15T15:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066543235024248966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RainEngine2024…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/RainEngine2024m/status/2066420834479325279",
+          "start": 22,
+          "url": "https://t.co/opwMDPkjB2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066543235024248966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066420834479325279",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的人生在一定意义上算是改变推特了吧，真的 https://t.co/opwMDPkjB2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2066543235024248966",
+        "created_at": "2026-06-15T15:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066543235024248966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine2024…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/RainEngine2024m/status/2066420834479325279",
+              "start": 22,
+              "url": "https://t.co/opwMDPkjB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066543235024248966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066420834479325279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的人生在一定意义上算是改变推特了吧，真的 https://t.co/opwMDPkjB2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759787246587379712",
+        "conversation_id": "2066420834479325279",
+        "created_at": "2026-06-15T07:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066420834479325279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/aoim33/status/2066174238336409996",
+              "start": 22,
+              "url": "https://t.co/I0r6QnfgPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066420834479325279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066174238336409996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特在一定意义上算是改变了我的人生吧，真的 https://t.co/I0r6QnfgPy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 177,
+          "like_count": 480,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 368
+        },
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "互 fo 请DM（看成分） | 数码博主 | WB@高坂穗奈雪| 米粉、花粉 | JP @RainEngineJapan |\n二代目@RainEngine2024s（生活号）| 感谢@acnekot 送的Premium | 🇸🇬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "RainEngineJapan"
+              },
+              {
+                "end": 82,
+                "start": 66,
+                "username": "RainEngine2024s"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "acnekot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com",
+                "end": 23,
+                "expanded_url": "http://mi.com",
+                "start": 0,
+                "url": "https://t.co/8NnopKeAgF"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "National Gallery Singapore🇸🇬",
+        "name": "高坂穗奈雪",
+        "pinned_tweet_id": "2065617899801501778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063923048898768896/VHFTkbhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 1647,
+          "like_count": 4513,
+          "listed_count": 13,
+          "media_count": 771,
+          "tweet_count": 2655
+        },
+        "url": "https://t.co/8NnopKeAgF",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

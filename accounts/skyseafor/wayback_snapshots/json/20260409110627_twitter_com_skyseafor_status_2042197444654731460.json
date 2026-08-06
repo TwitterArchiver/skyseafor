@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042197435691483136"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2042197444654731460",
+    "created_at": "2026-04-09T11:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T12:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042197444654731460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rf0aX7yVZS",
+          "end": 30,
+          "expanded_url": "https://x.com/skyseafor/status/2042197444654731460/photo/1",
+          "media_key": "3_2042197435691483136",
+          "start": 7,
+          "url": "https://t.co/Rf0aX7yVZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042197444654731460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回宁波咯~~ https://t.co/Rf0aX7yVZS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1755,
+        "media_key": "3_2042197435691483136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdXv2uawAAwCAX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042197435691483136"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2042197444654731460",
+        "created_at": "2026-04-09T11:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042197444654731460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rf0aX7yVZS",
+              "end": 30,
+              "expanded_url": "https://x.com/skyseafor/status/2042197444654731460/photo/1",
+              "media_key": "3_2042197435691483136",
+              "start": 7,
+              "url": "https://t.co/Rf0aX7yVZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042197444654731460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回宁波咯~~ https://t.co/Rf0aX7yVZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "以后拿对象的号发日常吧 原号就不发日常生活了",
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106268956667905/U0s-O2-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 3,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 12
+        },
+        "username": "skyseafor",
+        "verified": false
+      }
+    ]
+  }
+}

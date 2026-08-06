@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2068852807915225100",
+    "created_at": "2026-06-22T07:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068966031289385146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1880217164025839617",
+          "start": 0,
+          "username": "DayGaoLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068966031289385146",
+    "in_reply_to_user_id": "1880217164025839617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068911978345832686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DayGaoLi 闲鱼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2068852807915225100",
+        "created_at": "2026-06-22T07:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068966031289385146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1880217164025839617",
+              "start": 0,
+              "username": "DayGaoLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068966031289385146",
+        "in_reply_to_user_id": "1880217164025839617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068911978345832686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DayGaoLi 闲鱼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880217164025839617",
+        "conversation_id": "2068852807915225100",
+        "created_at": "2026-06-22T04:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068911978345832686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068911978345832686",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068852807915225100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 所以能不能教我未成年怎么开实盘账户"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 184,
+          "like_count": 603,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T11:35:24.000Z",
+        "description": "Language:English,中文,日本語(学ぶing)",
+        "id": "1880217164025839617",
+        "name": "朝陽高黎",
+        "pinned_tweet_id": "1994979837002617177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017541921305165824/qyKyzNng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 2,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 755
+        },
+        "url": "",
+        "username": "DayGaoLi",
+        "verified": true
+      }
+    ]
+  }
+}

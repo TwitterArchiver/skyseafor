@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2065378200285532552",
+    "created_at": "2026-06-12T10:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065378200285532552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qiuxunyu/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/qiuxunyu/status/2065372371863912806",
+          "start": 2,
+          "url": "https://t.co/UOavydROmX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065378200285532552",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065372371863912806",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😅 https://t.co/UOavydROmX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065372358467309568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmtN5ta0AA9DM5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065372358521835520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmtN56a0AAAZg2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2065378200285532552",
+        "created_at": "2026-06-12T10:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065378200285532552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiuxunyu/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/qiuxunyu/status/2065372371863912806",
+              "start": 2,
+              "url": "https://t.co/UOavydROmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065378200285532552",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065372371863912806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😅 https://t.co/UOavydROmX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065372358467309568",
+            "3_2065372358521835520"
+          ]
+        },
+        "author_id": "2007440582797602817",
+        "conversation_id": "2065372371863912806",
+        "created_at": "2026-06-12T09:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065372371863912806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qWFxM6sITE",
+              "end": 68,
+              "expanded_url": "https://x.com/qiuxunyu/status/2065372371863912806/photo/1",
+              "media_key": "3_2065372358467309568",
+              "start": 45,
+              "url": "https://t.co/qWFxM6sITE"
+            },
+            {
+              "display_url": "pic.x.com/qWFxM6sITE",
+              "end": 68,
+              "expanded_url": "https://x.com/qiuxunyu/status/2065372371863912806/photo/1",
+              "media_key": "3_2065372358521835520",
+              "start": 45,
+              "url": "https://t.co/qWFxM6sITE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065372371863912806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时间过的真快一下就到签字part了，要不学考我学习ill把试卷带出来发推？好像有点不敢欸 https://t.co/qWFxM6sITE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 165,
+          "like_count": 332,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 284
+        },
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T13:15:22.000Z",
+        "description": "Mtf/高中在读？/政史地/不od不割手手/天残自恨党/浙江省ip随机//出厂日期2010/1/11/ADHD/26年学考生化史地/同类互fo/",
+        "id": "2007440582797602817",
+        "location": "中山东路",
+        "name": "秋寻雨yu🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043227644230238208/HkkLmE32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 186,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 134
+        },
+        "username": "qiuxunyu",
+        "verified": false
+      }
+    ]
+  }
+}

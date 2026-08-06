@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065384242738237440"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065384252402024452",
+    "created_at": "2026-06-12T10:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065384252402024452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TGn7Omp1GD",
+          "end": 124,
+          "expanded_url": "https://x.com/skyseafor/status/2065384252402024452/photo/1",
+          "media_key": "3_2065384242738237440",
+          "start": 101,
+          "url": "https://t.co/TGn7Omp1GD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065384252402024452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打车到高铁站25块钱 35分钟 \n可是我为什么要 步行10分钟 骑行15分钟 地铁40分钟 爬上百台台阶到进站口\n\n动机是什么 目的又是什么呢  也许这就是年轻的决定吧  少年之风气   席卷华夏大地 https://t.co/TGn7Omp1GD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065384242738237440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm4BqEaEAASCp7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065384242738237440"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065384252402024452",
+        "created_at": "2026-06-12T10:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065384252402024452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGn7Omp1GD",
+              "end": 124,
+              "expanded_url": "https://x.com/skyseafor/status/2065384252402024452/photo/1",
+              "media_key": "3_2065384242738237440",
+              "start": 101,
+              "url": "https://t.co/TGn7Omp1GD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065384252402024452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打车到高铁站25块钱 35分钟 \n可是我为什么要 步行10分钟 骑行15分钟 地铁40分钟 爬上百台台阶到进站口\n\n动机是什么 目的又是什么呢  也许这就是年轻的决定吧  少年之风气   席卷华夏大地 https://t.co/TGn7Omp1GD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 165,
+          "like_count": 334,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 285
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

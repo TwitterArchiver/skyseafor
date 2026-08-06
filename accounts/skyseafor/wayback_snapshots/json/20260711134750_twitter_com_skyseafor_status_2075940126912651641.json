@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2075940126912651641",
+    "created_at": "2026-07-11T13:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075940126912651641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/skyseafor/status/2074759012198064425",
+          "start": 93,
+          "url": "https://t.co/ckx8Oku1z1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075940126912651641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074759012198064425",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要死了  我之前忘记把窗户关上  窗户两边全是我的书本 衣服 药盒  台风要从合肥刮过去 \n\n13号浙江省内所有高铁站全部停运   南京南站 合肥南站也全部停运  没救了 回都回不去了 https://t.co/ckx8Oku1z1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 773,
+        "media_key": "3_2074759006003105792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsGUstbkAAVnB2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2075940126912651641",
+        "created_at": "2026-07-11T13:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075940126912651641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/skyseafor/status/2074759012198064425",
+              "start": 93,
+              "url": "https://t.co/ckx8Oku1z1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075940126912651641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074759012198064425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要死了  我之前忘记把窗户关上  窗户两边全是我的书本 衣服 药盒  台风要从合肥刮过去 \n\n13号浙江省内所有高铁站全部停运   南京南站 合肥南站也全部停运  没救了 回都回不去了 https://t.co/ckx8Oku1z1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074759006003105792"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2074759012198064425",
+        "created_at": "2026-07-08T07:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074759012198064425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3gz8oPmXAq",
+              "end": 64,
+              "expanded_url": "https://x.com/skyseafor/status/2074759012198064425/photo/1",
+              "media_key": "3_2074759006003105792",
+              "start": 41,
+              "url": "https://t.co/3gz8oPmXAq"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/skyseafor/status/2074733176963100754",
+              "start": 65,
+              "url": "https://t.co/w6aAPd5f4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074759012198064425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1160,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074733176963100754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "17级大台风要席卷江浙沪了 赶紧跑到北京避避风头  你们撑住 风头过了我就回来😄 https://t.co/3gz8oPmXAq https://t.co/w6aAPd5f4D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 219,
+          "like_count": 1040,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 709
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

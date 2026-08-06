@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062154252701794304"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2061941856741785632",
+    "created_at": "2026-06-03T12:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062154255155462386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857802986837172224",
+          "start": 0,
+          "username": "LingJiaXin233"
+        },
+        {
+          "end": 27,
+          "id": "1780369819310981120",
+          "start": 15,
+          "username": "520illusion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8k8urrWM8R",
+          "end": 51,
+          "expanded_url": "https://x.com/skyseafor/status/2062154255155462386/photo/1",
+          "media_key": "3_2062154252701794304",
+          "start": 28,
+          "url": "https://t.co/8k8urrWM8R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062154255155462386",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062153821695230154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingJiaXin233 @520illusion https://t.co/8k8urrWM8R"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [520illusion].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "520illusion",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "520illusion"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062154252701794304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4-XfhaAAAuYck.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062154252701794304"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2061941856741785632",
+        "created_at": "2026-06-03T12:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062154255155462386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 27,
+              "id": "1780369819310981120",
+              "start": 15,
+              "username": "520illusion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8k8urrWM8R",
+              "end": 51,
+              "expanded_url": "https://x.com/skyseafor/status/2062154255155462386/photo/1",
+              "media_key": "3_2062154252701794304",
+              "start": 28,
+              "url": "https://t.co/8k8urrWM8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062154255155462386",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062153821695230154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 @520illusion https://t.co/8k8urrWM8R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2061941856741785632",
+        "created_at": "2026-06-03T12:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062153821695230154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            },
+            {
+              "end": 23,
+              "id": "1780369819310981120",
+              "start": 11,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062153821695230154",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062153468597657604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor @520illusion 给你封禁的邮件里面应该会有链接，给premium发就行，我之前误封一个小时就解了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08/许你岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2041587396542918723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 7,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 103
+        },
+        "username": "skyseafor",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6495,
+          "following_count": 525,
+          "like_count": 18937,
+          "listed_count": 14,
+          "media_count": 2099,
+          "tweet_count": 5459
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

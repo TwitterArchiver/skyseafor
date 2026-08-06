@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2081328533864067583",
+    "created_at": "2026-07-26T16:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081416355002347604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1865811054892347392",
+          "start": 0,
+          "username": "YaoieLoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081416355002347604",
+    "in_reply_to_user_id": "1865811054892347392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081411600695939224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YaoieLoop 地平线玩多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2081328533864067583",
+        "created_at": "2026-07-26T16:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081416355002347604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1865811054892347392",
+              "start": 0,
+              "username": "YaoieLoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081416355002347604",
+        "in_reply_to_user_id": "1865811054892347392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081411600695939224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YaoieLoop 地平线玩多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865811054892347392",
+        "conversation_id": "2081328533864067583",
+        "created_at": "2026-07-26T16:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081411600695939224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081411600695939224",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081410835541545175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 本王车技绝佳，绝对补会翻的喵😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 223,
+          "like_count": 1290,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 888
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-08T17:30:10.000Z",
+        "description": "耀夜 | 环路耀夜 | 社恐🥲 | 友跨 |\nNuclear Fusion | Python |\n洛天依 | 全世界最可爱的zaza酱 @Konizaza |\nMinecraft | Left 4 Dead 2 |\nEPL ^ MU | NFL ^ Bengals |\nK-On! | School-Live! |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "Konizaza"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yaoieloop",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yaoieloop",
+                "start": 0,
+                "url": "https://t.co/a2gEtlY4Jy"
+              }
+            ]
+          }
+        },
+        "id": "1865811054892347392",
+        "location": "瓦纳海姆",
+        "name": "yaoie",
+        "pinned_tweet_id": "2081411600695939224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075915292111462400/uZfJlWJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 219,
+          "like_count": 7044,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/a2gEtlY4Jy",
+        "username": "YaoieLoop",
+        "verified": true
+      }
+    ]
+  }
+}

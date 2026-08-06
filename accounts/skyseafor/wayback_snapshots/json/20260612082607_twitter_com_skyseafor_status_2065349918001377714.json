@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2065349918001377714",
+    "created_at": "2026-06-12T08:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T09:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065349918001377714"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065349918001377714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高考考完千万别打工 以后有的是时间打\n\n18岁是人生的夏天 高中毕业的假期也是人生的暑假 不妨做些有意义的事情  寻找一些爱好 认识一些新朋友 去远方旅游 甚至窝在家里打打游戏 都比打工有价值 \n\n说白了 打两个月暑假工 大学开学不到一个月就花完了  纵观青春 划不来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2065349918001377714",
+        "created_at": "2026-06-12T08:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065349918001377714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065349918001377714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考考完千万别打工 以后有的是时间打\n\n18岁是人生的夏天 高中毕业的假期也是人生的暑假 不妨做些有意义的事情  寻找一些爱好 认识一些新朋友 去远方旅游 甚至窝在家里打打游戏 都比打工有价值 \n\n说白了 打两个月暑假工 大学开学不到一个月就花完了  纵观青春 划不来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/永远的南京城/08女高/许你岁岁平安/请不要查我的成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 160,
+          "like_count": 329,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 282
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

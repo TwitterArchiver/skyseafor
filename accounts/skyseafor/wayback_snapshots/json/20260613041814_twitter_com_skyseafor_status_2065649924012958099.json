@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065649917323026432"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2065649924012958099",
+    "created_at": "2026-06-13T04:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065649924012958099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0D3cI8rFtl",
+          "end": 127,
+          "expanded_url": "https://x.com/skyseafor/status/2065649924012958099/photo/1",
+          "media_key": "3_2065649917323026432",
+          "start": 104,
+          "url": "https://t.co/0D3cI8rFtl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065649924012958099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在推特上冲我塔的我不说你什么 \n上了telegram才是我的主场 \n\n从23年接触tg开始 你猜猜我的体量有多大？ 谁是嘉豪心里有点数  我随便一个wallet都够srs好几次😉  某人早点把🐔🐔切了退圈吧 https://t.co/0D3cI8rFtl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 899,
+        "media_key": "3_2065649917323026432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqpp9BaoAAjbh3.jpg",
+        "width": 1730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065649917323026432"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2065649924012958099",
+        "created_at": "2026-06-13T04:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065649924012958099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0D3cI8rFtl",
+              "end": 127,
+              "expanded_url": "https://x.com/skyseafor/status/2065649924012958099/photo/1",
+              "media_key": "3_2065649917323026432",
+              "start": 104,
+              "url": "https://t.co/0D3cI8rFtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065649924012958099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在推特上冲我塔的我不说你什么 \n上了telegram才是我的主场 \n\n从23年接触tg开始 你猜猜我的体量有多大？ 谁是嘉豪心里有点数  我随便一个wallet都够srs好几次😉  某人早点把🐔🐔切了退圈吧 https://t.co/0D3cI8rFtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 171,
+          "like_count": 364,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 301
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}
