@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2089566182529712195",
+    "created_at": "2026-08-18T07:10:05.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T08:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089610771210637364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2057831680308920320",
+          "start": 0,
+          "username": "Wrin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089610771210637364",
+    "in_reply_to_user_id": "2057831680308920320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089608819269853197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wrin520 陈述事实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2089566182529712195",
+        "created_at": "2026-08-18T07:10:05.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T08:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089610771210637364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2057831680308920320",
+              "start": 0,
+              "username": "Wrin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089610771210637364",
+        "in_reply_to_user_id": "2057831680308920320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089608819269853197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wrin520 陈述事实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057831680308920320",
+        "conversation_id": "2089566182529712195",
+        "created_at": "2026-08-18T07:02:20.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T08:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089608819269853197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089608819269853197",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089566182529712195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 最后的很难绷"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2089610771210637364",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 224,
+          "like_count": 1605,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 1143
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T14:31:45.000Z",
+        "description": "我可以不写简介吗\n【灌注塔菲喵 灌注塔菲谢谢喵】\n我是@xiangcai_nya 的第二人格喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "xiangcai_nya"
+              }
+            ]
+          }
+        },
+        "id": "2057831680308920320",
+        "is_identity_verified": false,
+        "location": "NY",
+        "most_recent_tweet_id": "2089609372234334306",
+        "name": "Wrin🍥✝️❤️🔞🚾0️⃣🩸💊💣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057831680308920320/1781621617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074642025744662528/Fk9dt44z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 105,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "Wrin520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

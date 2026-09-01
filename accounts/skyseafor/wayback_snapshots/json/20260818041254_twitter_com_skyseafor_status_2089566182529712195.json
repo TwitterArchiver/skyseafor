@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2089566182529712195",
+    "created_at": "2026-08-18T04:12:54.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089566182529712195"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2089566182529712195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药娘吃糖只是药娘群体中最安全的行为  真正影响寿命的包括但不限于 滥交 殴打警察 自切睾丸 滥用药物 政治敏感 持械凶人 \n\n以及亚硝酸钠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2089566182529712195",
+        "created_at": "2026-08-18T04:12:54.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089566182529712195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089566182529712195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药娘吃糖只是药娘群体中最安全的行为  真正影响寿命的包括但不限于 滥交 殴打警察 自切睾丸 滥用药物 政治敏感 持械凶人 \n\n以及亚硝酸钠"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2089566182529712195",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 224,
+          "like_count": 1602,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 1141
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

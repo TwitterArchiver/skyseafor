@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2089737885993840882",
+    "created_at": "2026-08-18T16:17:30.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T17:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089748531477365210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089748531477365210",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089737885993840882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ 。。。。。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2089737878150791168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQA9hzzbQAAp4oq.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2089737885993840882",
+        "created_at": "2026-08-18T16:17:30.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089748531477365210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089748531477365210",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089737885993840882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ 。。。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089737878150791168"
+          ]
+        },
+        "author_id": "1818257539886460928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2089737885993840882",
+        "created_at": "2026-08-18T15:35:12.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089737885993840882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhYlZf5lxn",
+              "end": 29,
+              "expanded_url": "https://x.com/qqqqqf_/status/2089737885993840882/photo/1",
+              "media_key": "3_2089737878150791168",
+              "start": 6,
+              "url": "https://t.co/lhYlZf5lxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089737885993840882",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089737878150791168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日的晚餐 https://t.co/lhYlZf5lxn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2089748531477365210",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 225,
+          "like_count": 1614,
+          "listed_count": 3,
+          "media_count": 494,
+          "tweet_count": 1155
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "Full Stack Engineer\nBuilding  https://t.co/Q5DJkrjgFa \n博客:https://t.co/YPfuXnDF2c  \nTelegramGroup :https://t.co/GiCrumiqio",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Arkloop.io",
+                "end": 53,
+                "expanded_url": "http://Arkloop.io",
+                "start": 30,
+                "url": "https://t.co/Q5DJkrjgFa"
+              },
+              {
+                "display_url": "清凤.fun",
+                "end": 81,
+                "expanded_url": "https://xn--l9qq99d.fun",
+                "start": 58,
+                "url": "https://t.co/YPfuXnDF2c"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 122,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 99,
+                "url": "https://t.co/GiCrumiqio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmcVI"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2089746093047521643",
+        "name": "清凤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818257539886460928/1770919978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 1036,
+          "like_count": 22302,
+          "listed_count": 6,
+          "media_count": 380,
+          "tweet_count": 1707
+        },
+        "url": "https://t.co/jrg4ChmcVI",
+        "username": "qqqqqf_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

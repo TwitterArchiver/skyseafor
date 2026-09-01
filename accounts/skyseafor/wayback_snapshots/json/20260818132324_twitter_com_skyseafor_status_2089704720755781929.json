@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2089704720755781929",
+    "created_at": "2026-08-18T13:23:24.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T14:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089704720755781929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Irosas_xyn/sta…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/Irosas_xyn/status/2089376512088953002",
+          "start": 52,
+          "url": "https://t.co/iTC2b78sNH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089704720755781929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089376512088953002",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想术……我想瘦……我想要男朋友……我想治好病……我想健全……\n好多好多想的……\n好无力……好绝望…… https://t.co/iTC2b78sNH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2089704720755781929",
+        "created_at": "2026-08-18T13:23:24.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089704720755781929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Irosas_xyn/sta…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/Irosas_xyn/status/2089376512088953002",
+              "start": 52,
+              "url": "https://t.co/iTC2b78sNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089704720755781929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089376512088953002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想术……我想瘦……我想要男朋友……我想治好病……我想健全……\n好多好多想的……\n好无力……好绝望…… https://t.co/iTC2b78sNH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033116026410598400",
+        "conversation_id": "2089376512088953002",
+        "created_at": "2026-08-17T15:39:13.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089376512088953002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089376512088953002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1720,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我想术……我想瘦……我想要男朋友……我想治好病……我想健全……\n好多好多想的……\n好无力……好绝望……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2089704720755781929",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 225,
+          "like_count": 1613,
+          "listed_count": 3,
+          "media_count": 493,
+          "tweet_count": 1152
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF｜双｜出厂日期11.05.12｜🍥26.04.30｜无证｜不OD｜休学ing｜182cm😭\n生在白旗下，长在阴沟里 \n里推：@Irosas_sub\nhttps://t.co/qIlOM00IQY\nhttps://t.co/gIYkKuBCiS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 100,
+                "expanded_url": "http://telegram.me/irosas_xyn",
+                "start": 77,
+                "url": "https://t.co/qIlOM00IQY"
+              },
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 124,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 101,
+                "url": "https://t.co/gIYkKuBCiS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/irosas…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/irosas.bsky.social",
+                "start": 0,
+                "url": "https://t.co/atwlxRSHUE"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "is_identity_verified": false,
+        "location": "Jinan",
+        "most_recent_tweet_id": "2089679117826634206",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2089030794274816442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033116026410598400/1782080137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 418,
+          "like_count": 2306,
+          "listed_count": 6,
+          "media_count": 92,
+          "tweet_count": 1885
+        },
+        "url": "https://t.co/atwlxRSHUE",
+        "username": "Irosas_xyn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

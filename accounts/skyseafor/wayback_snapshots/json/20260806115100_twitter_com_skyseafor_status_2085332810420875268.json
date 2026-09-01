@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085319840802476032"
+      ],
+      "media_source_tweet_id": [
+        "2085320078934073834"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2085332810420875268",
+    "created_at": "2026-08-06T11:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085332810420875268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2265468781",
+          "start": 3,
+          "username": "diaoke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bh5RIAdR0v",
+          "end": 119,
+          "expanded_url": "https://x.com/diaoke/status/2085320078934073834/photo/1",
+          "media_key": "3_2085319840802476032",
+          "start": 96,
+          "url": "https://t.co/Bh5RIAdR0v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085332810420875268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085320078934073834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @diaoke: 之前玩合约破产了，亏光了所有。\n\n现在还欠几个朋友80多万债务，钱准备慢慢还，人已经躺平了。\n\n对于现在的我而言，5万元确实是很大一笔钱了。\n\n夜之城没有活着的传奇。 https://t.co/Bh5RIAdR0v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_2085319840802476032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCLWMIbEAAsztV.jpg",
+        "width": 1568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085319840802476032"
+          ]
+        },
+        "author_id": "2265468781",
+        "conversation_id": "2085320078934073834",
+        "created_at": "2026-08-06T11:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085320078934073834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bh5RIAdR0v",
+              "end": 107,
+              "expanded_url": "https://x.com/diaoke/status/2085320078934073834/photo/1",
+              "media_key": "3_2085319840802476032",
+              "start": 84,
+              "url": "https://t.co/Bh5RIAdR0v"
+            },
+            {
+              "display_url": "x.com/11dizhu/status…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/11dizhu/status/2085297426886545431",
+              "start": 108,
+              "url": "https://t.co/lY4BOaQ0br"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085320078934073834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 16969,
+          "like_count": 58,
+          "quote_count": 5,
+          "reply_count": 39,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085297426886545431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前玩合约破产了，亏光了所有。\n\n现在还欠几个朋友80多万债务，钱准备慢慢还，人已经躺平了。\n\n对于现在的我而言，5万元确实是很大一笔钱了。\n\n夜之城没有活着的传奇。 https://t.co/Bh5RIAdR0v https://t.co/lY4BOaQ0br"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085319840802476032"
+          ],
+          "media_source_tweet_id": [
+            "2085320078934073834"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2085332810420875268",
+        "created_at": "2026-08-06T11:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085332810420875268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2265468781",
+              "start": 3,
+              "username": "diaoke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bh5RIAdR0v",
+              "end": 119,
+              "expanded_url": "https://x.com/diaoke/status/2085320078934073834/photo/1",
+              "media_key": "3_2085319840802476032",
+              "start": 96,
+              "url": "https://t.co/Bh5RIAdR0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085332810420875268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085320078934073834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @diaoke: 之前玩合约破产了，亏光了所有。\n\n现在还欠几个朋友80多万债务，钱准备慢慢还，人已经躺平了。\n\n对于现在的我而言，5万元确实是很大一笔钱了。\n\n夜之城没有活着的传奇。 https://t.co/Bh5RIAdR0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 223,
+          "like_count": 1434,
+          "listed_count": 2,
+          "media_count": 430,
+          "tweet_count": 981
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-28T06:24:02.000Z",
+        "description": "破产负债死宅鼠鼠\n躺平在川崎市  |  吉野家川崎西口店打工中\n想攒钱去下北泽组乐队  |  想转生异世界",
+        "id": "2265468781",
+        "location": "Tokyo, Japan",
+        "name": "雕刻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044267936261849088/QdB84hr6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18737,
+          "following_count": 7644,
+          "like_count": 74,
+          "listed_count": 257,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "diaoke",
+        "verified": true
+      }
+    ]
+  }
+}

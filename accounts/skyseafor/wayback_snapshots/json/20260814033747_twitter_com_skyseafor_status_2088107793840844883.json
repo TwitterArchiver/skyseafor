@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088107784495902720"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2088107793840844883",
+    "created_at": "2026-08-14T03:37:47.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T04:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088107793840844883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9D0DK6gM9F",
+          "end": 122,
+          "expanded_url": "https://x.com/skyseafor/status/2088107793840844883/photo/1",
+          "media_key": "3_2088107784495902720",
+          "start": 99,
+          "url": "https://t.co/9D0DK6gM9F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088107793840844883",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088107784495902720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "补佳乐似乎受到了神秘力量的影响 目前拼多多全网下架   淘宝单价近50元  方舟剑客强制要求上传医院的纸质病历  唯一一道没被封上的门是美团外卖😅😅😅  \n\n得批量囤货了  不然没糖吃就只能吃盐了 https://t.co/9D0DK6gM9F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2238,
+        "media_key": "3_2088107784495902720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpy93ubMAAkEvq.jpg",
+        "width": 1841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088107784495902720"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2088107793840844883",
+        "created_at": "2026-08-14T03:37:47.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088107793840844883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9D0DK6gM9F",
+              "end": 122,
+              "expanded_url": "https://x.com/skyseafor/status/2088107793840844883/photo/1",
+              "media_key": "3_2088107784495902720",
+              "start": 99,
+              "url": "https://t.co/9D0DK6gM9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088107793840844883",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088107784495902720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补佳乐似乎受到了神秘力量的影响 目前拼多多全网下架   淘宝单价近50元  方舟剑客强制要求上传医院的纸质病历  唯一一道没被封上的门是美团外卖😅😅😅  \n\n得批量囤货了  不然没糖吃就只能吃盐了 https://t.co/9D0DK6gM9F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2088107793840844883",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2224,
+          "following_count": 221,
+          "like_count": 1535,
+          "listed_count": 3,
+          "media_count": 471,
+          "tweet_count": 1083
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

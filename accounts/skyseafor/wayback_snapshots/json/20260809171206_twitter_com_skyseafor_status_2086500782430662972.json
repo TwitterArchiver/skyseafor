@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086500751459897344"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2086500782430662972",
+    "created_at": "2026-08-09T17:12:06.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T18:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086500782430662972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nFjySRIx6D",
+          "end": 37,
+          "expanded_url": "https://x.com/skyseafor/status/2086500782430662972/video/1",
+          "media_key": "13_2086500751459897344",
+          "start": 14,
+          "url": "https://t.co/nFjySRIx6D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086500782430662972",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2086500751459897344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "风好大啊我想回家😭😭😭😭😭 https://t.co/nFjySRIx6D"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4119,
+        "height": 1440,
+        "media_key": "13_2086500751459897344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086500751459897344/img/eNR0T1q2o9G2t4T8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086500751459897344/vid/avc1/320x426/nzHfarc0Uit0m5PK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086500751459897344/vid/avc1/480x640/1zDqRiTW6VYnKnul.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086500751459897344/vid/avc1/1080x1440/i-Iy6b4DJKwMe9dd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086500751459897344/pl/FU8HdzRXQSxsnd96.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086500751459897344/vid/avc1/720x960/FMs-HdzDtsj2XLA8.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086500751459897344"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2086500782430662972",
+        "created_at": "2026-08-09T17:12:06.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086500782430662972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFjySRIx6D",
+              "end": 37,
+              "expanded_url": "https://x.com/skyseafor/status/2086500782430662972/video/1",
+              "media_key": "13_2086500751459897344",
+              "start": 14,
+              "url": "https://t.co/nFjySRIx6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086500782430662972",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086500751459897344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "风好大啊我想回家😭😭😭😭😭 https://t.co/nFjySRIx6D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2086500782430662972",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 223,
+          "like_count": 1468,
+          "listed_count": 2,
+          "media_count": 447,
+          "tweet_count": 1016
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

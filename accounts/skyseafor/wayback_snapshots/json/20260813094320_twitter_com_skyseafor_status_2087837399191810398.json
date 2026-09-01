@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2087786889688605045",
+    "created_at": "2026-08-13T09:43:20.000Z",
+    "display_text_range": [
+      12,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087837399191810398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087837399191810398",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087786889688605045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii 干嘛把我的聊天截图发出来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2608,
+        "media_key": "3_2087786779948814336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlPA8mbEAAwap-.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2608,
+        "media_key": "3_2087786805945159680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlPCdcb0AAuINF.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2087786889688605045",
+        "created_at": "2026-08-13T09:43:20.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087837399191810398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087837399191810398",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087786889688605045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 干嘛把我的聊天截图发出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087786779948814336",
+            "3_2087786805945159680"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2087786889688605045",
+        "created_at": "2026-08-13T06:22:38.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087786889688605045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKwbtVEFvm",
+              "end": 37,
+              "expanded_url": "https://x.com/xixikawaii/status/2087786889688605045/photo/1",
+              "media_key": "3_2087786779948814336",
+              "start": 14,
+              "url": "https://t.co/hKwbtVEFvm"
+            },
+            {
+              "display_url": "pic.x.com/hKwbtVEFvm",
+              "end": 37,
+              "expanded_url": "https://x.com/xixikawaii/status/2087786889688605045/photo/1",
+              "media_key": "3_2087786805945159680",
+              "start": 14,
+              "url": "https://t.co/hKwbtVEFvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087786889688605045",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087786779948814336"
+          },
+          {
+            "media_key": "3_2087786805945159680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4964,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帮好闺蜜征个婚😈🩵有意私聊 https://t.co/hKwbtVEFvm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2087837399191810398",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 221,
+          "like_count": 1532,
+          "listed_count": 3,
+          "media_count": 469,
+          "tweet_count": 1077
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "infp | 戒赌 | 每天都要去迪士尼版",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_xixi",
+                "start": 0,
+                "url": "https://t.co/Xf4PjsJNbl"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "is_identity_verified": false,
+        "location": "1000x Meme Alpha 👉🏻",
+        "most_recent_tweet_id": "2087833392134156304",
+        "name": "汐",
+        "pinned_tweet_id": "2074172096805233082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342135083252105216/1744721710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087211873972469760/4j-Bq8a3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49668,
+          "following_count": 1195,
+          "like_count": 15494,
+          "listed_count": 473,
+          "media_count": 5270,
+          "tweet_count": 25717
+        },
+        "url": "https://t.co/Xf4PjsJNbl",
+        "username": "xixikawaii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

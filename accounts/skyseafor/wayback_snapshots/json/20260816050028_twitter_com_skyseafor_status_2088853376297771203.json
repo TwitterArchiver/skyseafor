@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2088845707944108159",
+    "created_at": "2026-08-16T05:00:28.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T06:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088853376297771203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088853376297771203",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088845707944108159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii 那我可要好好鉴赏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9125,
+        "height": 1418,
+        "media_key": "13_2088819645310746624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088819645310746624/img/EqvbztKhvCY53G5q.jpg",
+        "public_metrics": {
+          "view_count": 181
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088819645310746624/vid/avc1/320x630/-q4F89oQk6u-Nl74.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088819645310746624/vid/avc1/480x944/caWvluimvcsXL_KR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088819645310746624/vid/avc1/720x1418/O7MFegRs_pLAYSze.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088819645310746624/pl/vVSKpqH_-I_OQa1D.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2088845707944108159",
+        "created_at": "2026-08-16T05:00:28.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088853376297771203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088853376297771203",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088845707944108159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 那我可要好好鉴赏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088819645310746624"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088845707944108159",
+        "created_at": "2026-08-16T04:30:00.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088845707944108159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dsojSSCwJO",
+              "end": 37,
+              "expanded_url": "https://x.com/xixikawaii/status/2088845707944108159/video/1",
+              "media_key": "13_2088819645310746624",
+              "start": 14,
+              "url": "https://t.co/dsojSSCwJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088845707944108159",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2088819645310746624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 616,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中午饭品尝美味的汐汐叭😋😈 https://t.co/dsojSSCwJO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2088853376297771203",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232,
+          "following_count": 225,
+          "like_count": 1579,
+          "listed_count": 3,
+          "media_count": 486,
+          "tweet_count": 1128
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "infp | 戒赌版 | 搞抽象的 | 每天都要去迪士尼版啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_xixi",
+                "start": 0,
+                "url": "https://t.co/Xf4PjsJNbl"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "is_identity_verified": false,
+        "location": "1000x Meme Alpha 👉🏻",
+        "most_recent_tweet_id": "2088850086537351662",
+        "name": "汐",
+        "pinned_tweet_id": "2074172096805233082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342135083252105216/1744721710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087928357417795584/L5rfApLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50896,
+          "following_count": 1198,
+          "like_count": 15552,
+          "listed_count": 474,
+          "media_count": 5311,
+          "tweet_count": 25892
+        },
+        "url": "https://t.co/Xf4PjsJNbl",
+        "username": "xixikawaii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

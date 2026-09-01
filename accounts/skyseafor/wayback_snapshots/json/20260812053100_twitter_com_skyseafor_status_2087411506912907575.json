@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2087373275399897454",
+    "created_at": "2026-08-12T05:31:00.000Z",
+    "display_text_range": [
+      17,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T06:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087411506912907575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699273459325390848",
+          "start": 0,
+          "username": "DurantRaym93677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087411506912907575",
+    "in_reply_to_user_id": "1699273459325390848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087392803269812342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DurantRaym93677 长风吹过林梢 彼时他们正当年少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2087373275399897454",
+        "created_at": "2026-08-12T05:31:00.000Z",
+        "display_text_range": [
+          17,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087411506912907575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699273459325390848",
+              "start": 0,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087411506912907575",
+        "in_reply_to_user_id": "1699273459325390848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087392803269812342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DurantRaym93677 长风吹过林梢 彼时他们正当年少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699273459325390848",
+        "conversation_id": "2087373275399897454",
+        "created_at": "2026-08-12T04:16:40.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087392803269812342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087392803269812342",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087373275399897454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 对南京的感情这么深吗（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2087411506912907575",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 221,
+          "like_count": 1526,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 1069
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼 🔑サブ: @AmmieColl84391 (フォロー歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @Chiyorin0908",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "enchenia"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Chiyorin0908"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2087392803269812342",
+        "name": "Luke 鈴木 さくらみ⛩️",
+        "pinned_tweet_id": "1991763708138397781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699273459325390848/1738540793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3657,
+          "following_count": 4232,
+          "like_count": 52677,
+          "listed_count": 16,
+          "media_count": 629,
+          "tweet_count": 12632
+        },
+        "url": "",
+        "username": "DurantRaym93677",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

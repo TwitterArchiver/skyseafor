@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2086768877183090965",
+    "created_at": "2026-08-10T10:57:25.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T11:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086768877183090965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DustSwallo1580…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/DustSwallo15805/status/2086424877083550175",
+          "start": 18,
+          "url": "https://t.co/1nlFcmoCr3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086768877183090965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086424877083550175",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "总是感觉有人要把我抢走当老婆怎么办 https://t.co/1nlFcmoCr3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2086768877183090965",
+        "created_at": "2026-08-10T10:57:25.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086768877183090965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DustSwallo1580…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/DustSwallo15805/status/2086424877083550175",
+              "start": 18,
+              "url": "https://t.co/1nlFcmoCr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086768877183090965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086424877083550175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总是感觉有人要把我抢走当老婆怎么办 https://t.co/1nlFcmoCr3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2086424877083550175",
+        "created_at": "2026-08-09T12:10:29.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086424877083550175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yongquan/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/yongquan/status/2086080698738237937",
+              "start": 17,
+              "url": "https://t.co/N84pjA70WO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086424877083550175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 787,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086080698738237937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总是感觉有人要抢走我的老婆怎么办 https://t.co/N84pjA70WO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2086768877183090965",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 223,
+          "like_count": 1486,
+          "listed_count": 2,
+          "media_count": 457,
+          "tweet_count": 1030
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2086736655222972916",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 987,
+          "like_count": 95766,
+          "listed_count": 6,
+          "media_count": 788,
+          "tweet_count": 4875
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

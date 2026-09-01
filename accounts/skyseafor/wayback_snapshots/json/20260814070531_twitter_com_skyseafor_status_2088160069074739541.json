@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2088107793840844883",
+    "created_at": "2026-08-14T07:05:31.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T08:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088160069074739541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857802986837172224",
+          "start": 0,
+          "username": "LingJiaXin233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088160069074739541",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088155966227263656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingJiaXin233 原来你也翻车了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 596,
+        "media_key": "3_2088155959227015168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqeyAlXYAABhJ7.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2088107793840844883",
+        "created_at": "2026-08-14T07:05:31.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088160069074739541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088160069074739541",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088155966227263656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 原来你也翻车了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088155959227015168"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2088107793840844883",
+        "created_at": "2026-08-14T06:49:13.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088155966227263656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0IBKMXLWw9",
+              "end": 46,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2088155966227263656/photo/1",
+              "media_key": "3_2088155959227015168",
+              "start": 23,
+              "url": "https://t.co/0IBKMXLWw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088155966227263656",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088155959227015168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088107793840844883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor fake \njd随便买 https://t.co/0IBKMXLWw9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2088160069074739541",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2223,
+          "following_count": 221,
+          "like_count": 1540,
+          "listed_count": 3,
+          "media_count": 471,
+          "tweet_count": 1085
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2088155966227263656",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8871,
+          "following_count": 410,
+          "like_count": 20570,
+          "listed_count": 21,
+          "media_count": 2876,
+          "tweet_count": 6591
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

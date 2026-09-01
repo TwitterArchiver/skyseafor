@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088770906080550913",
+        "3_2088770930092978176"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2088770940821971072",
+    "created_at": "2026-08-15T23:32:54.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T00:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088770940821971072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yh98T4mZqH",
+          "end": 60,
+          "expanded_url": "https://x.com/skyseafor/status/2088770940821971072/photo/1",
+          "media_key": "3_2088770906080550913",
+          "start": 37,
+          "url": "https://t.co/yh98T4mZqH"
+        },
+        {
+          "display_url": "pic.x.com/yh98T4mZqH",
+          "end": 60,
+          "expanded_url": "https://x.com/skyseafor/status/2088770940821971072/photo/1",
+          "media_key": "3_2088770930092978176",
+          "start": 37,
+          "url": "https://t.co/yh98T4mZqH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088770940821971072",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088770906080550913"
+      },
+      {
+        "media_key": "3_2088770930092978176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "凑战备中 今天准备去南京梧桐大道 😋\n\n附一张正装图片  准备换皮肤 ！ https://t.co/yh98T4mZqH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088770906080550913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzOEoIaIAE6czJ.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2088770930092978176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzOGBlasAAP0MX.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088770906080550913",
+            "3_2088770930092978176"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2088770940821971072",
+        "created_at": "2026-08-15T23:32:54.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T00:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088770940821971072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yh98T4mZqH",
+              "end": 60,
+              "expanded_url": "https://x.com/skyseafor/status/2088770940821971072/photo/1",
+              "media_key": "3_2088770906080550913",
+              "start": 37,
+              "url": "https://t.co/yh98T4mZqH"
+            },
+            {
+              "display_url": "pic.x.com/yh98T4mZqH",
+              "end": 60,
+              "expanded_url": "https://x.com/skyseafor/status/2088770940821971072/photo/1",
+              "media_key": "3_2088770930092978176",
+              "start": 37,
+              "url": "https://t.co/yh98T4mZqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088770940821971072",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088770906080550913"
+          },
+          {
+            "media_key": "3_2088770930092978176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凑战备中 今天准备去南京梧桐大道 😋\n\n附一张正装图片  准备换皮肤 ！ https://t.co/yh98T4mZqH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2088770940821971072",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 224,
+          "like_count": 1574,
+          "listed_count": 3,
+          "media_count": 484,
+          "tweet_count": 1118
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

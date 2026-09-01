@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2085320078934073834",
+    "created_at": "2026-08-06T11:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085332716388831409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2265468781",
+          "start": 0,
+          "username": "diaoke"
+        },
+        {
+          "end": 19,
+          "id": "1342135083252105216",
+          "start": 8,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085332716388831409",
+    "in_reply_to_user_id": "2265468781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085331546496786500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diaoke @xixikawaii 雕刻老师再带我冲一回吧 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2085320078934073834",
+        "created_at": "2026-08-06T11:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085332716388831409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2265468781",
+              "start": 0,
+              "username": "diaoke"
+            },
+            {
+              "end": 19,
+              "id": "1342135083252105216",
+              "start": 8,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085332716388831409",
+        "in_reply_to_user_id": "2265468781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085331546496786500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diaoke @xixikawaii 雕刻老师再带我冲一回吧 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2265468781",
+        "conversation_id": "2085320078934073834",
+        "created_at": "2026-08-06T11:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085331546496786500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085331546496786500",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085331106413658193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 哈基汐😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 223,
+          "like_count": 1434,
+          "listed_count": 2,
+          "media_count": 430,
+          "tweet_count": 980
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-28T06:24:02.000Z",
+        "description": "破产负债死宅鼠鼠\n躺平在川崎市  |  吉野家川崎西口店打工中\n想攒钱去下北泽组乐队  |  想转生异世界",
+        "id": "2265468781",
+        "location": "Tokyo, Japan",
+        "name": "雕刻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044267936261849088/QdB84hr6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18735,
+          "following_count": 7644,
+          "like_count": 74,
+          "listed_count": 257,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "diaoke",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "infp | 戒赌 | 每天都要去迪士尼版",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_xixi",
+                "start": 0,
+                "url": "https://t.co/TSnaf4GCXY"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "location": "1000x Meme Alpha 👉🏻",
+        "name": "汐",
+        "pinned_tweet_id": "2074172096805233082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081397697450496000/Lp1pngND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48321,
+          "following_count": 1190,
+          "like_count": 15419,
+          "listed_count": 472,
+          "media_count": 5169,
+          "tweet_count": 25260
+        },
+        "url": "https://t.co/TSnaf4GCXY",
+        "username": "xixikawaii",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2087411164200444096",
+    "created_at": "2026-08-12T15:33:54.000Z",
+    "display_text_range": [
+      16,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T16:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087563234064974190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1024413120",
+          "start": 0,
+          "username": "jianzhengdashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087563234064974190",
+    "in_reply_to_user_id": "1024413120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087471832098296094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianzhengdashi 他吓唬我的  押金完全能覆盖赔偿  我问了律师 律师说那种人纯sb 拿着鸡毛当令箭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2087411164200444096",
+        "created_at": "2026-08-12T15:33:54.000Z",
+        "display_text_range": [
+          16,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087563234064974190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1024413120",
+              "start": 0,
+              "username": "jianzhengdashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087563234064974190",
+        "in_reply_to_user_id": "1024413120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087471832098296094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianzhengdashi 他吓唬我的  押金完全能覆盖赔偿  我问了律师 律师说那种人纯sb 拿着鸡毛当令箭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1024413120",
+        "conversation_id": "2087411164200444096",
+        "created_at": "2026-08-12T09:30:42.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087471832098296094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087471832098296094",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087411164200444096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 你干嘛了，房东还不怕麻烦起诉你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2087563234064974190",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 221,
+          "like_count": 1528,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 1070
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-12-20T15:05:27.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiongan.gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.xiongan.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/DoXb1yc1GX"
+              }
+            ]
+          }
+        },
+        "id": "1024413120",
+        "is_identity_verified": false,
+        "location": "容城县奥威东路100号",
+        "most_recent_tweet_id": "2087536352380469623",
+        "name": "别看你今天闹得欢",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734164182168403968/--OUmf0h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 95,
+          "like_count": 1419,
+          "listed_count": 6,
+          "media_count": 652,
+          "tweet_count": 7907
+        },
+        "url": "https://t.co/DoXb1yc1GX",
+        "username": "jianzhengdashi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088559228143513600"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2088559294669295802",
+    "created_at": "2026-08-15T09:31:54.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088559294669295802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sU1iWE0hkD",
+          "end": 128,
+          "expanded_url": "https://x.com/skyseafor/status/2088559294669295802/photo/1",
+          "media_key": "3_2088559228143513600",
+          "start": 105,
+          "url": "https://t.co/sU1iWE0hkD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088559294669295802",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088559228143513600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本来打算在南京住一段时间再走  但是突然意识到这么梦幻的南京城 我得穿正装啊  我决定先去合肥换个皮肤  明天再回南京 😋😋😋\n\n嗯 jk格子 水手服 水色系 暮色玫瑰 洛丽塔\n选哪个比较好呢 真纠结呢 🤗🤗 https://t.co/sU1iWE0hkD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2935,
+        "media_key": "3_2088559228143513600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwNjWXbsAAvuOb.jpg",
+        "width": 4077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088559228143513600"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2088559294669295802",
+        "created_at": "2026-08-15T09:31:54.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088559294669295802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sU1iWE0hkD",
+              "end": 128,
+              "expanded_url": "https://x.com/skyseafor/status/2088559294669295802/photo/1",
+              "media_key": "3_2088559228143513600",
+              "start": 105,
+              "url": "https://t.co/sU1iWE0hkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088559294669295802",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088559228143513600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来打算在南京住一段时间再走  但是突然意识到这么梦幻的南京城 我得穿正装啊  我决定先去合肥换个皮肤  明天再回南京 😋😋😋\n\n嗯 jk格子 水手服 水色系 暮色玫瑰 洛丽塔\n选哪个比较好呢 真纠结呢 🤗🤗 https://t.co/sU1iWE0hkD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2088559294669295802",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 223,
+          "like_count": 1557,
+          "listed_count": 3,
+          "media_count": 481,
+          "tweet_count": 1107
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

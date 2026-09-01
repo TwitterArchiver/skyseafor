@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089642596775956480"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089642608926843219",
+    "created_at": "2026-08-18T09:16:36.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T10:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089642608926843219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/byJklooOZf",
+          "end": 160,
+          "expanded_url": "https://x.com/skyseafor/status/2089642608926843219/photo/1",
+          "media_key": "3_2089642596775956480",
+          "start": 137,
+          "url": "https://t.co/byJklooOZf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089642608926843219",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089642596775956480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚为了睡一个好觉 吃了五倍剂量的镇静剂和降压药 为了赶去南京的高铁 睡眠不够 在高铁上人半昏迷  到现在都没缓过来  20个小时没吃东西了 喝了几口水  \n\n我做了一个梦 梦里的我再也没醒过来 \n好痛苦 我希望梦是真的  我希望梦是假的\n\n希望能恢复 明天我想去梧桐大道 https://t.co/byJklooOZf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3604,
+        "media_key": "3_2089642596775956480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_m3tBbEAAWdc2.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089642596775956480"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089642608926843219",
+        "created_at": "2026-08-18T09:16:36.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089642608926843219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/byJklooOZf",
+              "end": 160,
+              "expanded_url": "https://x.com/skyseafor/status/2089642608926843219/photo/1",
+              "media_key": "3_2089642596775956480",
+              "start": 137,
+              "url": "https://t.co/byJklooOZf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089642608926843219",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089642596775956480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚为了睡一个好觉 吃了五倍剂量的镇静剂和降压药 为了赶去南京的高铁 睡眠不够 在高铁上人半昏迷  到现在都没缓过来  20个小时没吃东西了 喝了几口水  \n\n我做了一个梦 梦里的我再也没醒过来 \n好痛苦 我希望梦是真的  我希望梦是假的\n\n希望能恢复 明天我想去梧桐大道 https://t.co/byJklooOZf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2089642608926843219",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 224,
+          "like_count": 1607,
+          "listed_count": 3,
+          "media_count": 492,
+          "tweet_count": 1145
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

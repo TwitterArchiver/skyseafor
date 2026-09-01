@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088497382992523264",
+        "3_2088497396808634368",
+        "3_2088497417448812544",
+        "3_2088497431218667520"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2088497443684106600",
+    "created_at": "2026-08-15T05:26:07.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T06:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088497443684106600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CazmEL0XSq",
+          "end": 41,
+          "expanded_url": "https://x.com/skyseafor/status/2088497443684106600/photo/1",
+          "media_key": "3_2088497382992523264",
+          "start": 18,
+          "url": "https://t.co/CazmEL0XSq"
+        },
+        {
+          "display_url": "pic.x.com/CazmEL0XSq",
+          "end": 41,
+          "expanded_url": "https://x.com/skyseafor/status/2088497443684106600/photo/1",
+          "media_key": "3_2088497396808634368",
+          "start": 18,
+          "url": "https://t.co/CazmEL0XSq"
+        },
+        {
+          "display_url": "pic.x.com/CazmEL0XSq",
+          "end": 41,
+          "expanded_url": "https://x.com/skyseafor/status/2088497443684106600/photo/1",
+          "media_key": "3_2088497417448812544",
+          "start": 18,
+          "url": "https://t.co/CazmEL0XSq"
+        },
+        {
+          "display_url": "pic.x.com/CazmEL0XSq",
+          "end": 41,
+          "expanded_url": "https://x.com/skyseafor/status/2088497443684106600/photo/1",
+          "media_key": "3_2088497431218667520",
+          "start": 18,
+          "url": "https://t.co/CazmEL0XSq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088497443684106600",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088497382992523264"
+      },
+      {
+        "media_key": "3_2088497396808634368"
+      },
+      {
+        "media_key": "3_2088497417448812544"
+      },
+      {
+        "media_key": "3_2088497431218667520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当你18岁一个人来到南京就会看到： https://t.co/CazmEL0XSq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2088497382992523264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvVTfOaMAAXOZg.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2088497396808634368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvVUSsbUAAbXm4.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2088497417448812544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvVVflbcAAv_AM.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2088497431218667520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvVWS4awAAcyCY.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088497382992523264",
+            "3_2088497396808634368",
+            "3_2088497417448812544",
+            "3_2088497431218667520"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2088497443684106600",
+        "created_at": "2026-08-15T05:26:07.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088497443684106600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CazmEL0XSq",
+              "end": 41,
+              "expanded_url": "https://x.com/skyseafor/status/2088497443684106600/photo/1",
+              "media_key": "3_2088497382992523264",
+              "start": 18,
+              "url": "https://t.co/CazmEL0XSq"
+            },
+            {
+              "display_url": "pic.x.com/CazmEL0XSq",
+              "end": 41,
+              "expanded_url": "https://x.com/skyseafor/status/2088497443684106600/photo/1",
+              "media_key": "3_2088497396808634368",
+              "start": 18,
+              "url": "https://t.co/CazmEL0XSq"
+            },
+            {
+              "display_url": "pic.x.com/CazmEL0XSq",
+              "end": 41,
+              "expanded_url": "https://x.com/skyseafor/status/2088497443684106600/photo/1",
+              "media_key": "3_2088497417448812544",
+              "start": 18,
+              "url": "https://t.co/CazmEL0XSq"
+            },
+            {
+              "display_url": "pic.x.com/CazmEL0XSq",
+              "end": 41,
+              "expanded_url": "https://x.com/skyseafor/status/2088497443684106600/photo/1",
+              "media_key": "3_2088497431218667520",
+              "start": 18,
+              "url": "https://t.co/CazmEL0XSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088497443684106600",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088497382992523264"
+          },
+          {
+            "media_key": "3_2088497396808634368"
+          },
+          {
+            "media_key": "3_2088497417448812544"
+          },
+          {
+            "media_key": "3_2088497431218667520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你18岁一个人来到南京就会看到： https://t.co/CazmEL0XSq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2088497443684106600",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 223,
+          "like_count": 1550,
+          "listed_count": 3,
+          "media_count": 475,
+          "tweet_count": 1097
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

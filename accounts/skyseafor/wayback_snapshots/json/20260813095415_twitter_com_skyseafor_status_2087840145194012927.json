@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2087840145194012927",
+    "created_at": "2026-08-13T09:54:15.000Z",
+    "display_text_range": [
+      0,
+      151
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087840145194012927"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087840145194012927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我怀疑我身体是不是变异了  超3倍使用降压药没反应 我以为是国产药换成了进口原研的  并且剂量加了5倍 结果还是跟没吃一样  同时我联合服用了多种大剂量七元含氮杂环化合物  除了头痛 一点反应都没有 \n\n同样的 补佳乐最高峰一天7片 持续了一个月 身体愣是一点变化没有 色普龙螺内酯也一样 药效 副作用 均不显现  不知道以后真生病的时候还会不会有药可用"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我怀疑我身体是不是变异了  超3倍使用降压药没反应 我以为是国产药换成了进口原研的  并且剂量加了5倍 结果还是跟没吃一样  同时我联合服用了多种大剂量七元含氮杂环化合物  除了头痛 一点反应都没有 \n\n同样的 补佳乐最高峰一天7片 持续了一个月 身体愣是一点变化没有 色普龙螺内酯也一样 药效 副作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2087840145194012927",
+        "created_at": "2026-08-13T09:54:15.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087840145194012927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087840145194012927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我怀疑我身体是不是变异了  超3倍使用降压药没反应 我以为是国产药换成了进口原研的  并且剂量加了5倍 结果还是跟没吃一样  同时我联合服用了多种大剂量七元含氮杂环化合物  除了头痛 一点反应都没有 \n\n同样的 补佳乐最高峰一天7片 持续了一个月 身体愣是一点变化没有 色普龙螺内酯也一样 药效 副作用 均不显现  不知道以后真生病的时候还会不会有药可用"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怀疑我身体是不是变异了  超3倍使用降压药没反应 我以为是国产药换成了进口原研的  并且剂量加了5倍 结果还是跟没吃一样  同时我联合服用了多种大剂量七元含氮杂环化合物  除了头痛 一点反应都没有 \n\n同样的 补佳乐最高峰一天7片 持续了一个月 身体愣是一点变化没有 色普龙螺内酯也一样 药效 副作用"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2087840145194012927",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 221,
+          "like_count": 1532,
+          "listed_count": 3,
+          "media_count": 469,
+          "tweet_count": 1078
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

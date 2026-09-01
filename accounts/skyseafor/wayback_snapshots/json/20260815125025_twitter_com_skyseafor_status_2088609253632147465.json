@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2088583439746203682",
+    "created_at": "2026-08-15T12:50:25.000Z",
+    "display_text_range": [
+      11,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T13:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088609253632147465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016246570312990720",
+          "start": 0,
+          "username": "YuChenawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088609253632147465",
+    "in_reply_to_user_id": "2016246570312990720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088598342637146329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuChenawa 我还会回来的 就明天！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2088583439746203682",
+        "created_at": "2026-08-15T12:50:25.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088609253632147465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016246570312990720",
+              "start": 0,
+              "username": "YuChenawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088609253632147465",
+        "in_reply_to_user_id": "2016246570312990720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088598342637146329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuChenawa 我还会回来的 就明天！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016246570312990720",
+        "conversation_id": "2088583439746203682",
+        "created_at": "2026-08-15T12:07:03.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088598342637146329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088598342637146329",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088583439746203682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 永远的南京城"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2088609253632147465",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2228,
+          "following_count": 223,
+          "like_count": 1570,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 1112
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T20:27:15.000Z",
+        "description": "这里的每一种颜色，都有属于你勇敢做自己的身影",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchen86833",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuchen86833",
+                "start": 0,
+                "url": "https://t.co/vconkxHXnn"
+              }
+            ]
+          }
+        },
+        "id": "2016246570312990720",
+        "is_identity_verified": false,
+        "location": "天堂✝️",
+        "most_recent_tweet_id": "2088599135738110338",
+        "name": "𝒴𝓊𝒸𝒽ℯ𝓃",
+        "pinned_tweet_id": "2060749702883332402",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016246570312990720/1769808210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017348660867305473/hJCnFu9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 539,
+          "like_count": 4822,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/vconkxHXnn",
+        "username": "YuChenawa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

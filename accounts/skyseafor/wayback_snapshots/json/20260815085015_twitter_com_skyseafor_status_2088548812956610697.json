@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2088532401958088718",
+    "created_at": "2026-08-15T08:50:15.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088548812956610697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1945334723628437504",
+          "start": 0,
+          "username": "10xmx01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088548812956610697",
+    "in_reply_to_user_id": "1945334723628437504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088544823602999571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10xmx01 明白了 拉黑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2088532401958088718",
+        "created_at": "2026-08-15T08:50:15.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088548812956610697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945334723628437504",
+              "start": 0,
+              "username": "10xmx01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088548812956610697",
+        "in_reply_to_user_id": "1945334723628437504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088544823602999571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10xmx01 明白了 拉黑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945334723628437504",
+        "conversation_id": "2088532401958088718",
+        "created_at": "2026-08-15T08:34:23.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088544823602999571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088544823602999571",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088532401958088718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 神经病"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2088548812956610697",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 223,
+          "like_count": 1557,
+          "listed_count": 3,
+          "media_count": 480,
+          "tweet_count": 1106
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T04:09:04.000Z",
+        "description": "ADHD\n无用的人",
+        "id": "1945334723628437504",
+        "is_identity_verified": false,
+        "location": "五角场",
+        "most_recent_tweet_id": "2088544823602999571",
+        "name": "鲨比OUO",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945334723628437504/1786356628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055348696234221568/AlioBl6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 111,
+          "like_count": 25685,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1313
+        },
+        "url": "",
+        "username": "10xmx01",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

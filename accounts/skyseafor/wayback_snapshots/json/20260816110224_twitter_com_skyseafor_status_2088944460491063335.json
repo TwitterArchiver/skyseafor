@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2088936743836041472",
+    "created_at": "2026-08-16T11:02:24.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T12:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088944460491063335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2265468781",
+          "start": 0,
+          "username": "diaoke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088944460491063335",
+    "in_reply_to_user_id": "2265468781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088936743836041472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diaoke 雕刻老师😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2088936743836041472",
+        "created_at": "2026-08-16T11:02:24.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088944460491063335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2265468781",
+              "start": 0,
+              "username": "diaoke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088944460491063335",
+        "in_reply_to_user_id": "2265468781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088936743836041472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diaoke 雕刻老师😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2265468781",
+        "conversation_id": "2088936743836041472",
+        "created_at": "2026-08-16T10:31:44.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088936743836041472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088936743836041472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 697,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候会觉得，美少女应该是不会上厕所的吧……\n\n一想到美少女也会拉肚子，天都塌了。\n\n虽然理智告诉我美少女也是人，但是有没有人和我有同感的？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2088944460491063335",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2228,
+          "following_count": 224,
+          "like_count": 1586,
+          "listed_count": 3,
+          "media_count": 486,
+          "tweet_count": 1129
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-12-28T06:24:02.000Z",
+        "description": "破产负债死宅鼠鼠\n躺平在川崎市 | 吉野家川崎西口店打工中\n想攒钱去下北泽组乐队 | 想转生异世界",
+        "id": "2265468781",
+        "is_identity_verified": false,
+        "location": "Tokyo, Japan",
+        "most_recent_tweet_id": "2088936743836041472",
+        "name": "雕刻",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2265468781/1786073214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044267936261849088/QdB84hr6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20821,
+          "following_count": 7658,
+          "like_count": 74,
+          "listed_count": 266,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "diaoke",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

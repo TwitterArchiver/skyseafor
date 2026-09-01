@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2088804243193155779",
+    "created_at": "2026-08-16T01:45:14.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T02:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088804243193155779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/skyseafor/status/2088795501244342293",
+          "start": 46,
+          "url": "https://t.co/MWC5LQ8Xj8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088804243193155779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088795501244342293",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然意识到今天是周末 人很多  我决定先去医院复查一下 明天再去南京  人太多好羞耻的 😭 https://t.co/MWC5LQ8Xj8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088795485507395584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzkbVoboAAcy-M.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2088804243193155779",
+        "created_at": "2026-08-16T01:45:14.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088804243193155779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/skyseafor/status/2088795501244342293",
+              "start": 46,
+              "url": "https://t.co/MWC5LQ8Xj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088804243193155779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088795501244342293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然意识到今天是周末 人很多  我决定先去医院复查一下 明天再去南京  人太多好羞耻的 😭 https://t.co/MWC5LQ8Xj8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088795485507395584"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2088795501244342293",
+        "created_at": "2026-08-16T01:10:30.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088795501244342293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qu9mJ5eKFa",
+              "end": 48,
+              "expanded_url": "https://x.com/skyseafor/status/2088795501244342293/photo/1",
+              "media_key": "3_2088795485507395584",
+              "start": 25,
+              "url": "https://t.co/Qu9mJ5eKFa"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/skyseafor/status/2088770940821971072",
+              "start": 49,
+              "url": "https://t.co/4LVpnEMRPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088795501244342293",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088795485507395584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088770940821971072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ill荣耀典藏无双限定皮肤  出发 先去合肥南站 https://t.co/Qu9mJ5eKFa https://t.co/4LVpnEMRPP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2088804243193155779",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2228,
+          "following_count": 224,
+          "like_count": 1574,
+          "listed_count": 3,
+          "media_count": 485,
+          "tweet_count": 1120
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

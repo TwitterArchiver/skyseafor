@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1995266194576961536",
+    "conversation_id": "2088830979486159346",
+    "created_at": "2026-08-16T03:31:28.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088830979486159346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/skyseafor/status/2088809758153388033",
+          "start": 42,
+          "url": "https://t.co/oDGA6dtbjJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088830979486159346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088809758153388033",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈哈哈医生说我可以开pr80哈哈哈哈哈真的绷不住  我真的痛啊 浑身痛！😄 https://t.co/oDGA6dtbjJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088809746107371520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzxZagakAAW025.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2088830979486159346",
+        "created_at": "2026-08-16T03:31:28.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088830979486159346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/skyseafor/status/2088809758153388033",
+              "start": 42,
+              "url": "https://t.co/oDGA6dtbjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088830979486159346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088809758153388033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈哈医生说我可以开pr80哈哈哈哈哈真的绷不住  我真的痛啊 浑身痛！😄 https://t.co/oDGA6dtbjJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088809746107371520"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2088809758153388033",
+        "created_at": "2026-08-16T02:07:09.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088809758153388033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWx8jV05LT",
+              "end": 43,
+              "expanded_url": "https://x.com/skyseafor/status/2088809758153388033/photo/1",
+              "media_key": "3_2088809746107371520",
+              "start": 20,
+              "url": "https://t.co/TWx8jV05LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088809758153388033",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088809746107371520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生我浑身都痛啊😭 菜单发我 我要点菜 https://t.co/TWx8jV05LT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion  / crypto / binance okx bitget / 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 136,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 113,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2088830979486159346",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 224,
+          "like_count": 1576,
+          "listed_count": 3,
+          "media_count": 486,
+          "tweet_count": 1124
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086498014215147520"
+      ]
+    },
+    "author_id": "1995266194576961536",
+    "conversation_id": "2086498023266504731",
+    "created_at": "2026-08-09T17:01:08.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T18:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086498023266504731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zC8m2iHSsM",
+          "end": 44,
+          "expanded_url": "https://x.com/skyseafor/status/2086498023266504731/photo/1",
+          "media_key": "3_2086498014215147520",
+          "start": 21,
+          "url": "https://t.co/zC8m2iHSsM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086498023266504731",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086498014215147520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好吧 台风天打伞确实没啥用  已经全湿了 https://t.co/zC8m2iHSsM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3280,
+        "media_key": "3_2086498014215147520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPS646HaEAAVEl7.jpg",
+        "width": 2464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086498014215147520"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2086498023266504731",
+        "created_at": "2026-08-09T17:01:08.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086498023266504731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zC8m2iHSsM",
+              "end": 44,
+              "expanded_url": "https://x.com/skyseafor/status/2086498023266504731/photo/1",
+              "media_key": "3_2086498014215147520",
+              "start": 21,
+              "url": "https://t.co/zC8m2iHSsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086498023266504731",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086498014215147520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧 台风天打伞确实没啥用  已经全湿了 https://t.co/zC8m2iHSsM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起 tg： https://t.co/9xZ5dEnDUf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 106,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 83,
+                "url": "https://t.co/9xZ5dEnDUf"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "is_identity_verified": false,
+        "location": "宁波大学医学院",
+        "most_recent_tweet_id": "2086498023266504731",
+        "name": "sky ill",
+        "pinned_tweet_id": "2080948197254738134",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 223,
+          "like_count": 1468,
+          "listed_count": 2,
+          "media_count": 446,
+          "tweet_count": 1015
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
